@@ -242,7 +242,8 @@
 	    },
 	    "comment" : {
 		"file" : "AvenirNext-Regular.otf",
-		"size" : 12
+		"size" : 12,
+		"background": "white",
 	    },
 	    "tab" : {
 		"name" : "Courier",
