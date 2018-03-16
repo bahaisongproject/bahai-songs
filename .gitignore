@@ -1,2 +1,5 @@
 ## Editor configuration
 .vscode
+
+## OS files
+.DS_Store
