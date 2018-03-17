@@ -19,7 +19,7 @@ all: $(objects)
 
 # Recipe for converting a ChordPro file into PDF and stamping on a watermark
 $(output)/%.pdf: $(source)/%.pro
-	@make echo Making $@
+	@echo Making $@
 	@chordpro $< --config=config.json -o $@
 	@pdftk $@ stamp static/watermark/watermark.pdf output $@_
 	@mv $@_ $@
