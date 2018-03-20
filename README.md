@@ -5,7 +5,9 @@
 ## Getting Started
 
 - Install `chordpro`: https://www.chordpro.org/chordpro/ChordPro-Installation.html
-- Install `pdftk` version 2.0.2: https://www.pdflabs.com/docs/pdftk-version-history/ (only needed for adding the bahá'í song project logo -- you can also skip this and remove the the command in the Makefile)
+
+Optional (only needed for adding the bahá'í song project logo -- you can also skip this and remove the the command in the Makefile):
+- Install `pdftk`: https://www.pdflabs.com/docs/pdftk-version-history/ (`sudo apt install pdftk` on Ubuntu)
 
 Clone the repository: `git clone git@github.com:daysm/bahai-songs.git`
 
