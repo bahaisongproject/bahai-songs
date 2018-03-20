@@ -13,7 +13,7 @@
      - Install chordpro: `sudo cpan install chordpro`
      - Install pdftk: `sudo apt install pdftk`
 
-__Note__: pdftk is only needed for adding the bahá'í song project logo -- you can also skip this and remove the the command in the Makefile.
+__Note__: pdftk is only needed for adding the bahá'í song project logo -- you can also skip this and remove the command in the Makefile.
 
 
 
