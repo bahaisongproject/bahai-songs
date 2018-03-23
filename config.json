@@ -96,8 +96,8 @@
 	// Note that top/bottom exclude the head/footspace.
 	"margintop"    :  100,
 	"marginbottom" :  60,
-	"marginleft"   :  90,
-	"marginright"  :  90,
+	"marginleft"   :  70,
+	"marginright"  :  70,
 	"headspace"    :  55,
 	"footspace"    :  20,
 
@@ -192,9 +192,9 @@
 
 	    // By default, a page has:
 	    "default" : {
-	        // Title and subtitle.
+	        // Header.
 	    	"title"     : [ "%{author}", "", " %{composer}" ],
-		// Footer.
+			// Footer.
 	    	"footer"    : [ "", "bahai-song-project.de", "" ],
 	    },
 	    // The first page of the song:
