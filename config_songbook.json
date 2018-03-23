@@ -1,0 +1,62 @@
+// Configuration for PDFs generated for bahai-song-project.de
+//
+// This is a relaxed JSON document, so comments are possible.
+
+{
+    // General settings, to be changed by legacy configs and
+    // command line.
+    "settings" : {
+
+    },
+
+    // Layout definitions for PDF output.
+
+    "pdf" : {
+
+  	// Chord diagrams.
+	// A chord diagram consists of a number of cells.
+	// Cell dimensions are specified by "width" and "height".
+	// The horizontal number of cells depends on the number of strings.
+	// The vertical number of cells is "vcells", which should
+	// be 4 or larger to accomodate most chords.
+	// The horizontal distance between diagrams is "hspace" cells.
+	// The vertical distance is "vspace" cells.
+	// "linewidth" is the thickness of the lines as a fraction of "width".
+	// Diagrams for all chords of the song can be shown at the
+	// "top", "bottom" or "right" side of the first page,
+	// or "below" the last song line.
+
+	// Formats.
+	"formats" : {
+	    // Titles/Footers.
+
+	    // Titles/footers have 3 parts, which are printed left,
+	    // centered and right.
+	    // For even/odd printing, the order is reversed.
+
+	    // By default, a page has:
+	    "default" : {
+	        // Header.
+	    	"title"     : [ "%{author}", "", " %{composer}" ],
+			// Footer.
+	    	"footer"    : [ "", "%{page}", "" ],
+	    },
+	    // The first page of the song:
+	    "title" : {
+			"title"     : [ "%{author}", "", " %{composer}" ],
+			"subtitle"  : [ "", "%{title}", "" ],
+			"footer"    : [ "", "%{page}", "" ],
+		},
+		// The first page of the output:
+	    "first" : {
+			"footer"    : [ "", "%{page}", "" ],
+	    },
+	},
+
+	// Fonts.
+	// Fonts can be specified by name (for the corefonts)
+	// or a filename (for TrueType/OpenType fonts).
+	// Relative filenames are looked up in the fontdir.
+    },
+}
+// End of config.

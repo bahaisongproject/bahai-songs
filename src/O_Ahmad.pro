@@ -3,7 +3,7 @@
 
 {define: Am7 base-fret 0 frets x 0 2 0 1 0}
 
-{cb: Capo: IV}
+{c: Capo: IV}
 
 ||: [Em7]Be thou as a flame of [Am7]fire to my [Em7]enemies
 [Am7]and a river of [Em7]life et[D]ernal t[C]o my l[Em7]oved ones :||
