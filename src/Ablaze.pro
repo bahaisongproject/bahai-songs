@@ -1,6 +1,6 @@
 {title: Ablaze}
-{author: Abdu’l-Bahá}
-{composer: Tamara Duncan}
+{words: Abdu’l-Bahá}
+{music: Tamara Duncan}
 
 {c: Intro: (2x)}
 {soc}

@@ -1,6 +1,6 @@
 {title: Blessed}
-{author: Bahá’u’lláh}
-{composer: Elizabeth Hahn}
+{words: Bahá’u’lláh}
+{music: Elizabeth Hahn}
 
 Bl[A]essed is the sp[Amaj7]ot, and the h[A7]ouse, and the pl[D]ace, and the c[D]ity, 
 and the h[Dm]eart, and the m[A]ountain

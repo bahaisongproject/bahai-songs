@@ -1,7 +1,7 @@
 {title: Is There Any Remover}
-{author: The Báb}
-{composer: Karomatangi Webb}
-{composer: Lara Sprung}
+{words: The Báb}
+{music: Karomatangi Webb}
+{music: Lara Sprung}
 
 {define: E7sus4 base-fret 0 frets 0 2 0 2 0 0}
 {define: E11 base-fret 0 frets 0 2 0 2 0 2}

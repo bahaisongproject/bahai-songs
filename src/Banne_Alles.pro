@@ -1,6 +1,6 @@
 {title: Banne alles was zu Zwietracht führt}
-{author:  'Abdu'l-Bahá}
-{composer: Corinne Bahia}
+{words:  'Abdu'l-Bahá}
+{music: Corinne Bahia}
 
 {define: Bm11 base-fret 1 frets x 2 2 2 3 2}
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}

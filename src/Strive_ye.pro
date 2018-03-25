@@ -1,5 +1,5 @@
 {title: Strive ye}
-{author: ‘Abdu’l-Bahá}
+{words: ‘Abdu’l-Bahá}
 {c: Capo: II}
 
 ||: Str[C]ive ye with [Fmaj7]all your h[C]earts  [Fmaj7][C]          

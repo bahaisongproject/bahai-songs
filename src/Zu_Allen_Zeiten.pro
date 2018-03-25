@@ -1,5 +1,5 @@
 {title: Zu Allen Zeiten}
-{author: Abdu’l-Bahá}
+{words: Abdu’l-Bahá}
 
 [C]||: Zu [C/B]allen Z[Am]eiten spreche [G]ich von [F]euch und denke an [G]euch :||
 

@@ -1,6 +1,6 @@
 {title: No One But Thee}
-{composer: Calla Kinglit}
-{author: The Báb}
+{music: Calla Kinglit}
+{words: The Báb}
 {transpose: 5}
 
 [Em]Oh my God 
