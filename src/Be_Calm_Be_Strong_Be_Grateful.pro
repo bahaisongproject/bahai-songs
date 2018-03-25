@@ -1,6 +1,6 @@
 {title: Be Calm Be Strong Be Grateful}
-{composer: Clara Haskell}
-{author: ‘Abdu’l-Bahá}
+{music: Clara Haskell}
+{words: ‘Abdu’l-Bahá}
 
 
 [C]||: Be calm, [Am]     be strong, be [Fmaj7]          grateful, be [C]   gratef[G]ul.

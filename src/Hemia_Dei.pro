@@ -1,6 +1,6 @@
 {title: Hemia Dei}
-{author: Bahá’u’lláh}
-{composer: AJ Worek}
+{words: Bahá’u’lláh}
+{music: AJ Worek}
 
 [C]   Hemia Dei [G]   we long hem [Am]    Ol gudfala bl[F]essing blong God
 [C]  I bin fold[G]aon long ol man [Am][F]

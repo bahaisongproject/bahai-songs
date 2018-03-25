@@ -30,8 +30,8 @@
     // The separator is used to concatenate multiple values.
     "metadata" : {
       "keys" : [ "title", "subtitle",
-                 "artist", "composer", "lyricist", "arranger",
-                 "album", "copyright", "year", "author", "text_type", "id",
+                 "artist", "music", "lyricist", "arranger",
+                 "album", "copyright", "year", "words", "text_type", "id",
                  "key", "time", "tempo", "capo", "duration" ],
       "strict" : true,
       "separator" : "; ",
@@ -193,13 +193,13 @@
 	    // By default, a page has:
 	    "default" : {
 	        // Header.
-	    	"title"     : [ "%{author}", "", " %{composer}" ],
+	    	"title"     : [ "%{words}", "", " %{music}" ],
 			// Footer.
 	    	"footer"    : [ "", "bahai-song-project.de", "" ],
 	    },
 	    // The first page of the song:
 	    "title" : {
-			"title"     : [ "%{author}", "", " %{composer}" ],
+			"title"     : [ "%{words}", "", " %{music}" ],
 			"subtitle"  : [ "", "%{title}", "" ],
 			"footer"    : [ "", "bahai-song-project.de", "" ],
 		},

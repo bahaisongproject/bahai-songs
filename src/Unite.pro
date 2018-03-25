@@ -1,6 +1,6 @@
 {title: Unite}
-{composer: Ali Youssefi}
-{author: ‘Abdu’l-Bahá}
+{music: Ali Youssefi}
+{words: ‘Abdu’l-Bahá}
 
 {c: Verse:}
 {soc}

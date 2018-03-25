@@ -1,6 +1,6 @@
 {title: At All Times}
-{author: ‘Abdu’l-Bahá}
-{composer: adapted by  Reem Shaheed}
+{words: ‘Abdu’l-Bahá}
+{music: adapted by  Reem Shaheed}
 {c: Capo: IV}
 
 [G]At all t[Cadd9]imes do I sp[G]eak of y[Cadd9]ou and c[G]all you to m[Cadd9]ind. 

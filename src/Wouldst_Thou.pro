@@ -1,6 +1,6 @@
 {title: Wouldst Thou}
-{author: Bahá’u’lláh}
-{composer: Naim Pilon}
+{words: Bahá’u’lláh}
+{music: Naim Pilon}
 
 ||: W[Am]ouldst thou h[Em]ave Me,[G]   seek none [D]other than M[Am]e [Em][G][D]
 and w[Am]ouldst th[Em]ou [G]     gaze up[D]on My b[Am]eauty[Em] :|| [G][D]

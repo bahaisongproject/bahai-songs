@@ -1,7 +1,7 @@
 {title: Der Meistgeliebte}
-{author: Bahá’u’lláh}
-{composer: Corinne Bahia}
-{composer: Levin Zendeh}
+{words: Bahá’u’lláh}
+{music: Corinne Bahia}
+{music: Levin Zendeh}
 
 {define: Bb base-fret 6 frets 1 3 3 2 1 1 fingers 1 3 4 2 1 1 }
 {define: Cm base-fret 3 frets 1 1 3 3 2 1 fingers 1 1 3 4 2 1 }

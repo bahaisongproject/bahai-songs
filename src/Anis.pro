@@ -1,5 +1,5 @@
 {title: Anis}
-{composer: Dawnbreaker Collective}
+{music: Dawnbreaker Collective}
 {c: Capo: IV}
 
 Y[Am]ou can't k[C]eep me h[Fadd9]ere, the l[Am]ove in my h[C]eart is t[Fadd9]oo great

@@ -1,6 +1,6 @@
 {title: He Maketh Victorious}
-{author: The Báb}
-{composer: Badasht}
+{words: The Báb}
+{music: Badasht}
 {define: Bm base-fret 2 frets x 1 3 3 2 1 fingers x 1 3 4 2 1}
 {define: Bmadd11 base-fret 2 frets x 1 3 3 2 0 fingers x 1 3 4 2 x}
 {define: Esus4 base-fret 1 frets 0 2 2 2 0 0}

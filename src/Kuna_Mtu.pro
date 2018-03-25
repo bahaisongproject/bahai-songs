@@ -1,5 +1,5 @@
 {title: Kuna Mtu}
-{author: The Báb}
+{words: The Báb}
 
  
 ||: Kuna mt[C]u awez[G]aye ku[G]ondoa shid[Em]a 

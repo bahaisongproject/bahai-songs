@@ -1,5 +1,5 @@
 {title: Be Thou as a Flame}
-{author:  Bahá'u'lláh}
+{words:  Bahá'u'lláh}
 
 {define: Am7 base-fret 0 frets x 0 2 0 1 0}
 

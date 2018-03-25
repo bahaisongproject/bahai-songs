@@ -1,6 +1,6 @@
 {title: Dame}
-{author: Bahá'u'lláh}
-{composer: Leonor Dely}
+{words: Bahá'u'lláh}
+{music: Leonor Dely}
 
 [Bm] Dame un c[A]orazón
 [G] Que com'un esp[F#7]ejo pueda
