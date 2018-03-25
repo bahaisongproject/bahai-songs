@@ -1,6 +1,6 @@
 {title: Say}
-{author: The Báb}
-{composer: Eric Harper}
+{words: The Báb}
+{music: Eric Harper}
 
 {c: Verse:}
 {soc}

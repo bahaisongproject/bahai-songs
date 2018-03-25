@@ -1,7 +1,7 @@
 {title: O Son of Earth}
-{author: Bahá’u’lláh}
-{composer: Dean Kalyan}
-{composer: Gergana Vellinova}
+{words: Bahá’u’lláh}
+{music: Dean Kalyan}
+{music: Gergana Vellinova}
 
 
 

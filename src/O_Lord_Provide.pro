@@ -1,6 +1,6 @@
 {title: O Lord Provide}
-{author: The Báb}
-{composer: Bonnie Lisbeth}
+{words: The Báb}
+{music: Bonnie Lisbeth}
 
 {sot}
 |---------------------------------|      |---------------------------------|

@@ -1,6 +1,6 @@
 {title: If Thou Lovest Me}
-{author: Bahá’u’lláh}
-{composer: Badasht}
+{words: Bahá’u’lláh}
+{music: Badasht}
 
 {define: C/B base-fret 0 frets x 2 0 1 0 0 }
 

@@ -1,5 +1,5 @@
 {title: Blessed}
-{author: Bahá’u’lláh}
+{words: Bahá’u’lláh}
 {c: Capo: III}
 
 Blessed is the sp[C]ot, and the house, and the place, and the city,

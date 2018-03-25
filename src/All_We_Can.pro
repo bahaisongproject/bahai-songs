@@ -1,5 +1,5 @@
 {title: All We Can}
-{author: Shoghi Effendi}
+{words: Shoghi Effendi}
 
 {c: Capo: I}
 

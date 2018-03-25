@@ -1,6 +1,6 @@
 {title: Let Your Heart Burn}
-{author: ‘Abdu’l-Bahá}
-{composer: Rosanna Lea}
+{words: ‘Abdu’l-Bahá}
+{music: Rosanna Lea}
 
 {define: D/F# base-fret 0 frets 2 0 0 2 3 2}
 

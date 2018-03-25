@@ -1,6 +1,6 @@
 {title: Immensity of Space}
-{author: Bahá’u’lláh}
-{composer: Rowshan}
+{words: Bahá’u’lláh}
+{music: Rowshan}
 
 Wert thou to sp[Am]eed thr[Fmaj7]ough
 the imm[G]ensity of sp[E7]ace 

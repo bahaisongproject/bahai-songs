@@ -1,7 +1,7 @@
 {t: Agapa Me}
 {Capo: 1}
-{author: Based on a Hidden Word of Bahá'u'lláh}
-{composer: Anis Mirra}
+{words: Based on a Hidden Word of Bahá'u'lláh}
+{music: Anis Mirra}
 
 
 Ag[Em]apa Me ia na se  agap[Cadd9]o
