@@ -1,7 +1,7 @@
 {title: Als een Lamp}
-{author: Bahá'u'lláh}
-{composer: Claudia Peralta}
-{composer: Naim Pilon}
+{words: Bahá'u'lláh}
+{music: Claudia Peralta}
+{music: Naim Pilon}
 
 ||: M[Em]aakt mij als een lamp die over[G]al in uw gebieden schijnt 
 [C]    zodat zij in wier hart het licht van uw k[C]ennis gloeit :||

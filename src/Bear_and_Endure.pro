@@ -1,6 +1,6 @@
 {title: Bear and Endure}
-{author: Bahá’u’lláh}
-{composer: Bonnie Lisbeth}
+{words: Bahá’u’lláh}
+{music: Bonnie Lisbeth}
 {c: Capo: I}
 
 {c: Section A:}

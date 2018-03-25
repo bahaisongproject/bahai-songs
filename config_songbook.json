@@ -37,13 +37,13 @@
 	    // By default, a page has:
 	    "default" : {
 	        // Header.
-	    	"title"     : [ "%{author}", "", " %{composer}" ],
+	    	"title"     : [ "%{words}", "", " %{music}" ],
 			// Footer.
 	    	"footer"    : [ "", "%{page}", "" ],
 	    },
 	    // The first page of the song:
 	    "title" : {
-			"title"     : [ "%{author}", "", " %{composer}" ],
+			"title"     : [ "%{words}", "", " %{music}" ],
 			"subtitle"  : [ "", "%{title}", "" ],
 			"footer"    : [ "", "%{page}", "" ],
 		},

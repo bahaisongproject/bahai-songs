@@ -1,5 +1,5 @@
 {title: Be as a Lamp}
-{author: Bahá’u’lláh}
+{words: Bahá’u’lláh}
 {c: Capo: III}
 
 ||: Be as a l[G]amp unto them that w[C]alk in darkness, [Em] [D] 

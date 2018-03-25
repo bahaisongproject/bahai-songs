@@ -1,6 +1,6 @@
 {title: Dein Paradies}
-{author: Bahá’u’lláh}
-{composer: Levin Zendeh}
+{words: Bahá’u’lláh}
+{music: Levin Zendeh}
 
 ||: [E]O Sohn des [Amaj7]Seins!
 Dein [E] Paradies ist Meine L[Amaj7]iebe.

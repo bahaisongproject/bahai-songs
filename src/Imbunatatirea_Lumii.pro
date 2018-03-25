@@ -1,6 +1,6 @@
 {title: Imbunătățirea Lumii}
-{author: Bahá'u'lláh}
-{composer: Maryam Zerbes}
+{words: Bahá'u'lláh}
+{music: Maryam Zerbes}
 
 M-[Em]am întreb[D]at, m-[Em]am întreb[D]at, c[Em]um pot să-i aj[D]ut pe alții, 
 
