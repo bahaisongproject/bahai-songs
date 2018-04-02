@@ -1,7 +1,6 @@
 {title: O Son of Earth}
 {words: Bahá’u’lláh}
-{music: Dean Kalyan}
-{music: Gergana Vellinova}
+{music: Dean Kalyan & Gergana Vellinova}
 
 
 
