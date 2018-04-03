@@ -2,15 +2,13 @@
 {words: Abdu’l-Bahá}
 {music: Tamara Duncan}
 
-{c: Intro: (2x)}
-{soc}
-O my L[Am]ord!  O my L[C]ord! This is a l[G]amp lighted by
-the fire of Th[C]y love and abl[Am]a- [C]aze with the fl[G]a- [C]ame
-{eoc}
+||: O my L[Am]ord!  O my L[C]ord! This is a l[G]amp lighted by
+the fire of Th[C]y love and abl[Am]a-[C]  ze with the fl[G]a-[C]   me :||
 
 wh[Am]ich [C]is ign[G]ited in the tr[Am]ee of Thy m[C]ercy, in the tr[G]ee of Thy m[C]ercy.
 
-{c: Intro}
+O my L[Am]ord!  O my L[C]ord! This is a l[G]amp lighted by
+the fire of Th[C]y love and abl[Am]a-[C]  ze with the fl[G]a-[C]   me
 
 wh[Am]ich [C]is ign[G]ited in the tr[Am]ee of Thy m[C]ercy, in the tr[G]ee of Thy m[C]ercy.
 
