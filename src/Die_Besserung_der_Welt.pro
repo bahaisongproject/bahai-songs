@@ -9,5 +9,4 @@ Verh[G]alten err[D]eicht werden :||
 
 ||: Die B[Em]esserung, die B[C]esserung, die B[G]esserung der W[D]elt :||
 
-
 Die Besserung der Welt ... erreicht werden.
