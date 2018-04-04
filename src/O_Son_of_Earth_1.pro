@@ -2,8 +2,6 @@
 {words: Bahá’u’lláh}
 {music: Dean Kalyan & Gergana Vellinova}
 
-
-
 [Em] ||: O Son of Earth! Wouldst thou have Me,
 [Am] seek none other than M[Em]e :||
 [Am] and wouldst thou gaze upon My be[Em]auty,

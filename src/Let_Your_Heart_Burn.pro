@@ -1,10 +1,8 @@
 {title: Let Your Heart Burn}
 {words: ‘Abdu’l-Bahá}
 {music: Rosanna Lea}
-
-{define: D/F# base-fret 0 frets 2 0 0 2 3 2}
-
 {c: Capo: III}
+{define: D/F# base-fret 0 frets 2 0 0 2 3 2}
  
 ||: D[G]o not b[D/F#]e cont[Em]ent with showing fr[C]iendship in words al[G]one
 D[G]o not b[D/F#]e cont[Em]ent with showing fr[A7]iendship in words al[D]one

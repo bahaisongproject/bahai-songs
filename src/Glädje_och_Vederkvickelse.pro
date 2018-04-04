@@ -6,5 +6,6 @@
 ||: Rena mitt hjärt[E]a. [A]    Genomstråla mina kr[E]after. [A] :||
 
 [Bm]
+
 Jag lägger alla mina [Am]angelägenheter i Din h[E]and [A]
 ooh i Din h[E]and [A]
