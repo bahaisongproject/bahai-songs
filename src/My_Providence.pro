@@ -17,5 +17,6 @@ Th[G]is is My command unto th[D]ee, th[Em]is is my command unto th[C]ee
 ||:  D[G]o                                        Th[D]ou obs[Em]erve                                    [D]it :||
 {eoc}
 
-||: Hasten thereunto... :||
-|| This is my command unto thee || 4x
+||: H[G]asten thereunt[D]o that thou m[Em]ayest bec[C]ome [G]an eternal l[Em]ight
+and an imm[A7]ortal spirit, imm[C]ortal spirit :||
+|| Th[G]is is My command unto th[D]ee || 4x

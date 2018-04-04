@@ -10,11 +10,8 @@
 
 ||: Der M[Bb]eistgeliebte ist ersch[Cm]ienen. In Seiner R[Dm]echten hält Er den 
 vers[Cm]iegelten Wein Seines N[Bb]amens. :||
-
 Glücklich der M[Dm]ensch, der sich Ihm z[Gm]ukehrt, sich s[Cm]att trinkt 
 und [G#]ausruft: 
-
 ||: »Preis sei D[Bb]ir, o Offenbarer der Zeichen G[G#]ottes!« :||
-
 G[G#]ottes
 

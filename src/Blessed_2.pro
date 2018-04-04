@@ -8,4 +8,4 @@ and the refuge, and the cave, and the valley, and the land,
 and the sea, and the island, and the meadow
 where mention of God hath been made, 
 and His praise glorified.
-O-o-oh, o-o-oh, o-o-o-o-oh.
+Ooh, ooh, ooh.
