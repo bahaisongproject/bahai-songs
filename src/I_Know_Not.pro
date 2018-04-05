@@ -1,7 +1,7 @@
 {title: I Know Not}
 {words: Bahá’u’lláh}
-{music: Bonnie Lisbeth}
-{music: Rosanna Lea}
+{music: Bonnie Lisbeth & Rosanna Lea}
+{c: Capo: IV}
 {define: Cadd9 base-fret 1 frets 0 3 2 0 3 3}
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 {define: Em7 base-fret 1 frets 0 2 2 0 3 3}
@@ -16,5 +16,7 @@ to res[Cadd9]ist its f[D]orce, to res[Cadd9]ist its f[D]orce
 Gr[Cadd9]eat is the blessedn[D]ess
 of h[Em7]im that hath drawn nigh unto [Bm]it,
 
-and h[Cadd9]eard its roaring,    [D]
-[Cadd9][D] heard its roaring.
+and h[Cadd9]eard its roaring,
+h[D]eard its r[Em7]oaring.
+ heard its r[Cadd9]oaring,
+h[D]eard its r[Em7]oaring.
