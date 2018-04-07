@@ -1,8 +1,7 @@
-{t: Agapa Me}
-{Capo: 1}
+{title: Agapa Me}
 {words: Based on a Hidden Word of Bahá'u'lláh}
 {music: Anis Mirra}
-
+{Capo: 1}
 
 Ag[Em]apa Me ia na se  agap[Cadd9]o
 an den Me [G]agapas i agapi m[D]u 
