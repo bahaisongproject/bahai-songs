@@ -9,7 +9,7 @@
 ||: I kn[Em7]ow not, O my God, what the F[Cadd9]ire is
 which Thou didst k[G]indle in Thy l[D]and.
 E[Am7]arth can never cl[Em]oud its splendor, 
-nor w[Cadd]ater quench its flame. [D]    :||   
+nor w[Cadd9]ater quench its flame. [D]    :||   
 
 All the p[Em7]eoples of the w[Bm]orld are powerl[Em]ess 
 to res[Cadd9]ist its f[D]orce, to res[Cadd9]ist its f[D]orce 
@@ -18,5 +18,5 @@ of h[Em7]im that hath drawn nigh unto [Bm]it,
 
 and h[Cadd9]eard its roaring,
 h[D]eard its r[Em7]oaring.
- heard its r[Cadd9]oaring,
+heard its r[Cadd9]oaring,
 h[D]eard its r[Em7]oaring.

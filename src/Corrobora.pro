@@ -6,7 +6,7 @@
 {define: Cadd9 base-fret 1 frets x 3 2 0 3 3}
 {define: Em7 base-fret 1 frets x x 2 0 3 3}
 {define: Fsus2 base-fret 1 frets 1 x x 0 1 x}
-{define: [G7/F] base-fret 1 frets 1 x x 0 0 x}
+{define: G7/F base-fret 1 frets 1 x x 0 0 x}
 
 [G]    Corr[G/B]obora il mio sp[Cadd9]irito. [G]    Pur[G/B]ifica il mio c[Cadd9]uor.
 [Em7]     Ill[G/B]umina le mie f[Cadd9]acoltà. [Cadd9]
