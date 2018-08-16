@@ -22,7 +22,7 @@ all: $(objects)
 # Remove/comment the last two lines (pdftk, mv), if you don't need the bsp watermark
 $(output)/%.pdf: $(source)/%.pro
 	@echo Making "$(@)"
-	@chordpro "$(<)" --config=config.json -o "$(@)"
+	@chordpro "$(<)" --config=config/songsheet.json -o "$(@)"
 	@pdftk "$(@)" stamp static/watermark/watermark.compressed.pdf output "$(@)_"
 	@mv "$(@)_" "$(@)"
 
@@ -32,7 +32,7 @@ $(output)/%.pdf: $(source)/%.pro
 songbook:
 	@echo Making "$(songbook)"
 	@ls src/* > src/songbook.txt
-	@chordpro --filelist=src/songbook.txt --config=config.json --config=config_songbook.json -p 2 --no-csv --cover=static/cover/cover.pdf -o "$(songbook)"
+	@chordpro --filelist=src/songbook.txt --config=config/songsheet.json --config=config/songbook.json -p 2 --no-csv --cover=static/cover/cover.pdf -o "$(songbook)"
 	@rm src/songbook.txt
 
 .PHONY: clean
