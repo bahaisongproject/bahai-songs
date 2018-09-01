@@ -222,14 +222,14 @@
 	// and lots of others.
 
 	"fonts" : {
-	    "subtitle" : { // actually, this is the title
-		"file" : "AvenirNext-Regular.otf",
-		"size" : 18
-	    },
-	    "title" : { // actually, this is the header
+		"title" : { // actually, this is the header
 		"file" : "AvenirNext-Regular.otf",
 		"size" : 8,
 		"color": "grey"
+		},
+	    "subtitle" : { // actually, this is the title
+		"file" : "AvenirNext-Regular.otf",
+		"size" : 18
 	    },
 	    "text" : {
 		"file" : "AvenirNext-Regular.otf",
