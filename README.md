@@ -19,5 +19,5 @@ __Note__: pdftk is only needed for adding the bahá'í song project logo -- you 
 
 3. Contribute:
   - Fork repository
-  - Create new song sheet: Add a new .pro file in src/ and run `make` at the repository root to create PDF files for all new/changed .pro files.
+  - Create new song sheet: Add a new .pro file in src/ and run `make` at the repository root to create the PDF file. Limit your changes to one song per commit.
   - Submit pull request
