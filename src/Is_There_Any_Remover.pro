@@ -3,20 +3,19 @@
 {music: Karomatangi Webb}
 {music: Lara Sprung}
 
-{define: E7sus4 base-fret 0 frets 0 2 0 2 0 0}
-{define: E11 base-fret 0 frets 0 2 0 2 0 2}
+{define: Bm7 base-fret 0 frets x 2 0 2 0 2}
 
 {sot}
 |----------------------------------------2----------------------|
-|--------0---------------0-----------0-------0----------0-------|
-|----0-------0-------2-------2-----2---2---2---2----0-------0---|
-|--2---2---2---2---0---0---0---0------------------2---2---2---2-|
+|--------0---------------0------------------------------0-------|
+|----0-------0-------2-------2-------2-------2------0-------0---|
+|--2---2---2---2---0---0---0---0---1---1---1---2--2---2---2---2-|
 |3---------------2---------------2------------------------------|
 |------------------------------------------------0--------------|
 {eot}
 
-Is there any R[Cmaj7]emover [E7sus4]of        d[E11]ifficult[Em]ies save G[Cmaj7]od?    [E7sus4]
+Is there any R[Cmaj7]emover [Bm7]of        d[B7]ifficult[Em]ies save G[Cmaj7]od?    [Bm7]
 
-Say: Pr[E11]aised be G[Em]od! H[Cmaj7]e is    G[E7sus4]od!    [E11]     [Em]  
+Say: Pr[B7]aised be G[Em]od! H[Cmaj7]e is    G[Bm7]od!    [B7]     [Em]  
 
-[Cmaj7]All [E7sus4]are His s[E11]erv[Em]ants, and [Cmaj7]all     ab[E7sus4]ide [E11]by His b[Em]idding!
+[Cmaj7]All [Bm7]are His s[B7]erv[Em]ants, and [Cmaj7]all     ab[Bm7]ide [B7]by His b[Em]idding!
