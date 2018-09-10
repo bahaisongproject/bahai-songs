@@ -3,7 +3,7 @@
 {music: Nava Khorram}
 {c: Capo: III}
 
-O L[E]ord! Make this youth radi[C]ant, and confer Thy bount[G]y 
+O L[Em]ord! Make this youth radi[C]ant, and confer Thy bount[G]y 
 upon this poor cr[D]eature. Best[Em]ow upon him knowl[C]edge, 
 grant him added str[G]ength at the break of every m[D]o- [Em]     rn 
 ||: and guard him with[C]in the shelter of Th[G]y 
