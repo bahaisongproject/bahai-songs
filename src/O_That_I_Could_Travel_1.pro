@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Justus Bos, Miad Javaheri & Naim Pilon}
 {c: Capo: III}
+{define: Bm7 base-fret 1 frets x 2 0 2 0 2}
 
 [Bm]     O that I could tr[A]avel, [Em]even though on foot and [G]in the utmost 
 povert[Bm]y, to these r[A]egions, and, r[Em]aising the call of 
