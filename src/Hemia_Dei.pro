@@ -13,4 +13,4 @@ I bin go ins[C]aed long Ev'ri s[G]amting blong w[Am]ol [F]
 [F]    Mo tru long i[C]uniti mo p[G]is oli mas stand[Am]ap andanit
 [F]    Long shato bl[C]ong tree blong l[G]av, blong Hem
 
-[C]   Hemia Dei, [G]   Hemia Dei, [G]   Hemia De-[F] i
+[C]   Hemia Dei, [G]   Hemia Dei, [am]   Hemia De-[F] i
