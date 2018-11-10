@@ -23,8 +23,8 @@ all: $(objects)
 $(output)/%.pdf: $(source)/%.pro
 	@echo Making "$(@)"
 	@chordpro "$(<)" --config=config/songsheet.json -o "$(@)"
-	@pdftk "$(@)" stamp static/watermark/watermark.compressed.pdf output "$(@)_"
-	@mv "$(@)_" "$(@)"
+#	@pdftk "$(@)" stamp static/watermark/watermark.compressed.pdf output "$(@)_"
+#	@mv "$(@)_" "$(@)"
 
 
 
