@@ -3,10 +3,18 @@
 
 
 # Directory containing source files 
-source := src
+source := bahai-songs/chordpro
 
 # Directory containing pdf files
-output := print
+output := bahai-songs/pdf
+
+# Directory for static files
+static := bahai-songs/static
+
+# Direcory for config files
+config := bahai-songs/config
+
+# Songbook
 songbook := $(output)/_songbook.pdf
 
 # All .pro files in src/ are considered sources
@@ -22,8 +30,8 @@ all: $(objects)
 # Remove/comment the last two lines (pdftk, mv), if you don't need the bsp watermark
 $(output)/%.pdf: $(source)/%.pro
 	@echo Making "$(@)"
-	@chordpro "$(<)" --config=config/songsheet.json -o "$(@)"
-	@pdftk "$(@)" stamp static/watermark/watermark.compressed.pdf output "$(@)_"
+	@chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
+	@pdftk "$(@)" stamp $(static)/watermark/watermark.compressed.pdf output "$(@)_"
 	@mv "$(@)_" "$(@)"
 
 
@@ -31,9 +39,9 @@ $(output)/%.pdf: $(source)/%.pro
 .PHONY: songbook
 songbook:
 	@echo Making "$(songbook)"
-	@ls src/* > src/songbook.txt
-	@chordpro --filelist=src/songbook.txt --config=config/songsheet.json --config=config/songbook.json -p 2 --no-csv --cover=static/cover/cover.pdf -o "$(songbook)"
-	@rm src/songbook.txt
+	@ls $(source)/* > $(source)/songbook.txt
+	@chordpro --filelist=$(source)/songbook.txt --config=$(config)/songsheet.json --config=$(config)/songbook.json -p 2 --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
+	@rm $(output)/songbook.txt
 
 .PHONY: clean
 clean:
