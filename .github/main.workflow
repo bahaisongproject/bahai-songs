@@ -4,5 +4,5 @@ workflow "New workflow" {
 }
 
 action "Make PDFs" {
-  uses = "daysm/bsp-actions/make-pdfs@1d69c08"
+  uses = "daysm/bsp-actions/make-pdfs@4755ba3"
 }
