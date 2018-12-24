@@ -1,8 +1,16 @@
 workflow "New workflow" {
   on = "push"
-  resolves = ["Make PDFs"]
+  resolves = ["daysm/bsp-actions/make-pdfs@master"]
 }
 
-action "Make PDFs" {
-  uses = "daysm/bsp-actions/make-pdfs@b7eff44"
+action "Make song sheet PDFs" {
+  uses = "daysm/bsp-actions/make-pdfs@master"
+  runs = "make"
+}
+
+action "daysm/bsp-actions/make-pdfs@master" {
+  uses = "daysm/bsp-actions/make-pdfs@master"
+  needs = ["Make song sheet PDFs"]
+  runs = "make"
+  args = "songbook"
 }
