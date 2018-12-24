@@ -43,7 +43,7 @@ songbook:
 	@echo Making "$(songbook)"
 	@ls $(source)/* > $(source)/songbook.txt
 	@chordpro --filelist=$(source)/songbook.txt --config=$(config)/songsheet.json --config=$(config)/songbook.json -p 2 --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
-	@rm $(output)/songbook.txt
+	@rm $(source)/songbook.txt
 
 .PHONY: clean
 clean:
