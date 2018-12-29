@@ -35,7 +35,7 @@ $(output)/%.pdf: $(source)/%.pro
 	@chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
 
 	# Comment out the following two lines, if you don't want the bsp watermark
-	@pdftk "$(@)" stamp $(static)/watermark/watermark.compressed.pdf output "$(@)_"
+	@pdftk "$(@)" stamp $(static)/watermark/watermark.pdf output "$(@)_"
 	@mv "$(@)_" "$(@)"
 
 .PHONY: songbook
