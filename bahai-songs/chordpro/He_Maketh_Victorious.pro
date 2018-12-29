@@ -1,10 +1,10 @@
 {title: He Maketh Victorious}
 {words: The Báb}
 {music: Badasht}
-{define: Bm base-fret 2 frets x 1 3 3 2 1 fingers x 1 3 4 2 1}
-{define: Bmadd11 base-fret 2 frets x 1 3 3 2 0 fingers x 1 3 4 2 x}
+{define: B5 base-fret 1 frets X 2 4 4 0 X}
+{define: G base-fret 1 frets 3 2 0 0 3 3}
+{define: Edim7 base-fret 1 frets X X 2 3 2 3}
 {define: Esus4 base-fret 1 frets 0 2 2 2 0 0}
-
 
 {sot}
 |-------------------------------------------------------------------------|
@@ -15,21 +15,27 @@
 |-------------------------------------------------------------------------| 4x
 {eot}
 
-[][||:][Bm][Dsus2][G][Bm][:||]
+[][||:][B5][Dsus2][G][B5][B5][:||]
 
-||: H[Bm]e m[D]aketh vict[G]ori[Bm]ous whomso[D]ever he pl[G]eas[Bm]eth :||
+||: H[B5]e m[Dsus2]aketh vict[G]ori[B5]ous [B5] 
+[B5] whomso[Dsus2]ever he pl[G]eas[B5]eth [B5]    :||
 
-[Bmadd11]   Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]est
-[Dsus2]   Through the p[E]otency [Esus4] [E]   of H[G]is beh[Bm]est
-[Bmadd11]   Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]e- [E]   st
+Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]est [D] [D]
+Through the p[E]otency [Esus4] [E]   of H[G]is beh[B5]est [B5] [B5]
+Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]e- [D]e- [Edim7]est 
 
-[][||][Bm][Dsus2][G][Bm][|| 6x]
+{c:Pause}
 
-||: H[Bm]e m[D]aketh vict[G]ori[Bm]ous whomso[D]ever he pl[G]eas[Bm]eth :||
+[][||][B5][Dsus2][G][B5][B5] [||6x]
 
-||: [Bmadd11]   Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]est
-[Dsus2]   Through the p[E]otency [Esus4] [E]   of H[G]is beh[Bm]est :||
-[Bmadd11]   Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]e- [E]   st
+||: H[B5]e m[Dsus2]aketh vict[G]ori[B5]ous [B5] 
+[B5] whomso[Dsus2]ever he pl[G]eas[B5]eth [B5]    :||
+
+||: Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]est [D] [D]
+Through the p[E]otency [Esus4] [E]   of H[G]is beh[B5]est [B5] [B5] :||
+Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]e- [D]e- [Edim7]est
+
+{c:Pause}
 
 {sot}
 Same as intro:
