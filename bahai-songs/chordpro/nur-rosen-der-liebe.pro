@@ -3,5 +3,5 @@
 {music: Çelebi family}
 
 Nur R[D]osen der L[A]iebe
-pl[G]anze in den Garten 
+pfl[G]anze in den Garten 
 Deines H[D]e-er-zens
