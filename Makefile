@@ -29,9 +29,10 @@ all: $(objects)
 # Recipe for converting a ChordPro file into PDF and stamping on a watermark
 $(output)/%.pdf: $(source)/%.pro
 # Create output directory if it does not yet exist
-	[ -d $(output) ] || mkdir -p $(output)
 
-	@echo Making "$(@)"
+	@[ -d $(output) ] || mkdir -p $(output)
+
+	@echo Making "$(@)"...
 	@chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
 
 # Comment out the following two lines, if you don't want the bsp watermark
@@ -41,7 +42,7 @@ $(output)/%.pdf: $(source)/%.pro
 .PHONY: songbook
 songbook:
 # Create output directory if it does not yet exist
-	[ -d $(output) ] || mkdir -p $(output)
+	@[ -d $(output) ] || mkdir -p $(output)
 	
 	@echo Making "$(songbook)"
 	@ls $(source)/* > $(source)/songbook.txt
