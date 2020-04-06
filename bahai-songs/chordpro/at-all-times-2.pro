@@ -1,5 +1,5 @@
 {title: At All Times}
-{words: Bahá’u’lláh}
+{words: ʻAbdu'l-Bahá}
 {music: JYSEP Goodna}
 {define: D base-fret 5 frets x 1 3 3 3 1}
 
