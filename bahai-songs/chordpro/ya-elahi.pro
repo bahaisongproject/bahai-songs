@@ -1,4 +1,4 @@
-{title: Yá Iláhi (Short Healing Prayer)}
+{title: Yá Iláhi}
 {words:  Bahá'u'lláh}
 {music: Amin Rafat}
 

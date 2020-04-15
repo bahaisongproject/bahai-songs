@@ -1,4 +1,6 @@
-{title: Love Love Love}
+{title: Love, Love, Love}
+{words: Creadell Haley}
+{music: Creadell Haley}
 
 [C]Love, love, [F]love, love
 [G]Love your fellow m[C]an

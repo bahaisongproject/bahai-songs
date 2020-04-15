@@ -1,4 +1,4 @@
-{title: O Perendi, me udhehiq me mbro}
+{title: O Perendi, Me Udhehiq Me Mbro}
 
 
 [Am] [Am] [Dm] [G] [C] [Am] [E] [E]
