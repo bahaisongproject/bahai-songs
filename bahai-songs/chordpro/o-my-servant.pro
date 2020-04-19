@@ -3,6 +3,7 @@
 {music: Alexander Riedesser}
 {music: Kian Panahi}
 
+{c: Capo III}
 
 [Am7] [E]
 ||: [Am7]O My Servant! :|| x2 [E]

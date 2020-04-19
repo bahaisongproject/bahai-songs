@@ -3,7 +3,7 @@
 {music: Alexander Riedesser}
 {music: Kian Panahi}
 
-
+{c: Capo III}
 
 ||: G[G]ibt es eine größere G[Em]nade
 als die, dass ein M[C]ensch, wenn er in sich g[D]eht,

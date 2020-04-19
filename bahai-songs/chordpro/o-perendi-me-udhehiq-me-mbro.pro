@@ -1,5 +1,5 @@
 {title: O Perendi, Me Udhehiq Me Mbro}
-
+{words: ‘Abdu’l-Bahá}
 
 [Am] [Am] [Dm] [G] [C] [Am] [E] [E]
 
