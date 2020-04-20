@@ -241,7 +241,7 @@
 		"color": "black"
 	    },
 	    "comment" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Regular.otf",
 		"size" : 12,
 		"color": "black",
 		"background": "white",
@@ -251,11 +251,11 @@
 		"size" : 10
 	    },
 	    "toc" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Regular.otf",
 		"size" : 11
 	    },
 	    "grid" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Bold.otf",
 		"size" : 10
 	    },
 	},
