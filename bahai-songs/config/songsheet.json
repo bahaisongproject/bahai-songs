@@ -34,7 +34,7 @@
                  "album", "copyright", "year", "words", "text_type", "id",
                  "key", "time", "tempo", "capo", "duration" ],
       "strict" : true,
-      "separator" : "; ",
+      "separator" : ", ",
     },
 
     // Strings and tuning.
@@ -223,26 +223,27 @@
 
 	"fonts" : {
 		"title" : { // actually, this is the header
-		"file" : "AvenirNext-Regular.otf",
-		"size" : 8,
-		"color": "grey"
+		"file" : "EBGaramond08-Regular.otf",
+		"size" : 12,
+		// "color": "grey"
 		},
 	    "subtitle" : { // actually, this is the title
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "EBGaramond08-Regular.otf",
 		"size" : 18
 	    },
 	    "text" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Regular.otf",
 		"size" : 16
 	    },
 	    "chord" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Bold.otf",
 		"size" : 14,
-		"color": "grey"
+		"color": "black"
 	    },
 	    "comment" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-regular.otf",
 		"size" : 12,
+		"color": "black",
 		"background": "white",
 	    },
 	    "tab" : {
@@ -250,11 +251,11 @@
 		"size" : 10
 	    },
 	    "toc" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Regular.otf",
 		"size" : 11
 	    },
 	    "grid" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Bold.otf",
 		"size" : 10
 	    },
 	},
