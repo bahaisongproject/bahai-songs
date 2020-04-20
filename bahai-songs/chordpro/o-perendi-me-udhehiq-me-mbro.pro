@@ -1,4 +1,4 @@
-{title: O Perendi, Me Udhehiq Me Mbro}
+{title: O Perëndi, Më Udhëhiq, Më Mbro}
 {words: ‘Abdu’l-Bahá}
 
 [Am] [Am] [Dm] [G] [C] [Am] [E] [E]
