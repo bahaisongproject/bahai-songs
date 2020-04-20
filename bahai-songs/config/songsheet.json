@@ -223,20 +223,20 @@
 
 	"fonts" : {
 		"title" : { // actually, this is the header
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "EBGaramond08-Regular.otf",
 		"size" : 12,
 		// "color": "grey"
 		},
 	    "subtitle" : { // actually, this is the title
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "EBGaramond08-Regular.otf",
 		"size" : 18
 	    },
 	    "text" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Regular.otf",
 		"size" : 16
 	    },
 	    "chord" : {
-		"file" : "AvenirNext-Regular.otf",
+		"file" : "Metropolis-Regular.otf",
 		"size" : 14,
 		"color": "black"
 	    },
