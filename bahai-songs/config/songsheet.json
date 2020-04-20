@@ -229,14 +229,14 @@
 		},
 	    "subtitle" : { // actually, this is the title
 		"file" : "EBGaramond08-Regular.otf",
-		"size" : 18
+		"size" : 20
 	    },
 	    "text" : {
 		"file" : "Metropolis-Regular.otf",
 		"size" : 16
 	    },
 	    "chord" : {
-		"file" : "Metropolis-Regular.otf",
+		"file" : "Metropolis-Bold.otf",
 		"size" : 14,
 		"color": "black"
 	    },
@@ -257,7 +257,11 @@
 	    "grid" : {
 		"file" : "Metropolis-Bold.otf",
 		"size" : 10
-	    },
+		},
+		"footer" : {
+		"file" : "Metropolis-Regular.otf",
+		"size" : 10
+		},
 	},
 
 	// Fonts that can be specified, but need not.
