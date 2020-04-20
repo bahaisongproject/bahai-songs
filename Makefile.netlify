@@ -37,8 +37,8 @@ $(output)/%.pdf: $(source)/%.pro
 
 # Comment out the following two lines, if you don't want the bsp watermark
 
-   @pdftk "$(@)" stamp $(static)/watermark/watermark.pdf output "$(@)_"
-   @mv "$(@)_" "$(@)"
+#    @pdftk "$(@)" stamp $(static)/watermark/watermark.pdf output "$(@)_"
+#    @mv "$(@)_" "$(@)"
 
 .PHONY: songbook
 songbook:
