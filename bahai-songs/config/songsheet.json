@@ -223,25 +223,25 @@
 
 	"fonts" : {
 		"title" : { // actually, this is the header
-		"file" : "EBGaramond08-Regular.otf",
+		"file" : "AvenirNext-Regular.otf",
 		"size" : 12,
 		// "color": "grey"
 		},
 	    "subtitle" : { // actually, this is the title
-		"file" : "EBGaramond08-Regular.otf",
+		"file" : "AvenirNext-Regular.otf",
 		"size" : 18
 	    },
 	    "text" : {
-		"file" : "Metropolis-Regular.otf",
+		"file" : "AvenirNext-Regular.otf",
 		"size" : 16
 	    },
 	    "chord" : {
-		"file" : "Metropolis-Bold.otf",
+		"file" : "AvenirNext-Regular.otf",
 		"size" : 14,
 		"color": "black"
 	    },
 	    "comment" : {
-		"file" : "Metropolis-regular.otf",
+		"file" : "AvenirNext-Regular.otf",
 		"size" : 12,
 		"color": "black",
 		"background": "white",
@@ -251,11 +251,11 @@
 		"size" : 10
 	    },
 	    "toc" : {
-		"file" : "Metropolis-Regular.otf",
+		"file" : "AvenirNext-Regular.otf",
 		"size" : 11
 	    },
 	    "grid" : {
-		"file" : "Metropolis-Bold.otf",
+		"file" : "AvenirNext-Regular.otf",
 		"size" : 10
 	    },
 	},
