@@ -1,6 +1,6 @@
 {title: Deine Städte}
-{words: Bahá’u’lláh}
-{music: Sarah Liebler & Ting Xiu}
+{words: Bahá'u'lláh}
+{music: Ting Xiu & Sarah Liebler}
 {c: Capo: I}
 
 ||: [D]Ich bitte D[Em]ich bei Deinem [C]  erhabensten Namen[G] :||

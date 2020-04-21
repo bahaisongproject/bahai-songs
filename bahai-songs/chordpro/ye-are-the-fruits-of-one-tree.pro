@@ -1,5 +1,5 @@
 {title: Ye Are the Fruits of One Tree}
-{words: Bahá’u’lláh & Bahá’u’lláh}
+{words: Bahá’u’lláh}
 {music: }
 
 ||: Ye are the fruits of one tree and the leaves of one branch :||

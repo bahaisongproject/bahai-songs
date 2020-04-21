@@ -31,7 +31,7 @@ def get_title(song):
 def get_words(song):
     """Authors of the text the song is based on"""
     authors = [source['source_author'] for source in song['sources']]
-    authors = [a for a in authors if a is not None]
+    authors = list(set([a for a in authors if a is not None]))  # in case there is multiple excerpts from the same author
     if len(authors) > 2:
         return " & ".join([", ".join(authors[:-1]), authors[-1]])
     return ' & '.join(authors)

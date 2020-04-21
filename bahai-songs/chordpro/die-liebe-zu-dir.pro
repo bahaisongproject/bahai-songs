@@ -1,4 +1,5 @@
 {title: Die Liebe zu Dir}
+{words: Bahá’u'lláh}
 {music: Chad Smith}
 
 Dein Name ist mein Heilung O mein Gott

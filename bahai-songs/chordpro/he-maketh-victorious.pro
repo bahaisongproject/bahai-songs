@@ -1,6 +1,6 @@
 {title: He Maketh Victorious}
 {words: The Báb}
-{music: Badasht}
+{music: The Badasht Project}
 {define: B5 base-fret 1 frets X 2 4 4 0 X}
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 {define: Edim7 base-fret 1 frets X X 2 3 2 3}

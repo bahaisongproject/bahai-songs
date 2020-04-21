@@ -1,5 +1,5 @@
-{title:Tiny Seed}
-{words: ‘Abdu’l-Bahá}
+{title: Tiny Seed}
+{words: Bahá'u'lláh}
 {music: Roya Baumann}
 
 I [A]am, I [A]am

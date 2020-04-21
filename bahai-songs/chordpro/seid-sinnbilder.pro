@@ -1,6 +1,6 @@
 {title: Seid Sinnbilder}
 {words: ‘Abdu’l-Bahá}
-{music: Teaching Project Munich, Germany}
+{music: }
 {c: Capo: III}
 
 [C]   Seid S[Am]innbilder der F[G]ühr[Am]ung

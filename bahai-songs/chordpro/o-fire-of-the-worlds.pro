@@ -1,5 +1,5 @@
 {title: O Fire of the Worlds}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
 {music: Max Weigert}
 
 Wh[C]ere is the w[G]armth of Thy l[D]ove

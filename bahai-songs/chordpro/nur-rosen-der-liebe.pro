@@ -1,6 +1,6 @@
-{title:Nur Rosen der Liebe}
+{title: Nur Rosen der Liebe}
 {words: Bahá'u'lláh}
-{music: Çelebi family}
+{music: }
 
 Nur R[D]osen der L[A]iebe
 pfl[G]anze in den Garten 

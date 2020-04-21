@@ -1,5 +1,5 @@
 {title: Do Not Despair}
-{words: ‘Abdu’l-Bahá & ‘Abdu’l-Bahá}
+{words: ‘Abdu’l-Bahá}
 {music: Emilia Ahrari & Lua Nazerian}
 {c: Capo: III}
 

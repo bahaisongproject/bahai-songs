@@ -1,6 +1,6 @@
-{title: Mache mein Gebet}
+{title: Mache Mein Gebet}
 {words: Bahá'u'lláh}
-{music: Ruhi Camp Munich, Germany}
+{music: }
 {c: Capo: III}
 
 ||: M[G]ache mein Gebet zu [Am7]einem Feuer,

@@ -1,5 +1,5 @@
 {title: Ablaze}
-{words: Abdu’l-Bahá}
+{words: ‘Abdu’l-Bahá}
 {music: Tamara Duncan}
 
 ||: O my L[Am]ord! O my L[C]ord! This is a l[G]amp lighted by

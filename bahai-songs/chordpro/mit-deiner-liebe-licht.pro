@@ -1,6 +1,6 @@
 {title: Mit Deiner Liebe Licht}
-{music: Junior Youth Camp Tulln 2016}
-{words: Abdu’l-Bahá}
+{words: ‘Abdu’l-Bahá}
+{music: }
 
 ||:[D]O Du mitleidvoller G[G]ott! [Em]O du mitleidvoller G[A7]ott!
 Sch[D]enke mir ein Herz, das [G]wie ein Glas erleuchtet werde 

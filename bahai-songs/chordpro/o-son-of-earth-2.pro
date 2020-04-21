@@ -1,5 +1,5 @@
 {title: O Son of Earth}
-{words: Bahá’u'lláh & Bahá’u'lláh}
+{words: Bahá’u'lláh}
 {music: Sophie Schönfeldinger, Leonie Schönfeldinger & Grant Hindin Miller}
 
 [C]O Son of Earth! Wouldst thou hav[G]e Me,

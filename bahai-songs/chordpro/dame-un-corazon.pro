@@ -1,6 +1,6 @@
 {title: Dame un Corazón}
 {words: ‘Abdu’l-Bahá}
-{music: Chad Smith & Alicia Perdú}
+{music: Alicia Perdú & Chad Smith}
 
 [Bm] Dame un c[A]orazón
 [G] Que com'un esp[F#7]ejo pueda

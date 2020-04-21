@@ -1,5 +1,5 @@
 {title: Be as a Lamp}
-{words: ‘Bahá'u'lláh}
+{words: Bahá'u'lláh}
 {music: }
 {c: Capo: III}
 

@@ -1,5 +1,6 @@
-{title: Strive ye}
+{title: Strive Ye}
 {words: ‘Abdu’l-Bahá}
+{music: }
 {c: Capo: II}
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 {define: G6 base-fret 1 frets 3 0 2 0 3 3}

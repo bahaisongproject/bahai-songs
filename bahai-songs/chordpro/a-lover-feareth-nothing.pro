@@ -1,5 +1,6 @@
 {title: A Lover Feareth Nothing}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
+{music: }
 
 A lover, a lover feareth nothing and
 no harm, no harm can come nigh him:
