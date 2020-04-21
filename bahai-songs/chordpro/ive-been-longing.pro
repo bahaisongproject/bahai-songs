@@ -1,5 +1,6 @@
 {title: I've been longing}
-{words: Gloria Golmohammadi & Lua Nazerian}
+{words: Gloria Golmohammadi}
+{words: Lua Nazerian}
 
 ||: I’ve been l[A]onging, o-o-oh :||
 That your v[Bm]oice will spread afar

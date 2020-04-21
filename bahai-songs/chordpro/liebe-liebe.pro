@@ -1,4 +1,5 @@
 {title: Liebe Liebe}
+{music: Creadell Haley}
 
 L[D]iebe, Liebe, Liebe, L[G]iebe, l[A]ieb die ganze W[D]elt. 
 D[D]enn die Liebe, L[G]iebe ist, d[E7]ie zusammenh[A]ält. 

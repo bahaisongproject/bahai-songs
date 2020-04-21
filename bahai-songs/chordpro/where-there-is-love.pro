@@ -1,5 +1,5 @@
 {title: Where There Is Love}
-{words: Based on a pilgrim note quoting 'Abdu'l-Bahá}
+{words: Based on a pilgrim note quoting ‘Abdu’l-Bahá}
 {music: Andy Grammer}
 {music: Aija Grammer}
 {define: E5 base-fret 7 frets 0 1 3 3 0 0}

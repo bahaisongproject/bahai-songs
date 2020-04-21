@@ -1,4 +1,7 @@
 {title: Do Not Despair}
+{words: ‘Abdu’l-Bahá}
+{music: Emilia Ahrari}
+{music: Lua Nazerian}
 {c: Capo: III}
 
 ||: Do not desp[C]air! Work st[G]eadily. Sincerity and l[E7]ove, 

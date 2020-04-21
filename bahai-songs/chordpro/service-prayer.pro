@@ -1,6 +1,7 @@
 {title: Service Prayer}
 {words: Bahá’u’lláh}
-{music: Nadine Reyhani & Mica Smith}
+{music: Nadine Reyhani}
+{music: Mica Smith}
 
 Do Thou d[Am]estine for m[C]e, O My G[Em]o-o-o-[F]o-d,
 what will s[Am]et m[C]e, at all t[Em]i-[F]imes,

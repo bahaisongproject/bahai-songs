@@ -1,7 +1,7 @@
 {title: Nenani}
 {words: The Báb}
 
-||: Kodi pali so wina :||
-wochosa matsauso kupatula Mulungu?
+||: Kodi palinso wina, kodi palinso wina
+Wochotsa masautso kupatula Mulungu? :||
 
-||: Nenani :||
+Nenani, nenani, nenani
