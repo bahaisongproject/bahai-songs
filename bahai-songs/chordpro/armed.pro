@@ -1,4 +1,5 @@
 {title: Armed}
+{words: Bahá'u'lláh}
 {music: Devon Gundry}
 
 [||:] [D] [Bm] [G] [D] [:||]

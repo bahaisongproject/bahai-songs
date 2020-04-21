@@ -1,5 +1,5 @@
 {title: Oyé Oyé}
-{words: Bahá’u'lláh & Bahá'u'lláh}
+{words: Bahá'u'lláh}
 {music: Leonor Dely & Millero Congo}
 
 ||: En[Bm]altece nuestra causa par[F#]a que yo te rev[Bm]ele :||
