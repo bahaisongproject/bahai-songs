@@ -3,16 +3,16 @@
 
 
 # Directory containing source files 
-source := bahai-songs/chordpro
+source := src
 
 # Directory containing pdf files
-output := bahai-songs/pdf
+output := public
 
 # Directory for static files
-static := bahai-songs/static
+static := static
 
 # Direcory for config files
-config := bahai-songs/config
+config := config
 
 # Songbook
 songbook := $(output)/_songbook.pdf
