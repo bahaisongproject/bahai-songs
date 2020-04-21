@@ -48,6 +48,7 @@ songbook:
 	@echo Making "$(songbook)"
 	@ls $(source)/* > $(source)/songbook.txt
 	@./chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
+	@exiftool -Title="song book | bahá'í song project" -overwrite_original "$(songbook)"
 	@rm $(source)/songbook.txt
 
 .PHONY: clean
