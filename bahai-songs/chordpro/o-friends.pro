@@ -1,5 +1,6 @@
 {title: O Friends}
-{words: Bahá’u’lláh}
+{words: Bahá’u'lláh}
+{music: }
 
 ||: O Fr[Am]iends! Ab[F]andon not the [C]everl[E]asting b[Am]eauty
 for a b[F]eauty that must d[C]ie- [E] [Am]    :||

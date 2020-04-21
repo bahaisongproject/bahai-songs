@@ -1,6 +1,6 @@
 {title: Blessed}
-{words: Bahá’u’lláh}
-{music: Elizabeth Hahn}
+{words: Bahá'u'lláh}
+{music: Elisabeth Hahn}
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 
 Bl[A]essed is the sp[Amaj7]ot, and the h[A7]ouse, and the pl[D]ace, and the c[D]ity, 

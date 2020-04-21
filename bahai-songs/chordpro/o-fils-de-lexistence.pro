@@ -1,5 +1,5 @@
-{title: O Fils de l'Existence}
-{words: Bahá’u’lláh}
+{title: Ô Fils de l'Existence}
+{words: Bahá'u'lláh}
 {music: Clarisse Le Deun}
 {define: Bm/F# base-fret 2 frets x x 3 3 2 1}
 {define: G6/D base-fret 2 frets x 4 4 3 2 0}

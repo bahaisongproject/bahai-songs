@@ -1,6 +1,6 @@
 {title: Fasst Gottes Gewand}
-{words: ‘Abdu’l-Bahá}
-{music: Ruhi Book 7, Germany}
+{words: Bahá'u'lláh}
+{music: }
 
 {c: 2x:}
 {soc}

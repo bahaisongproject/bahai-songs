@@ -1,5 +1,5 @@
 {title: Hemia Dei}
-{words: Bahá’u’lláh}
+{words: }
 {music: AJ Worek}
 
 [C]   Hemia Dei [G]   we long hem [Am]    Ol gudfala bl[F]essing blong God

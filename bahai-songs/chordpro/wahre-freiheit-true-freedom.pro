@@ -1,6 +1,6 @@
 {title: Wahre Freiheit (True Freedom)}
-{words: ‘Abdu’l-Bahá}
-{music: Adrian Zendeh, Corinne Bahia & Riaz Khabirpour}
+{words: }
+{music: Adrian Zendeh, Riaz Khabirpour & Corinne Bahia}
 {c: Capo: III}
 
 W[A]ahre Freiheit besteht in der L[D]oslösung

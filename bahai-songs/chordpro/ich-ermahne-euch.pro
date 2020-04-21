@@ -1,6 +1,6 @@
 {title: Ich Ermahne Euch}
 {words: ‘Abdu’l-Bahá}
-{music: Ruhi Book 7, Germany}
+{music: }
 
 ||: [Am]Ich ermahne [F]euch 
 all eure Ged[G]anken, Worte und T[D]aten zu opfern :||

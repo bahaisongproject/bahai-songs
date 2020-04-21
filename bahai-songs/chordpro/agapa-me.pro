@@ -1,5 +1,5 @@
 {title: Agapa Me}
-{words: Based on a Hidden Word of Bahá'u'lláh}
+{words: Bahá'u'lláh}
 {music: Anis Mirra}
 {Capo: 1}
 

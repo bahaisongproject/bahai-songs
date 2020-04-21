@@ -1,5 +1,5 @@
 {title: Bear and Endure}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
 {music: Bonnie Lisbeth}
 {c: Capo: I}
 

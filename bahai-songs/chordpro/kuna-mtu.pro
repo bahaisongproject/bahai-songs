@@ -1,5 +1,6 @@
 {title: Kuna Mtu}
-{words: The Báb}
+{words: }
+{music: }
 
  
 ||: Kuna mt[C]u awez[G]aye ku[G]ondoa shid[Em]a 

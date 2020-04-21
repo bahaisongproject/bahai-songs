@@ -1,5 +1,6 @@
 {title: My God, My Adored One}
-{words: Bahá’u’lláh}
+{words: Bahá’u'lláh}
+{music: }
 {c: Capo: I}
 
 ||: My G[Am]od, my God, my Ad[Dm]ored One, m[E]y King, m[Am]y Desire! :||

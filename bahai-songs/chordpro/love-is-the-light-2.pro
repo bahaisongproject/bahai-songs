@@ -1,6 +1,6 @@
-{title: Love Is the Light}
+{title: Love is the Light}
 {words: ‘Abdu’l-Bahá}
-{music: A group of friends at the BWC}
+{music: }
 {c: Capo: III}
 
 ||: Love is the l[G]ight that guideth in d[D]arkness, the living l[C]ink that 

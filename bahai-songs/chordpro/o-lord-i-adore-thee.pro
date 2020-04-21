@@ -1,4 +1,6 @@
-{title: O Lord, I Adore Thee}
+{title: O Lord I Adore Thee}
+{words: }
+{music: }
 
 
 [D]O L[Em]ord, I ad[A]ore Th[D]ee and I l[D]ay my l[G]ife bef[A]ore Th[D]ee

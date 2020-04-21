@@ -1,5 +1,5 @@
 {title: Veiled}
-{words: Bahá’u’lláh}
+{words: Bahá’u'lláh}
 {music: Ann-Sofie Wensbo}
 {define: C/B base-fret 1 frets x 2 0 0 1 0}
 

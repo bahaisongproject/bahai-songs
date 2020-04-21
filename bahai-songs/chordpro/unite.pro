@@ -1,6 +1,6 @@
 {title: Unite}
-{music: Ali Youssefi}
 {words: ‘Abdu’l-Bahá}
+{music: Ali Youssefi}
 
 {c: Verse:}
 {soc}

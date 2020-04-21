@@ -1,5 +1,6 @@
 {title: Remover of Difficulties}
 {words: The Báb}
+{music: }
 
 Is there any remover of
 difficulties save God?

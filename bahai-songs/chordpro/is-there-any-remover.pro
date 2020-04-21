@@ -1,7 +1,6 @@
 {title: Is There Any Remover}
 {words: The Báb}
-{music: Karomatangi Webb}
-{music: Lara Sprung}
+{music: Karomatangi Webb & Lara Sprung}
 
 {define: Bm7 base-fret 0 frets x 2 0 2 0 2}
 

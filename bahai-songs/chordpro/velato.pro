@@ -1,6 +1,6 @@
 {title: Velato}
-{words: Bahá'u'lláh}
-{music: Tahirè Subi}
+{words: Bahá’u'lláh}
+{music: Tahiré Subi}
 
 ||: V[G]elato n[C]el Mio essere [Am]immemorabil[D]e
 e nella ant[G]ica eternit[C]à d[Am]ella Mia ess[D]enza :||

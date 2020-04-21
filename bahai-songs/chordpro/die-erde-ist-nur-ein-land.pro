@@ -1,7 +1,6 @@
 {title: Die Erde ist nur ein Land}
-{words: Bahá’u’lláh}
-{music: Corinne Bahia}
-{music: Levin Zendeh}
+{words: Bahá'u'lláh}
+{music: Corinne Bahia & Levin Zendeh}
 
 ||: Die [G]Erde ist nur ein Land
 und alle Menschen sind seine B[D]ürger,

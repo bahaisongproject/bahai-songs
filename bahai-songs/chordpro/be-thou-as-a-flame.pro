@@ -1,5 +1,6 @@
 {title: Be Thou as a Flame}
-{words:  Bahá'u'lláh}
+{words: Bahá'u'lláh}
+{music: }
 {define: Am7 base-fret 0 frets x 0 2 0 1 0}
 {c: Capo: IV}
 

@@ -1,7 +1,6 @@
 {title: O My Servant}
 {words: Bahá'u'lláh}
-{music: Alexander Riedesser}
-{music: Kian Panahi}
+{music: Alexander Riedesser & Kian Panahi}
 
 {c: Capo III}
 

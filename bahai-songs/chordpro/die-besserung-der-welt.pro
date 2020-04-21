@@ -1,6 +1,6 @@
-{title:Die Besserung der Welt}
-{words: Bahá’u'lláh}
-{music: Reflection Meeting Munich}
+{title: Die Besserung der Welt}
+{words: Bahá'u'lláh}
+{music: }
 {c: Capo: II}
 
 ||: Die B[Em]esserung der W[C]elt kann durch r[G]eine und gute T[D]aten,

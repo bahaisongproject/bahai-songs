@@ -1,4 +1,6 @@
 {title: Ye Are the Flowers of One Garden}
+{words: }
+{music: }
 {c: Capo: V}
 
 Ye are the fl[C]owers of one garden and the fr[G]uits of one tree

@@ -1,5 +1,5 @@
 {title: Egli Vi Soccorrerà}
-{words: ‘Abdu'l-Bahá}
+{words: ‘Abdu’l-Bahá}
 {music: Anis Mirra}
 {c: Capo: I}
 {define: Emin7 base-fret 1 frets 0 x x 0 3 3}

@@ -1,5 +1,5 @@
 {title: Love, Love, Love}
-{words: Creadell Haley}
+{words: }
 {music: Creadell Haley}
 
 [C]Love, love, [F]love, love

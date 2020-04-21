@@ -1,5 +1,5 @@
 {title: Thou Art My Dominion}
-{words: Bahá’u’lláh}
+{words: Bahá’u'lláh}
 {music: Bonnie Lisbeth}
 {c: Capo: V}
 

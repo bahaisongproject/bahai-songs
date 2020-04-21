@@ -1,5 +1,6 @@
-{title: O Lord I am Weak}
+{title: O Lord I Am Weak}
 {words: ‘Abdu’l-Bahá}
+{music: }
 
 O Lord! I am weak, strengthen me
 with Thy power and potency. 

@@ -1,5 +1,5 @@
-{title: When Sorrow Comes}
-{words: Bahá’u’lláh}
+{title: When Sorrow Comes (Dominion Is God's)}
+{words: Bahá’u'lláh}
 {music: Shadi Toloui-Wallace}
 {c: Capo: IV}
 

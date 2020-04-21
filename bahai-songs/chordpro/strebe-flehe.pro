@@ -1,6 +1,6 @@
 {title: Strebe, Flehe}
 {words: ‘Abdu’l-Bahá}
-{music: Anke Keitel & Alexander Blom}
+{music: Alexander Blom & Anke Keitel}
 
 ||: Str[Am]ebe, fl[C]ehe und b[F]ete zu G[E]ott :||
 dass d[Am]eine F[C]estigkeit, [F]     deine Standh[E]aftigkeit

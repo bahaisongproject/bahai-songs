@@ -1,7 +1,6 @@
 {title: Thy Name Is My Healing}
-{words: Bahá’u’lláh}
-{music: Adib Naghashian}
-{music: Armita Khosravi}
+{words: Bahá’u'lláh}
+{music: Adib Naghashian & Armita Khosravi}
 
 ||: Th[G]y n[C]ame [G]is my h[D]ealing :||
 O my G[G]od, o my G[C]od, O my G[G]od, o my G[D]od

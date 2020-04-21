@@ -1,6 +1,6 @@
 {title: Unto Thee I Repair for Refuge}
 {words: The Báb}
-{music: ISGP Year 2  (Germany, 2015)}
+{music: }
 {c: Capo: IV}
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 {define: Cadd9 base-fret 1 frets x 3 2 0 3 3}

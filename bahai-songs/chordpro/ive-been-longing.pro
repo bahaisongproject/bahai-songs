@@ -1,6 +1,6 @@
-{title: I've been longing}
-{words: Gloria Golmohammadi}
-{words: Lua Nazerian}
+{title: I've Been Longing}
+{words: }
+{music: Lua Nazerian & Gloria Golmohammadi}
 
 ||: I’ve been l[A]onging, o-o-oh :||
 That your v[Bm]oice will spread afar

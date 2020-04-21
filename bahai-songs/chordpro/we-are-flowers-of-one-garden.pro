@@ -1,4 +1,6 @@
 {title: We Are Flowers of One Garden}
+{words: }
+{music: }
 
 W[A]e are flowers [E]of one g[A]arden
 c[D]olourful and fragrant, t[A]iny, big and s[E]mall

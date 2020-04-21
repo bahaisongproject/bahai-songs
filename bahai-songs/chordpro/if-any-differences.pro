@@ -1,5 +1,6 @@
 {title: If Any Differences}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
+{music: }
 
 If any d[Am]ifferences arise amongst you, 
 behold Me st[G]anding before your f[Am]ace

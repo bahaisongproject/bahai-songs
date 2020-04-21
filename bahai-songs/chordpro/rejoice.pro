@@ -1,5 +1,5 @@
 {title: Rejoice}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
 {music: Anis Mirra}
 {c: Capo: III}
 

@@ -1,6 +1,6 @@
-{title: Dame}
-{words: Bahá'u'lláh}
-{music: Leonor Dely}
+{title: Dame un Corazón}
+{words: ‘Abdu’l-Bahá}
+{music: Chad Smith & Alicia Perdú}
 
 [Bm] Dame un c[A]orazón
 [G] Que com'un esp[F#7]ejo pueda

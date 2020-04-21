@@ -1,5 +1,6 @@
 {title: God Grant}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
+{music: }
 
 ||: God gr[Am]ant that the light of [G]unity
 may env[D]elop the whole [Am]earth :||

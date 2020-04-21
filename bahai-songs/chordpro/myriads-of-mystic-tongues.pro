@@ -1,5 +1,5 @@
 {title: Myriads of Mystic Tongues}
-{words: Bahá’u’lláh}
+{words: Bahá’u'lláh}
 {music: Ameli Dziemba}
 
 M[Am]yriads of mystic tongues find [G]utterance in one sp[Am]eech, 

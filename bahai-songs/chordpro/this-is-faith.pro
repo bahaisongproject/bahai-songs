@@ -1,5 +1,5 @@
 {title: This Is Faith}
-{words: Amatu’l-Bahá Rúḥíyyih Khánum}
+{words: Amatu’l-Bahá Ruhiyyih Khanum}
 {music: Shadi Toloui-Wallace}
 {c: Capo: III}
 

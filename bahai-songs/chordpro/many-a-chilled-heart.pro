@@ -1,5 +1,5 @@
-{title: Many A Chilled Heart}
-{words: Bahá’u’lláh}
+{title: Many a Chilled Heart}
+{words: Bahá’u'lláh}
 {music: Bonnie Lisbeth}
 {c: Capo: V}
 

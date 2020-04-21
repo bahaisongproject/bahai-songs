@@ -1,5 +1,6 @@
-{title: Ye Are Even As The Fire}
-{words: Jesus, quoted by the Báb, quoted by Nabil}
+{title: Ye Are Even as the Fire}
+{words: The Báb}
+{music: }
 
 ||: Ye are [Am]even as the fire which in the d[Dm]arkness of the night 
 has been k[G]indled on the mountain t[Am]op. :||

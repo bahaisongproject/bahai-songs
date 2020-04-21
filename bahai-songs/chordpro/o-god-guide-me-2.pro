@@ -1,5 +1,6 @@
 {title: O God Guide Me}
 {words: ‘Abdu’l-Bahá}
+{music: }
 
 
 [D]O God, guide me, prot[G]ect m[D]e

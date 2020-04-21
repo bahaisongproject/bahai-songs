@@ -1,5 +1,5 @@
 {title: Immensity of Space}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
 {music: Rowshan}
 
 Wert thou to sp[Am]eed thr[Fmaj7]ough

@@ -1,6 +1,6 @@
-{title: Im Herzen ‘Abdu‘l-Bahás}
+{title: Im Herzen 'Abdu’l-Bahás}
 {words: ‘Abdu’l-Bahá}
-{music: Ruhi Book 8.1, Germany}
+{music: }
 {c: Capo: II}
 
 ||: [Am]Ihr wohnt [F]allesamt im    H[C]erzen ‘Abd[E]u‘l-Bahás :||

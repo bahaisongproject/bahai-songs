@@ -1,5 +1,6 @@
 {title: Remember At All Times}
-{words: ‘Abdu’l-Bahá}
+{words: Bahá'u'lláh}
+{music: }
 
 [Am][C][G]
 

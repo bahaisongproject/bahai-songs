@@ -1,5 +1,5 @@
 {title: In the Garden of Thy Heart}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
 {music: Baktash Khozoee}
 {c: Capo: I}
 

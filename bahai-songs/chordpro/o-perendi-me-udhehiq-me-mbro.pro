@@ -1,5 +1,6 @@
-{title: O Perëndi, Më Udhëhiq, Më Mbro}
+{title: O Perendi, Me Udhehiq Me Mbro}
 {words: ‘Abdu’l-Bahá}
+{music: }
 
 [Am] [Am] [Dm] [G] [C] [Am] [E] [E]
 

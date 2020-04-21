@@ -1,4 +1,4 @@
-{title: Gott Hilft denjenigen Seelen}
+{title: Gott Hilft Denjenigen Seelen}
 {words: ‘Abdu’l-Bahá}
 {music: Franziska Feuerstein-Antara}
 {define: Esus4 base-fret 1 frets 0 2 2 2 0 0}

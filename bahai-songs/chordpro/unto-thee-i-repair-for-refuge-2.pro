@@ -1,4 +1,4 @@
-{title: Unto Thee I Repair For Refuge}
+{title: Unto Thee I Repair for Refuge}
 {words: The Báb}
 {music: Pooya Poostchi}
 {c: Capo: II}

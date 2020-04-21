@@ -1,4 +1,4 @@
-{title: O Gott Erziehe diese Kinder}
+{title: O Gott Erziehe Diese Kinder}
 {words: ‘Abdu’l-Bahá}
 {music: Corinne Bahia & Levin Zendeh}
 

@@ -1,5 +1,6 @@
-{title: He Whom the Grace}
+{title: He Whom The Grace}
 {words: ‘Abdu’l-Bahá}
+{music: }
 {c: Capo: II}
 
 H[Am]e whom the grace [Em]of Thy mercy aideth,

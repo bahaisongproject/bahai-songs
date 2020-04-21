@@ -1,6 +1,6 @@
-{title: O Ni Uppriktiga}
+{title: O Ni Uppriktiga (O Ye Sincere Ones)}
 {words: ‘Abdu’l-Bahá}
-{music: Ruhi 5 Institute Campaign Sweden}
+{music: }
 
 ||: [G]O ni uppriktiga, n[D]i som längtar, 
 [Am]      ni som är dragna som [C]av en magnet :||

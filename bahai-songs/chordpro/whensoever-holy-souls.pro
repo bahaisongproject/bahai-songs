@@ -1,5 +1,6 @@
 {title: Whensoever Holy Souls}
 {words: ‘Abdu’l-Bahá}
+{music: }
 
 ||: Wh[C]ensoever holy souls, drawing on the powers of h[Em]eaven,
 shall ar[C]ise with such qualities of the sp[Em]irit, of the spirit :||

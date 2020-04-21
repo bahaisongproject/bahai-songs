@@ -1,7 +1,6 @@
 {title: Größere Gnade}
 {words: ‘Abdu’l-Bahá}
-{music: Alexander Riedesser}
-{music: Kian Panahi}
+{music: Alexander Riedesser & Kian Panahi}
 
 {c: Capo III}
 

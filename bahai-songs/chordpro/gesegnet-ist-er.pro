@@ -1,6 +1,6 @@
 {title: Gesegnet ist Er}
-{words: Bahá’u’lláh}
-{music: Ruhi Book 5, Germany}
+{words: Bahá'u'lláh}
+{music: }
 
 ||: Ges[Bm]egnet ist [D]er, der sich [A]in der Blüte seiner J[E]ugend :||
 und auf dem H[Bm]öhepunkt seines L[D]ebens erh[A]ebt, erh[E]ebt

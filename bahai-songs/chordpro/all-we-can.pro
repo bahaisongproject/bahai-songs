@@ -1,5 +1,6 @@
 {title: All We Can}
 {words: Shoghi Effendi}
+{music: }
 {c: Capo: I}
 
 [C]All we can reasonably v[G]enture to attempt

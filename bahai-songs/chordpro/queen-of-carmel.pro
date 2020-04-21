@@ -1,5 +1,5 @@
 {title: Queen of Carmel}
-{words: Jean Murday}
+{words: }
 {music: Jean Murday}
 
 St[C]anding [F]on the m[C]ount[Am]ain, l[F]ooking acr[G]oss the b[C]ay.

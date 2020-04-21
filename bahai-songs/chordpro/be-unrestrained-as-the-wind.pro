@@ -1,6 +1,6 @@
 {title: Be Unrestrained as the Wind}
-{words: Bahá’u’lláh}
-{music: Navid Sabet & Ursula Sabet}
+{words: Bahá'u'lláh}
+{music: Arian Ziaie & Navid Sabet}
 {c: Capo: III}
 
 [Am]  ||: Be unrestrained as the w[C]ind 

@@ -1,6 +1,6 @@
 {title: Mirages}
-{words: Bahá’u’lláh}
-{music: Le Deun Family}
+{words: Bahá’u'lláh}
+{music: }
 
 ||: En vérit[G]é, je vous l[F#]e dis, ce m[Bm]onde est semblable,
 à ces mir[G]ages du dés[F#]ert, que le v[Bm]oyageur assoiffé 

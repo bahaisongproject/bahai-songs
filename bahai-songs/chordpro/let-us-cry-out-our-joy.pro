@@ -1,5 +1,6 @@
 {title: Let Us Cry Out Our Joy}
 {words: ‘Abdu’l-Bahá}
+{music: }
 
 [C]    Let [C/B]us put as[Am]ide all th[F]oughts of self; [C]
 let us cl[C/B]ose our [Am]eyes to [F]all on ear[Am]th,

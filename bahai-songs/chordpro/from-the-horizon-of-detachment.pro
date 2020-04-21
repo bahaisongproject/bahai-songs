@@ -1,6 +1,6 @@
 {title: From the Horizon of Detachment}
 {words: ‘Abdu’l-Bahá}
-{music: Northern Lights Devotional}
+{music: }
 {c: Capo: III}
 
 From the hor[G]izon of detachment Thou hast m[D]anifested souls 

@@ -1,6 +1,6 @@
-{title: Où Peut Aller L’Amant}
-{words: Bahá’u’lláh}
-{music: Le Deun Family}
+{title: Où Peut Aller l'Amant}
+{words: Bahá’u'lláh}
+{music: }
 
 [D]Où peut aller l’[F#]amant [D]   sinon au p[F#]ays de sa bien-aim[G]ée? 
 Et quel chercheur tr[Bm]ouverait le rep[G]os loin de l'obj[A]et de son dés[D]ir? [F#]

@@ -1,5 +1,5 @@
-{title: Imbunătățirea Lumii}
-{words: Bahá'u'lláh}
+{title: Îmbunătățirea Lumii}
+{words: }
 {music: Maryam Zerbes}
 
 M-[Em]am întreb[D]at, m-[Em]am întreb[D]at, c[Em]um pot să-i aj[D]ut pe alții, 

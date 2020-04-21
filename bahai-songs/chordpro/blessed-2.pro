@@ -1,6 +1,6 @@
 {title: Blessed}
-{words: Bahá’u’lláh}
-{music: Gloria Golmohammadi (Original: Elizabeth Hahn)}
+{words: Bahá'u'lláh}
+{music: Gloria Golmohammadi & Elisabeth Hahn}
 
 Blessed is the spot, and the house, and the place, and the city, 
 and the heart, and the mountain

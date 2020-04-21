@@ -1,4 +1,6 @@
 {title: Erstickt die Flammen des Krieges}
+{words: }
+{music: }
 
 
 Erst[Am]ickt die Flammen des Kr[C]ieges

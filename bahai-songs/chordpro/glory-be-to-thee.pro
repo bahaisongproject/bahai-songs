@@ -1,5 +1,5 @@
-{title: Glory be to Thee}
-{words: Bahá’u’lláh}
+{title: Glory Be to Thee}
+{words: Bahá'u'lláh}
 {music: Maryam Hadji}
 
 ||: Gl[Am]ory be to Thee, [F]O God, 

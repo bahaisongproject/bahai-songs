@@ -1,5 +1,5 @@
 {title: Glädje och Vederkvickelse}
-{words: ‘Abdu’l-Bahá}
+{words: }
 {music: Emilia Ahrari & Lua Nazerian}
 
 ||: O G[E]ud! [A]    Giv mig själ gl[E]ädje [A]     och v[E]ederkv[A]ickelse. [E]  [A] :||

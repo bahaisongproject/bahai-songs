@@ -1,5 +1,5 @@
-{title: Stive that Day by Day}
-{words: ‘Abdu’l-Bahá}
+{title: Strive That Day by Day}
+{words: ‘Abdu’l-Bahá & ‘Abdu’l-Bahá}
 {music: Dicky Fusco}
 
 Str[C]ive that day by d[Am]ay your act[F]ions may become

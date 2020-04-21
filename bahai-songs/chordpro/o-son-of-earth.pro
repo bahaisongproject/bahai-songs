@@ -1,5 +1,5 @@
 {title: O Son of Earth}
-{words: Bahá’u’lláh}
+{words: Bahá’u'lláh}
 {music: Dean Kalyan & Gergana Vellinova}
 
 [Em] ||: O Son of Earth! Wouldst thou have Me,
