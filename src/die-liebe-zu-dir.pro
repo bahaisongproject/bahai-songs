@@ -1,5 +1,5 @@
 {title: Die Liebe zu Dir}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: Chad Smith}
 {song_url: https://new.bsp.app/die-liebe-zu-dir}
 

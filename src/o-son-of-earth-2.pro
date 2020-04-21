@@ -1,5 +1,5 @@
 {title: O Son of Earth}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: Sophie Schönfeldinger, Leonie Schönfeldinger & Grant Hindin Miller}
 {song_url: https://new.bsp.app/o-son-of-earth-2}
 

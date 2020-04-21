@@ -1,5 +1,5 @@
 {title: O Son of Earth}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: Dean Kalyan & Gergana Vellinova}
 {song_url: https://new.bsp.app/o-son-of-earth}
 

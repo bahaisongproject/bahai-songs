@@ -1,5 +1,5 @@
 {title: My God, My Adored One}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: }
 {song_url: https://new.bsp.app/my-god-my-adored-one}
 {c: Capo: I}

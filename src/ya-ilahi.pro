@@ -1,6 +1,7 @@
 {title: Yá Iláhi}
-{words:  Bahá'u'lláh}
+{words: Bahá'u'lláh}
 {music: Amin Rafat}
+{song_url: https://new.bsp.app/ya-ilahi}
 
 {define: Em(b13) base-fret 2 frets 0 2 1 0 0 0}
 {define: Em9 base-fret 4 frets 0 2 1 0 0 0}

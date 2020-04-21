@@ -1,5 +1,5 @@
 {title: My Providence}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: Nadine Reyhani & Mica Smith}
 {song_url: https://new.bsp.app/my-providence}
 {c: Capo: IV}

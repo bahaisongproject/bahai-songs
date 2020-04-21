@@ -1,5 +1,5 @@
 {title: Yá Bahá'u'l-Abhá}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
 {music: }
 {song_url: https://new.bsp.app/ya-bahaul-abha}
 

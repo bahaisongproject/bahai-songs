@@ -1,5 +1,5 @@
 {title: Où Peut Aller l'Amant}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: }
 {song_url: https://new.bsp.app/ou-peut-aller-lamant}
 

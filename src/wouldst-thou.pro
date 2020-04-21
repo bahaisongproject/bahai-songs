@@ -1,5 +1,5 @@
 {title: Wouldst Thou}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: Naim Pilon}
 {song_url: https://new.bsp.app/wouldst-thou}
 {c: Capo: IV}

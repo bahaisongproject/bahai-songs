@@ -1,5 +1,5 @@
 {title: Whither Shall I Turn}
-{words: Bahá’u’lláh}
+{words: Bahá'u'lláh}
 {music: Bonnie Lisbeth}
 {song_url: https://new.bsp.app/whither-shall-i-turn}
 {c: Capo: III}

@@ -1,5 +1,5 @@
 {title: So So Powerful}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: Naim Abid}
 {song_url: https://new.bsp.app/so-so-powerful}
 

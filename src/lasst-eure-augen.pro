@@ -1,5 +1,5 @@
 {title: Lasst Eure Augen}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: }
 {song_url: https://new.bsp.app/lasst-eure-augen}
 {define: Fmaj7 base-fret 1 frets 0 0 2 2 1 1}

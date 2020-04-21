@@ -1,5 +1,5 @@
 {title: Many a Chilled Heart}
-{words: Bahá’u'lláh}
+{words: Bahá'u'lláh}
 {music: Bonnie Lisbeth}
 {song_url: https://new.bsp.app/many-a-chilled-heart}
 {c: Capo: V}
