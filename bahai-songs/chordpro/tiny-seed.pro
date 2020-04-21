@@ -1,5 +1,4 @@
 {title:Tiny Seed}
-{subtitle:Roya Baumann}
 {words: ‘Abdu’l-Bahá}
 {music: Roya Baumann}
 
