@@ -193,13 +193,13 @@
 	    // By default, a page has:
 	    "default" : {
 	        // Header.
-	    	"title"     : [ "Words: %{words}", "", "Music: %{music}" ],
+	    	"title"     : [ "%{words}", "", "%{music}" ],
 			// Footer.
 	    	"footer"    : [ "", "bahai-song-project.de", "" ],
 	    },
 	    // The first page of the song:
 	    "title" : {
-			"title"     : [ "Words: %{words}", "", "Music: %{music}" ],
+			"title"     : [ "%{words}", "", "%{music}" ],
 			"subtitle"  : [ "", "%{title}", "" ],
 			"footer"    : [ "", "bahai-song-project.de", "" ],
 		},
