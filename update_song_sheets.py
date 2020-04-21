@@ -3,8 +3,8 @@ import requests
 import json
 
 BSP_API_URL = "https://bsp-graphql-server.herokuapp.com"
-CHORDPRO_DIR = "bahai-songs/chordpro"
-CHORDPRO_DIR_NEW = "bahai-songs/chordpro_new"
+BSP_API_URL = "http://localhost:4000"
+CHORDPRO_DIR = "src"
 
 query = """query {
     songs {
@@ -65,7 +65,7 @@ for file_name in chordpro_file_names:
         with open(os.path.join(CHORDPRO_DIR, file_name), 'r') as f:
             lines = f.readlines()
             for line in lines:
-                if line.startswith("{title:") or line.startswith("{words:") or line.startswith("{music:"):
+                if line.startswith("{title:") or line.startswith("{words:") or line.startswith("{music:") or line.startswith("{song_url:"):
                     pass
                 else:
                     new_lines.append(line)
