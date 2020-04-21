@@ -1,6 +1,7 @@
 {title: Say God Sufficeth}
 {words: The Báb}
 {music: Tom Price}
+{song_url: https://new.bsp.app/say-god-sufficeth}
 
 Say G[D]od sufficeth [G]all things ab[A]ove all things
 and n[D]othing in the h[G]eavens or the [A]earth but G[D]od suffice-[G][A]    eth.

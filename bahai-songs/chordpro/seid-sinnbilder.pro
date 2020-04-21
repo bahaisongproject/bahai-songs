@@ -1,6 +1,7 @@
 {title: Seid Sinnbilder}
 {words: ‘Abdu’l-Bahá}
 {music: }
+{song_url: https://new.bsp.app/seid-sinnbilder}
 {c: Capo: III}
 
 [C]   Seid S[Am]innbilder der F[G]ühr[Am]ung

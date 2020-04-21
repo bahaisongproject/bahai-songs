@@ -1,6 +1,7 @@
 {title: Remember Not Your Own Limitations}
 {words: ‘Abdu’l-Bahá}
 {music: Rosalynd Koch & Pascal Naim Schmidt}
+{song_url: https://new.bsp.app/remember-not-your-own-limitations}
 {define: Emadd9 base-fret 1 frets 0 2 2 0 0 2}
 {define: Am6 base-fret 1 frets x 0 2 2 1 2}
 {define: CaddG base-fret 1 frets 0 3 2 0 1 3}

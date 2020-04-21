@@ -1,6 +1,7 @@
 {title: Dis Dieu}
 {words: The Báb}
 {music: Joanna Naegeli}
+{song_url: https://new.bsp.app/dis-dieu}
 
 ||:[F]   Dis: D[C]ieu suffit à t[G]out, au-del[Am]à de tout. :||
 ||: Et r[F]ien, ni dans les ci[C]eux, ni sur la t[G]erre, 

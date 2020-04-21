@@ -1,6 +1,7 @@
 {title: Mirages}
 {words: Bahá’u'lláh}
 {music: }
+{song_url: https://new.bsp.app/mirages}
 
 ||: En vérit[G]é, je vous l[F#]e dis, ce m[Bm]onde est semblable,
 à ces mir[G]ages du dés[F#]ert, que le v[Bm]oyageur assoiffé 

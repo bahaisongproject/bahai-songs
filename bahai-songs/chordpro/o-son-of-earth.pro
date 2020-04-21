@@ -1,6 +1,7 @@
 {title: O Son of Earth}
 {words: Bahá’u'lláh}
 {music: Dean Kalyan & Gergana Vellinova}
+{song_url: https://new.bsp.app/o-son-of-earth}
 
 [Em] ||: O Son of Earth! Wouldst thou have Me,
 [Am] seek none other than M[Em]e :||

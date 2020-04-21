@@ -1,6 +1,7 @@
 {title: If Thou Lovest Me}
 {words: Bahá'u'lláh}
 {music: The Badasht Project}
+{song_url: https://new.bsp.app/if-thou-lovest-me}
 
 {define: C/B base-fret 0 frets x 2 0 1 0 0 }
 

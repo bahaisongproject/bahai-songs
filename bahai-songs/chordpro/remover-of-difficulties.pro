@@ -1,6 +1,7 @@
 {title: Remover of Difficulties}
 {words: The Báb}
 {music: }
+{song_url: https://new.bsp.app/remover-of-difficulties}
 
 Is there any remover of
 difficulties save God?

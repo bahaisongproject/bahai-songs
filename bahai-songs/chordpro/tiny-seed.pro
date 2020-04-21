@@ -1,6 +1,7 @@
 {title: Tiny Seed}
 {words: Bahá'u'lláh}
 {music: Roya Baumann}
+{song_url: https://new.bsp.app/tiny-seed}
 
 I [A]am, I [A]am
 O my G[D]od! O my G[A]od!

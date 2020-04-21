@@ -1,6 +1,7 @@
 {title: All We Can}
 {words: Shoghi Effendi}
 {music: }
+{song_url: https://new.bsp.app/all-we-can}
 {c: Capo: I}
 
 [C]All we can reasonably v[G]enture to attempt

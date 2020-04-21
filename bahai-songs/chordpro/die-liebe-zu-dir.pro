@@ -1,6 +1,7 @@
 {title: Die Liebe zu Dir}
 {words: Bahá’u'lláh}
 {music: Chad Smith}
+{song_url: https://new.bsp.app/die-liebe-zu-dir}
 
 Dein Name ist mein Heilung O mein Gott
 Dein Gedenken meine Arznei

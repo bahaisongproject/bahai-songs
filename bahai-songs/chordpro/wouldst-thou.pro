@@ -1,6 +1,7 @@
 {title: Wouldst Thou}
 {words: Bahá’u'lláh}
 {music: Naim Pilon}
+{song_url: https://new.bsp.app/wouldst-thou}
 {c: Capo: IV}
 
 ||: W[Am]ouldst thou h[Em]ave Me,[G]   seek none [D]other than M[Am]e [Em][G][D]

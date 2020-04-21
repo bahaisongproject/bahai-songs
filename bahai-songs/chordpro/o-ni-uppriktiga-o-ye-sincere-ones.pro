@@ -1,6 +1,7 @@
 {title: O Ni Uppriktiga (O Ye Sincere Ones)}
 {words: ‘Abdu’l-Bahá}
 {music: }
+{song_url: https://new.bsp.app/o-ni-uppriktiga-o-ye-sincere-ones}
 
 ||: [G]O ni uppriktiga, n[D]i som längtar, 
 [Am]      ni som är dragna som [C]av en magnet :||

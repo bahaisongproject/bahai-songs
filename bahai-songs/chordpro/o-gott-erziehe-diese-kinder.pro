@@ -1,6 +1,7 @@
 {title: O Gott Erziehe Diese Kinder}
 {words: ‘Abdu’l-Bahá}
 {music: Corinne Bahia & Levin Zendeh}
+{song_url: https://new.bsp.app/o-gott-erziehe-diese-kinder}
 
 || [Bb]O Gott! Erz[D#]iehe diese K[Bb]inder || 3x [Bb][D#][Bb]
 ||: Sie sind die Pfl[Gm]anzen Deines H[Bb]aines,

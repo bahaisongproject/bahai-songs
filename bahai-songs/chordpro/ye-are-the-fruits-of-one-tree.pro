@@ -1,6 +1,7 @@
 {title: Ye Are the Fruits of One Tree}
 {words: Bahá’u’lláh}
 {music: }
+{song_url: https://new.bsp.app/ye-are-the-fruits-of-one-tree}
 
 ||: Ye are the fruits of one tree and the leaves of one branch :||
 

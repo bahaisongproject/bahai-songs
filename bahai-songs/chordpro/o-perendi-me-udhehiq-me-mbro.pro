@@ -1,6 +1,7 @@
-{title: O Perendi, Me Udhehiq Me Mbro}
+{title: O Perëndi, Më Udhëhiq, Më Mbro}
 {words: ‘Abdu’l-Bahá}
 {music: }
+{song_url: https://new.bsp.app/o-perendi-me-udhehiq-me-mbro}
 
 [Am] [Am] [Dm] [G] [C] [Am] [E] [E]
 

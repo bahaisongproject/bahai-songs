@@ -44,6 +44,10 @@ def get_music(song):
         return " & ".join([", ".join(artists[:-1]), artists[-1]])
     return ' & '.join(artists)
 
+def get_song_url(song):
+    """Get URL of song"""
+    return "https://new.bsp.app/" + song['slug']
+
 chordpro_file_names = os.listdir(CHORDPRO_DIR)
 
 for file_name in chordpro_file_names:
@@ -52,10 +56,12 @@ for file_name in chordpro_file_names:
         title = get_title(songs[slug])
         words = get_words(songs[slug])
         music = get_music(songs[slug])
+        song_url = get_song_url(songs[slug])
         title_line = f"{{title: {title}}}\n"
         words_line = f"{{words: {words}}}\n"
         music_line = f"{{music: {music}}}\n"
-        new_lines = [title_line, words_line, music_line]
+        song_url_line = f"{{song_url: {song_url}}}\n"
+        new_lines = [title_line, words_line, music_line, song_url_line]
         with open(os.path.join(CHORDPRO_DIR, file_name), 'r') as f:
             lines = f.readlines()
             for line in lines:

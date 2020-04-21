@@ -1,6 +1,7 @@
 {title: O Lord Provide}
 {words: The Báb}
 {music: Bonnie Lisbeth}
+{song_url: https://new.bsp.app/o-lord-provide}
 
 {sot}
 |---------------------------------|      |---------------------------------|

@@ -1,6 +1,7 @@
 {title: O That I Could Travel}
 {words: ‘Abdu’l-Bahá}
 {music: James Mohajer}
+{song_url: https://new.bsp.app/o-that-i-could-travel-2}
 {c: Capo: III}
 
 [G]O that I could tr[Cadd9]avel, [Dsus4]even though on f[G]oot 

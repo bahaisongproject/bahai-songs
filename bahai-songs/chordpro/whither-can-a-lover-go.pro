@@ -1,6 +1,7 @@
 {title: Whither Can a Lover Go}
 {words: Bahá’u'lláh}
 {music: Alexandra Mahally}
+{song_url: https://new.bsp.app/whither-can-a-lover-go}
 {c: Capo: II}
 
 Wh[A]ither can a l[G]over go but to the l[D]and of his bel[A]oved?

@@ -1,6 +1,7 @@
 {title: I Know Not}
 {words: Bahá'u'lláh}
 {music: Bonnie Lisbeth & AJ Worek}
+{song_url: https://new.bsp.app/i-know-not}
 {c: Capo: IV}
 {define: Cadd9 base-fret 1 frets 0 3 2 0 3 3}
 {define: G base-fret 1 frets 3 2 0 0 3 3}

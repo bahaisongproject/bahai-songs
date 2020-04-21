@@ -1,6 +1,7 @@
 {title: Dein Paradies}
 {words: Bahá'u'lláh}
 {music: Levin Zendeh}
+{song_url: https://new.bsp.app/dein-paradies}
 
 ||: [E]O Sohn des [Amaj7]Seins!
 Dein [E] Paradies ist Meine L[Amaj7]iebe.

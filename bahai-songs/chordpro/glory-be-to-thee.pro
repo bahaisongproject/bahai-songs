@@ -1,6 +1,7 @@
 {title: Glory Be to Thee}
 {words: Bahá'u'lláh}
 {music: Maryam Hadji}
+{song_url: https://new.bsp.app/glory-be-to-thee}
 
 ||: Gl[Am]ory be to Thee, [F]O God, 
 f[G]or Thy manifestation of l[Am]ove to mankind! :||

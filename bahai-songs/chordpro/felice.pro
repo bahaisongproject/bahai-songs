@@ -1,6 +1,7 @@
 {title: Felice}
 {words: ‘Abdu'l-Bahá}
 {music: }
+{song_url: https://new.bsp.app/felice}
 
 Fel[A]ice l'anima ch[E]e, in quest'[D]era lumin[A]os[E]a, 
 ||: c[D]erca insegnam[A]ent[E]i, [A]insegnam[E]enti cel[F#m]esti :||

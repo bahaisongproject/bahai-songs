@@ -1,6 +1,7 @@
 {title: O Verlichte Jeugd}
 {words: ‘Abdu’l-Bahá}
 {music: Naim Pilon}
+{song_url: https://new.bsp.app/o-verlichte-jeugd}
 {c: Capo: III}
 
 [Dm]      O Verl[Am]ichte jeugd sp[G]an je dag en n[C]acht [G]

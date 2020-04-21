@@ -1,6 +1,7 @@
 {title: This Most Great Dispensation}
 {words: ‘Abdu’l-Bahá}
 {music: The Bahá'í Trio}
+{song_url: https://new.bsp.app/this-most-great-dispensation}
 
 [Bm][F#m][G][D][A]
 

@@ -1,6 +1,7 @@
 {title: Be as a Lamp}
 {words: Bahá'u'lláh}
 {music: }
+{song_url: https://new.bsp.app/be-as-a-lamp}
 {c: Capo: III}
 
 ||: Be as a l[G]amp unto them that w[C]alk in darkness, [Em] [D] 

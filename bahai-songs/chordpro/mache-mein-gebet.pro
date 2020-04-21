@@ -1,6 +1,7 @@
 {title: Mache Mein Gebet}
 {words: Bahá'u'lláh}
 {music: }
+{song_url: https://new.bsp.app/mache-mein-gebet}
 {c: Capo: III}
 
 ||: M[G]ache mein Gebet zu [Am7]einem Feuer,

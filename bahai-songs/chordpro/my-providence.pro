@@ -1,6 +1,7 @@
 {title: My Providence}
 {words: Bahá’u'lláh}
 {music: Nadine Reyhani & Mica Smith}
+{song_url: https://new.bsp.app/my-providence}
 {c: Capo: IV}
 
 ||: [Am]O Son of Man! My cal[C]amity is My pr[G]ovid[D]ence, 

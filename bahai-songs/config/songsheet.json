@@ -32,7 +32,7 @@
       "keys" : [ "title", "subtitle",
                  "artist", "music", "lyricist", "arranger",
                  "album", "copyright", "year", "words", "text_type", "id",
-                 "key", "time", "tempo", "capo", "duration" ],
+                 "key", "time", "tempo", "capo", "duration", "song_url" ],
       "strict" : true,
       "separator" : ", ",
     },
@@ -195,17 +195,17 @@
 	        // Header.
 	    	"title"     : [ "%{words}", "", "%{music}" ],
 			// Footer.
-	    	"footer"    : [ "", "bahai-song-project.de", "" ],
+	    	"footer"    : [ "", "%{song_url}", "" ],
 	    },
 	    // The first page of the song:
 	    "title" : {
 			"title"     : [ "%{words}", "", "%{music}" ],
 			"subtitle"  : [ "", "%{title}", "" ],
-			"footer"    : [ "", "bahai-song-project.de", "" ],
+			"footer"    : [ "", "%{song_url}", "" ],
 		},
 		// The first page of the output:
 	    "first" : {
-			"footer"    : [ "", "bahai-song-project.de", "" ],
+			"footer"    : [ "", "%{song_url}", "" ],
 	    },
 	},
 

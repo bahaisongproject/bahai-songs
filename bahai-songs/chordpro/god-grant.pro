@@ -1,6 +1,7 @@
 {title: God Grant}
 {words: Bahá'u'lláh}
 {music: }
+{song_url: https://new.bsp.app/god-grant}
 
 ||: God gr[Am]ant that the light of [G]unity
 may env[D]elop the whole [Am]earth :||

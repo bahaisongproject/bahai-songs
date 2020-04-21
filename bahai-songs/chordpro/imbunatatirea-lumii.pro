@@ -1,6 +1,7 @@
 {title: Îmbunătățirea Lumii}
 {words: }
 {music: Maryam Zerbes}
+{song_url: https://new.bsp.app/imbunatatirea-lumii}
 
 M-[Em]am întreb[D]at, m-[Em]am întreb[D]at, c[Em]um pot să-i aj[D]ut pe alții, 
 c[Em]um pot săi aj[D]ut pe alții. V[Em]ăd at[D]ițea [Em]oameni sufer[D]ind, 

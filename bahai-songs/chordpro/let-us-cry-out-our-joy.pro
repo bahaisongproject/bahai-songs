@@ -1,6 +1,7 @@
 {title: Let Us Cry Out Our Joy}
 {words: ‘Abdu’l-Bahá}
 {music: }
+{song_url: https://new.bsp.app/let-us-cry-out-our-joy}
 
 [C]    Let [C/B]us put as[Am]ide all th[F]oughts of self; [C]
 let us cl[C/B]ose our [Am]eyes to [F]all on ear[Am]th,

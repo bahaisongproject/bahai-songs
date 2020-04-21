@@ -1,6 +1,7 @@
 {title: Glädje och Vederkvickelse}
 {words: }
 {music: Emilia Ahrari & Lua Nazerian}
+{song_url: https://new.bsp.app/gladje-och-vederkvickelse}
 
 ||: O G[E]ud! [A]    Giv mig själ gl[E]ädje [A]     och v[E]ederkv[A]ickelse. [E]  [A] :||
 ||: Rena mitt hjärt[E]a. [A]    Genomstråla mina kr[E]after. [A] :||

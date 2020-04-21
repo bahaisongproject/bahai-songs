@@ -1,6 +1,7 @@
 {title: Blessed}
 {words: Bahá'u'lláh}
 {music: Melody Mazloom}
+{song_url: https://new.bsp.app/blessed-3}
 {c: Capo: III}
 
 Blessed is the sp[C]ot, and the house, and the place, and the city,

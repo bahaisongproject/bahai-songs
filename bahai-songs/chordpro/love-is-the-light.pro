@@ -1,6 +1,7 @@
 {title: Love is the Light}
 {words: ‘Abdu’l-Bahá}
 {music: Sara Agahi & Bonnie Lisbeth}
+{song_url: https://new.bsp.app/love-is-the-light}
 {define: A base-fret 5 frets 1 x x 2 0 0}
 {define: B base-fret 5 frets 3 x x 4 0 0}
 {define: C#min7 base-fret 7 frets 3 x x 3 0 0}

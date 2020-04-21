@@ -1,6 +1,7 @@
 {title: Zu Allen Zeiten}
 {words: ‘Abdu’l-Bahá}
 {music: }
+{song_url: https://new.bsp.app/zu-allen-zeiten}
 
 [C]||: Zu [C/B]allen Z[Am]eiten spreche [G]ich von [F]euch und denke an [G]euch :||
 
