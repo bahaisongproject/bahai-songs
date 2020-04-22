@@ -7,7 +7,7 @@
 [Cadd9] gener[G]ated all cre[Em7]ated th[D/F#]ings. :||
 
 ||: [Cadd9]I am I am I [G]am the C[Em7]ountenance of G[D/F#]od
-[Cadd9]I am I am I [G]am the L[Em7]]ight of G[D/F#]od :||
+[Cadd9]I am I am I [G]am the L[Em7]ight of G[D/F#]od :||
 
 [C]    Whose spl[Am]endour can n[Em]ever be obsc[D]ured
 [Am]    Whose r[C]adiance can n[G]ever, never f[D]ade.
@@ -18,4 +18,4 @@
 [Cadd9] gener[G]ated all cre[Em7]ated th[D/F#]ings. :||
 
 ||: [Cadd9]I am I am I [G]am the C[Em7]ountenance of G[D/F#]od
-[Cadd9]I am I am I [G]am the L[Em7]]ight of G[D/F#]od :||
+[Cadd9]I am I am I [G]am the L[Em7]ight of G[D/F#]od :||
