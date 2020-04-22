@@ -1,7 +1,7 @@
 {title: Ye Are the Flowers of One Garden}
 {words: }
 {music: }
-{song_url: https://new.bsp.app/ye-are-the-flowers-of-one-garden}
+{song_url: https://bsp.app/ye-are-the-flowers-of-one-garden}
 {c: Capo: V}
 
 Ye are the fl[C]owers of one garden and the fr[G]uits of one tree

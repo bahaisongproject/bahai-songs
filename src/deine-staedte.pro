@@ -1,7 +1,7 @@
 {title: Deine Städte}
 {words: Bahá'u'lláh}
 {music: Ting Xiu & Sarah Liebler}
-{song_url: https://new.bsp.app/deine-staedte}
+{song_url: https://bsp.app/deine-staedte}
 {c: Capo: I}
 
 ||: [D]Ich bitte D[Em]ich bei Deinem [C]  erhabensten Namen[G] :||

@@ -1,7 +1,7 @@
 {title: Strive That Day by Day}
 {words: ‘Abdu’l-Bahá}
 {music: Dicky Fusco}
-{song_url: https://new.bsp.app/strive-that-day-by-day}
+{song_url: https://bsp.app/strive-that-day-by-day}
 
 Str[C]ive that day by d[Am]ay your act[F]ions may become
 beautiful pr[G]ayers, your actions be beautiful pr[C]ayers

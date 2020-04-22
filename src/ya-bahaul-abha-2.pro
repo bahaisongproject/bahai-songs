@@ -1,7 +1,7 @@
 {title: Yá Bahá'u'l-Abhá}
 {words: }
 {music: }
-{song_url: https://new.bsp.app/ya-bahaul-abha-2}
+{song_url: https://bsp.app/ya-bahaul-abha-2}
 
 
 ||: Y[Bm]a   B[A]ah[G]a'u'l-[A]Abh[Bm]a

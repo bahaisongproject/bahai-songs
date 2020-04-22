@@ -1,7 +1,7 @@
 {title: O God Guide Me}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/o-god-guide-me-2}
+{song_url: https://bsp.app/o-god-guide-me-2}
 
 
 [D]O God, guide me, prot[G]ect m[D]e

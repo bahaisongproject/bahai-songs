@@ -1,7 +1,7 @@
 {title: Oyé Oyé}
 {words: Bahá'u'lláh}
 {music: Leonor Dely & Millero Congo}
-{song_url: https://new.bsp.app/oye-oye}
+{song_url: https://bsp.app/oye-oye}
 
 ||: En[Bm]altece nuestra causa par[F#]a que yo te rev[Bm]ele :||
 Los mist[Em]erios de mi grand[Bm]eza y as[F#]í brilles con mi l[Bm]uz

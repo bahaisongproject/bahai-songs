@@ -1,7 +1,7 @@
 {title: He Whom The Grace}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/he-whom-the-grace}
+{song_url: https://bsp.app/he-whom-the-grace}
 {c: Capo: II}
 
 H[Am]e whom the grace [Em]of Thy mercy aideth,

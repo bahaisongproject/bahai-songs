@@ -1,7 +1,7 @@
 {title: From the Horizon of Detachment}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/from-the-horizon-of-detachment}
+{song_url: https://bsp.app/from-the-horizon-of-detachment}
 {c: Capo: III}
 
 From the hor[G]izon of detachment Thou hast m[D]anifested souls 

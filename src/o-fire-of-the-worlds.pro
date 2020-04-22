@@ -1,7 +1,7 @@
 {title: O Fire of the Worlds}
 {words: Bahá'u'lláh}
 {music: Max Weigert}
-{song_url: https://new.bsp.app/o-fire-of-the-worlds}
+{song_url: https://bsp.app/o-fire-of-the-worlds}
 
 Wh[C]ere is the w[G]armth of Thy l[D]ove
 Wh[C]ere is the w[G]armth of Thy l[D]ove

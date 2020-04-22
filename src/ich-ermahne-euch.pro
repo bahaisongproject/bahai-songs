@@ -1,7 +1,7 @@
 {title: Ich Ermahne Euch}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/ich-ermahne-euch}
+{song_url: https://bsp.app/ich-ermahne-euch}
 
 ||: [Am]Ich ermahne [F]euch 
 all eure Ged[G]anken, Worte und T[D]aten zu opfern :||

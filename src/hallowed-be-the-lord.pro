@@ -1,7 +1,7 @@
 {title: Hallowed Be the Lord}
 {words: Bahá'u'lláh}
 {music: Gloria Golmohammadi}
-{song_url: https://new.bsp.app/hallowed-be-the-lord}
+{song_url: https://bsp.app/hallowed-be-the-lord}
 
 ||: [G]    O Fl[Cadd9]eeting Shadow! :|| 
 ||: [C]    Pass bey[Am]ond the baser stages of d[G]oubt :|| 

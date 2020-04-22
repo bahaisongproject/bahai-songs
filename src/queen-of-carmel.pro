@@ -1,7 +1,7 @@
 {title: Queen of Carmel}
 {words: }
 {music: Jean Murday}
-{song_url: https://new.bsp.app/queen-of-carmel}
+{song_url: https://bsp.app/queen-of-carmel}
 
 St[C]anding [F]on the m[C]ount[Am]ain, l[F]ooking acr[G]oss the b[C]ay.
 The Qu[C]een of C[F]armel r[C]ei- [Am]   gns,    she r[F]eigns maj[G]esticall[C]y

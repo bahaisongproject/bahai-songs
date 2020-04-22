@@ -1,7 +1,7 @@
 {title: Ye Are Even as the Fire}
 {words: The Báb}
 {music: }
-{song_url: https://new.bsp.app/ye-are-even-as-the-fire}
+{song_url: https://bsp.app/ye-are-even-as-the-fire}
 
 ||: Ye are [Am]even as the fire which in the d[Dm]arkness of the night 
 has been k[G]indled on the mountain t[Am]op. :||

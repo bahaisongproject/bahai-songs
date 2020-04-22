@@ -1,7 +1,7 @@
 {title: Armed}
 {words: Bahá'u'lláh}
 {music: Devon Gundry}
-{song_url: https://new.bsp.app/armed}
+{song_url: https://bsp.app/armed}
 
 [||:] [D] [Bm] [G] [D] [:||]
 

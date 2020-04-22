@@ -1,7 +1,7 @@
 {title: Corrobora}
 {words: ‘Abdu’l-Bahá}
 {music: Neda Parsa}
-{song_url: https://new.bsp.app/corrobora}
+{song_url: https://bsp.app/corrobora}
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 {define: [G/B] base-fret 1 frets x 2 0 0 3 3}
 {define: Cadd9 base-fret 1 frets x 3 2 0 3 3}

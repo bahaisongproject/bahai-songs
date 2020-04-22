@@ -1,7 +1,7 @@
 {title: At All Times}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/at-all-times-2}
+{song_url: https://bsp.app/at-all-times-2}
 {define: D base-fret 5 frets x 1 3 3 3 1}
 
 [D]At all t[Bm]imes do I sp[G]eak of you and c[D]all you to mind.

@@ -1,7 +1,7 @@
 {title: Youth Prayer}
 {words: ‘Abdu’l-Bahá}
 {music: Mateen Navidi}
-{song_url: https://new.bsp.app/youth-prayer}
+{song_url: https://bsp.app/youth-prayer}
 {c: Capo: VI}
 
 [C]O L[G]ord! M[Em]ake this y[D]outh rad[Am]iant, and conf[C]er Thy b[G]ounty up[Em]on this

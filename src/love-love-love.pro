@@ -1,7 +1,7 @@
 {title: Love, Love, Love}
 {words: }
 {music: Creadell Haley}
-{song_url: https://new.bsp.app/love-love-love}
+{song_url: https://bsp.app/love-love-love}
 
 [C]Love, love, [F]love, love
 [G]Love your fellow m[C]an

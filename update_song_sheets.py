@@ -2,6 +2,7 @@ import os
 import requests
 import json
 
+BSP_URL = "https://bsp.app/"
 BSP_API_URL = "https://bsp-graphql-server.herokuapp.com"
 BSP_API_URL = "http://localhost:4000"
 CHORDPRO_DIR = "src"
@@ -46,7 +47,7 @@ def get_music(song):
 
 def get_song_url(song):
     """Get URL of song"""
-    return "https://new.bsp.app/" + song['slug']
+    return BSP_URL + song['slug']
 
 chordpro_file_names = os.listdir(CHORDPRO_DIR)
 

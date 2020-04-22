@@ -1,7 +1,7 @@
 {title: Observe All The Things}
 {words: The Báb}
 {music: Armita Khosravi, Negin Zabihi & Effi Dimitriou}
-{song_url: https://new.bsp.app/observe-all-the-things}
+{song_url: https://bsp.app/observe-all-the-things}
 
 ||: Obs[D]erve all the th[Dm7]ings which G[C]od hath cre[G]ated
 Obs[D]erve all the th[Dm7]ings which G[C]od hath cre[G]ated

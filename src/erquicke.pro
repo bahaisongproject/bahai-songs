@@ -1,7 +1,7 @@
 {title: Erquicke}
 {words: ‘Abdu’l-Bahá}
 {music: Chad Smith}
-{song_url: https://new.bsp.app/erquicke}
+{song_url: https://bsp.app/erquicke}
 
 
 [][||:][Bm] [Bsus2] [Em7] [Asus2] [A][:||]

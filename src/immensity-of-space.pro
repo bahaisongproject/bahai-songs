@@ -1,7 +1,7 @@
 {title: Immensity of Space}
 {words: Bahá'u'lláh}
 {music: Rowshan}
-{song_url: https://new.bsp.app/immensity-of-space}
+{song_url: https://bsp.app/immensity-of-space}
 
 Wert thou to sp[Am]eed thr[Fmaj7]ough
 the imm[G]ensity of sp[E7]ace 

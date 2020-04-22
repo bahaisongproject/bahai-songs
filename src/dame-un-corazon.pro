@@ -1,7 +1,7 @@
 {title: Dame un Corazón}
 {words: ‘Abdu’l-Bahá}
 {music: Alicia Perdú & Chad Smith}
-{song_url: https://new.bsp.app/dame-un-corazon}
+{song_url: https://bsp.app/dame-un-corazon}
 
 [Bm] Dame un c[A]orazón
 [G] Que com'un esp[F#7]ejo pueda

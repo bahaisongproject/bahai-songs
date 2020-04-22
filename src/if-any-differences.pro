@@ -1,7 +1,7 @@
 {title: If Any Differences}
 {words: Bahá'u'lláh}
 {music: }
-{song_url: https://new.bsp.app/if-any-differences}
+{song_url: https://bsp.app/if-any-differences}
 
 If any d[Am]ifferences arise amongst you, 
 behold Me st[G]anding before your f[Am]ace

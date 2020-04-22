@@ -1,7 +1,7 @@
 {title: Bear and Endure}
 {words: Bahá'u'lláh}
 {music: Bonnie Lisbeth}
-{song_url: https://new.bsp.app/bear-and-endure}
+{song_url: https://bsp.app/bear-and-endure}
 {c: Capo: I}
 
 Were it n[Am]ot for t[C]he cold,

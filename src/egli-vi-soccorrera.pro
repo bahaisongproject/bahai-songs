@@ -1,7 +1,7 @@
 {title: Egli Vi Soccorrerà}
 {words: ‘Abdu’l-Bahá}
 {music: Anis Mirra}
-{song_url: https://new.bsp.app/egli-vi-soccorrera}
+{song_url: https://bsp.app/egli-vi-soccorrera}
 {c: Capo: I}
 {define: Emin7 base-fret 1 frets 0 x x 0 3 3}
 {define: Em$ base-fret 1 frets 0 2 2 0 0 3}

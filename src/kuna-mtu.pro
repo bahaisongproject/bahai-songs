@@ -1,7 +1,7 @@
 {title: Kuna Mtu}
 {words: }
 {music: }
-{song_url: https://new.bsp.app/kuna-mtu}
+{song_url: https://bsp.app/kuna-mtu}
 
  
 ||: Kuna mt[C]u awez[G]aye ku[G]ondoa shid[Em]a 

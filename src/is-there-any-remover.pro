@@ -1,7 +1,7 @@
 {title: Is There Any Remover}
 {words: The Báb}
 {music: Karomatangi Webb & Lara Sprung}
-{song_url: https://new.bsp.app/is-there-any-remover}
+{song_url: https://bsp.app/is-there-any-remover}
 
 {define: Bm7 base-fret 0 frets x 2 0 2 0 2}
 

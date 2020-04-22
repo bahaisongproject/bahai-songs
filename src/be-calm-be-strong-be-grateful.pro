@@ -1,7 +1,7 @@
 {title: Be Calm Be Strong Be Grateful}
 {words: ‘Abdu’l-Bahá}
 {music: Clara Haskell}
-{song_url: https://new.bsp.app/be-calm-be-strong-be-grateful}
+{song_url: https://bsp.app/be-calm-be-strong-be-grateful}
 
 
 [C]||: Be calm, [Am]     be strong, be [Fmaj7]          grateful, be [C]   gratef[G]ul.

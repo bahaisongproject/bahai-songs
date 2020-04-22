@@ -1,7 +1,7 @@
 {title: Yá Bahá'u'l-Abhá}
 {words: Bahá'u'lláh}
 {music: }
-{song_url: https://new.bsp.app/ya-bahaul-abha}
+{song_url: https://bsp.app/ya-bahaul-abha}
 
 Yá Bahá, Yá Bahá’u’l-Abhá, Ya-a-a
 Yá Alí, ya Alí’u’l-Allah, Ya-a-a

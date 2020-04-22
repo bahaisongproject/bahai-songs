@@ -1,7 +1,7 @@
 {title: Veredelt Eure Zunge}
 {words: Bahá'u'lláh}
 {music: Rahá Poostchi & Jonas Bruckmann}
-{song_url: https://new.bsp.app/veredelt-eure-zunge}
+{song_url: https://bsp.app/veredelt-eure-zunge}
 
 {c: Capo II}
 

@@ -1,7 +1,7 @@
 {title: Say}
 {words: The Báb}
 {music: Eric Harper}
-{song_url: https://new.bsp.app/say}
+{song_url: https://bsp.app/say}
 
 
 ||: S[Bm]ay, say God, God suffice, God sufficeth

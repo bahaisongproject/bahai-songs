@@ -1,7 +1,7 @@
 {title: O Son of Earth}
 {words: Bahá'u'lláh}
 {music: Sophie Schönfeldinger, Leonie Schönfeldinger & Grant Hindin Miller}
-{song_url: https://new.bsp.app/o-son-of-earth-2}
+{song_url: https://bsp.app/o-son-of-earth-2}
 
 [C]O Son of Earth! Wouldst thou hav[G]e Me,
 seek none other than M[Am]e;

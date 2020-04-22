@@ -1,7 +1,7 @@
 {title: Let Your Heart Burn}
 {words: ‘Abdu’l-Bahá}
 {music: Rosanna Lea}
-{song_url: https://new.bsp.app/let-your-heart-burn}
+{song_url: https://bsp.app/let-your-heart-burn}
 {c: Capo: III}
 {define: D/F# base-fret 0 frets 2 0 0 2 3 2}
  

@@ -1,7 +1,7 @@
 {title: O God Guide Me}
 {words: ‘Abdu’l-Bahá}
 {music: Anke Keitel}
-{song_url: https://new.bsp.app/o-god-guide-me}
+{song_url: https://bsp.app/o-god-guide-me}
 
 ||: [Am]O God, g[F]uide me, prot[G]ect m[Am]e :||
 ||: Ill[Am]umine the lamp of my h[F]eart

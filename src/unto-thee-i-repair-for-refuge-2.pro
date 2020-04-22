@@ -1,7 +1,7 @@
 {title: Unto Thee I Repair for Refuge}
 {words: The Báb}
 {music: Pooya Poostchi}
-{song_url: https://new.bsp.app/unto-thee-i-repair-for-refuge-2}
+{song_url: https://bsp.app/unto-thee-i-repair-for-refuge-2}
 {c: Capo: II}
 {define: G6add11 base-fret 1 frets 3 2 0 0 1 0}
 {define: G6 base-fret 1 frets 3 2 0 0 0 0}

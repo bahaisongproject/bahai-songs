@@ -1,7 +1,7 @@
 {title: Agapa Me}
 {words: Bahá'u'lláh}
 {music: Anis Mirra}
-{song_url: https://new.bsp.app/agapa-me}
+{song_url: https://bsp.app/agapa-me}
 {Capo: 1}
 
 Ag[Em]apa Me ia na se  agap[Cadd9]o

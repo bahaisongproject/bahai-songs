@@ -1,7 +1,7 @@
 {title: At All Times}
 {words: ‘Abdu’l-Bahá}
 {music: Reem Shaheed & FairGardens}
-{song_url: https://new.bsp.app/at-all-times}
+{song_url: https://bsp.app/at-all-times}
 {c: Capo: IV}
 
 [G]At all t[Cadd9]imes do I sp[G]eak of y[Cadd9]ou and c[G]all you to m[Cadd9]ind. 

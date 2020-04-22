@@ -1,7 +1,7 @@
 {title: Gesegnet ist Er}
 {words: Bahá'u'lláh}
 {music: }
-{song_url: https://new.bsp.app/gesegnet-ist-er}
+{song_url: https://bsp.app/gesegnet-ist-er}
 
 ||: Ges[Bm]egnet ist [D]er, der sich [A]in der Blüte seiner J[E]ugend :||
 und auf dem H[Bm]öhepunkt seines L[D]ebens erh[A]ebt, erh[E]ebt

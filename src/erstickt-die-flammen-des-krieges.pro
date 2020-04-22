@@ -1,7 +1,7 @@
 {title: Erstickt die Flammen des Krieges}
 {words: }
 {music: }
-{song_url: https://new.bsp.app/erstickt-die-flammen-des-krieges}
+{song_url: https://bsp.app/erstickt-die-flammen-des-krieges}
 
 
 Erst[Am]ickt die Flammen des Kr[C]ieges

@@ -1,7 +1,7 @@
 {title: O Lord I Am Weak}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/o-lord-i-am-weak}
+{song_url: https://bsp.app/o-lord-i-am-weak}
 
 O Lord! I am weak, strengthen me
 with Thy power and potency. 

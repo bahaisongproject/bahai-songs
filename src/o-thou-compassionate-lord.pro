@@ -1,7 +1,7 @@
 {title: O Thou Compassionate Lord}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/o-thou-compassionate-lord}
+{song_url: https://bsp.app/o-thou-compassionate-lord}
 
 
 [] O Thou comp[]assionate Lord, T[]hou Who art g[]enerous

@@ -1,7 +1,7 @@
 {title: Im Herzen 'Abdu’l-Bahás}
 {words: ‘Abdu’l-Bahá}
 {music: }
-{song_url: https://new.bsp.app/im-herzen-abdul-bahas}
+{song_url: https://bsp.app/im-herzen-abdul-bahas}
 {c: Capo: II}
 
 ||: [Am]Ihr wohnt [F]allesamt im    H[C]erzen ‘Abd[E]u‘l-Bahás :||

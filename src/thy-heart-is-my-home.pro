@@ -1,7 +1,7 @@
 {title: Thy Heart Is My home}
 {words: Bahá'u'lláh}
 {music: Alexander Riedesser & Kian Panahi}
-{song_url: https://new.bsp.app/thy-heart-is-my-home}
+{song_url: https://bsp.app/thy-heart-is-my-home}
 
 {c: Capo I}
 

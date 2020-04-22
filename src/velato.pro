@@ -1,7 +1,7 @@
 {title: Velato}
 {words: Bahá'u'lláh}
 {music: Tahiré Subi}
-{song_url: https://new.bsp.app/velato}
+{song_url: https://bsp.app/velato}
 
 ||: V[G]elato n[C]el Mio essere [Am]immemorabil[D]e
 e nella ant[G]ica eternit[C]à d[Am]ella Mia ess[D]enza :||

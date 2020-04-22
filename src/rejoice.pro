@@ -1,7 +1,7 @@
 {title: Rejoice}
 {words: Bahá'u'lláh}
 {music: Anis Mirra}
-{song_url: https://new.bsp.app/rejoice}
+{song_url: https://bsp.app/rejoice}
 {c: Capo: III}
 
 Rej[G]oice in the gladness [Gmaj7]of thine h[Em7]eart, 

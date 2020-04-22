@@ -1,7 +1,7 @@
 {title: O Lord Make This Youth Radiant}
 {words: ‘Abdu’l-Bahá}
 {music: Nava Khorram}
-{song_url: https://new.bsp.app/o-lord-make-this-youth-radiant}
+{song_url: https://bsp.app/o-lord-make-this-youth-radiant}
 {c: Capo: III}
 
 O L[Em]ord! Make this youth radi[C]ant, and confer Thy bount[G]y 

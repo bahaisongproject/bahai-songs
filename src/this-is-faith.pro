@@ -1,7 +1,7 @@
 {title: This Is Faith}
 {words: Amatu’l-Bahá Ruhiyyih Khanum}
 {music: Shadi Toloui-Wallace}
-{song_url: https://new.bsp.app/this-is-faith}
+{song_url: https://bsp.app/this-is-faith}
 {c: Capo: III}
 
 To w[G]alk where th[D]ere is no p[C]ath

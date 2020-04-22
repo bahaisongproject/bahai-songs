@@ -1,7 +1,7 @@
 {title: We Are Flowers of One Garden}
 {words: }
 {music: }
-{song_url: https://new.bsp.app/we-are-flowers-of-one-garden}
+{song_url: https://bsp.app/we-are-flowers-of-one-garden}
 
 W[A]e are flowers [E]of one g[A]arden
 c[D]olourful and fragrant, t[A]iny, big and s[E]mall

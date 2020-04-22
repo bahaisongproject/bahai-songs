@@ -1,7 +1,7 @@
 {title: Hemia Dei}
 {words: }
 {music: AJ Worek}
-{song_url: https://new.bsp.app/hemia-dei}
+{song_url: https://bsp.app/hemia-dei}
 
 [C]   Hemia Dei [G]   we long hem [Am]    Ol gudfala bl[F]essing blong God
 [C]  I bin fold[G]aon long ol man [Am][F]

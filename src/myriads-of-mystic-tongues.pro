@@ -1,7 +1,7 @@
 {title: Myriads of Mystic Tongues}
 {words: Bahá'u'lláh}
 {music: Ameli Dziemba}
-{song_url: https://new.bsp.app/myriads-of-mystic-tongues}
+{song_url: https://bsp.app/myriads-of-mystic-tongues}
 
 M[Am]yriads of mystic tongues find [G]utterance in one sp[Am]eech, 
 and m[Am]yriads of hidden mysteries 
