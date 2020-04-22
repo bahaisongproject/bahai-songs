@@ -1,6 +1,9 @@
 {title: Turn}
+{words: }
+{music: }
+{song_url: https://new.bsp.app/turn}
 
-My God, my Adored One, my King and my Desire 
+[D]My God, my Ad[G]ored [D]One, my King and my Desire 
 
 What tongue can voice my thanks to thee 
 

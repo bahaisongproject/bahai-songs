@@ -1,7 +1,7 @@
 {title: Where There Is Love}
-{words: Based on a pilgrim note quoting ‘Abdu’l-Bahá}
-{music: Andy Grammer}
-{music: Aija Grammer}
+{words: ‘Abdu’l-Bahá}
+{music: Andy Grammer & Aijia Grammer}
+{song_url: https://new.bsp.app/where-there-is-love}
 {define: E5 base-fret 7 frets 0 1 3 3 0 0}
 {define: A2 base-fret 7 frets 3 0 3 3 0 0}
 {define: E4 base-fret 7 frets 1 1 3 3 0 0}
