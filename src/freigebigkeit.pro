@@ -1,6 +1,7 @@
-{title:Freigebigkeit}
-{words: Bahá'u'lláh}
+{title: Freigebigkeit}
+{words: }
 {music: Chad Smith}
+{song_url: https://new.bsp.app/freigebigkeit}
 {define: Cadd9 base-fret 1 frets X 3 2 0 3 3}
 
 
