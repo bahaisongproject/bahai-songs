@@ -18,17 +18,17 @@
 |----------------------------------------------------|
 {eot}
 
-Sorrow not s[chord1]ave that thou [chord2]art far from [chord3]Us.
-Rejoice not s[chord1]ave that thou art d[chord]rawing near and ret[chord3]urning unto Us.
-Sorrow not s[chord1]ave that thou [chord2]art far from [chord3]Us.
+Sorrow not s[G]ave that thou [D]art far from [Cadd9]Us.
+Rejoice not s[G]ave that thou art d[D]rawing near and ret[Cadd9]urning unto Us.
+Sorrow not s[G]ave that thou [D]art far from [Cadd9]Us.
 
 ||: O Son of m[G]an! O Son of m[D]an! [Cadd9]Rejoice in the gl[G]adness of th[D/F#]ine heart, that thou mayest be
 [Cadd9]worthy to m[G]eet Me and to m[Em7]irror forth My b[D/F#]eauty :||
 
  My b[Cadd9]eauty  [G]   [D/F#]
 
-Sorrow not s[chord1]ave that thou [chord2]art far from [chord3]Us.
-Rejoice not s[chord1]ave that thou art d[chord]rawing near and ret[chord3]urning unto Us.
-Sorrow not s[chord1]ave that thou [chord2]art far from [chord3]Us.
+Sorrow not s[G]ave that thou [D]art far from [Cadd9]Us.
+Rejoice not s[G]ave that thou art d[D]rawing near and ret[Cadd9]urning unto Us.
+Sorrow not s[G]ave that thou [D]art far from [Cadd9]Us.
 
 O Son of m[G]an! O Son of m[D]an!
