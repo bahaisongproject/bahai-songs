@@ -34,7 +34,7 @@ $(output)/%.pdf: $(source)/%.pro
 
 	@echo Making "$(@)"...
 
-ifeq ($(NETLIFY), TRUE)
+ifeq ($(NETLIFY), true)
 	@./bin/chordpro/chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
 else
 	@chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
@@ -47,7 +47,7 @@ songbook:
 	@echo Making "$(songbook)"
 	@rm -f $(source)/songbook.txt
 	@ls $(source)/* > $(source)/songbook.txt
-ifeq ($(NETLIFY), TRUE)
+ifeq ($(NETLIFY), true)
 	@./bin/chordpro/chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
 else
 	@chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
