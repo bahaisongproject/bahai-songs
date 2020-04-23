@@ -33,7 +33,7 @@ $(output)/%.pdf: $(source)/%.pro
 	@[ -d $(output) ] || mkdir -p $(output)
 
 	@echo Making "$(@)"
-	@./chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
+	@./bin/chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
 
 # Comment out the following two lines, if you don't want the bsp watermark
 
@@ -47,7 +47,7 @@ songbook:
 	
 	@echo Making "$(songbook)"
 	@ls $(source)/* > $(source)/songbook.txt
-	@./chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
+	@./bin/chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
 	@exiftool -Title="song book | bahá'í song project" -overwrite_original "$(songbook)"
 	@rm $(source)/songbook.txt
 
