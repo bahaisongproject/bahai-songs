@@ -4,5 +4,8 @@
 ## OS files
 .DS_Store
 
+## temporary file
+src/songbook.txt
+
 ## PDF output
 public/*.pdf
