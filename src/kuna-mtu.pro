@@ -1,5 +1,5 @@
 {title: Kuna Mtu}
-{words: }
+{words: The Báb}
 {music: }
 {song_url: https://bsp.app/kuna-mtu}
 
