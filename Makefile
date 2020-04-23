@@ -33,7 +33,12 @@ $(output)/%.pdf: $(source)/%.pro
 	@[ -d $(output) ] || mkdir -p $(output)
 
 	@echo Making "$(@)"...
+
+ifndef $(NETLIFY)
 	@chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
+else
+	@./bin/chordpro/chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
+endif
 
 .PHONY: songbook
 songbook:
@@ -43,7 +48,11 @@ songbook:
 	@echo Making "$(songbook)"
 	@rm -f $(source)/songbook.txt
 	@ls $(source)/* > $(source)/songbook.txt
-	@chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
+ifndef $(NETLIFY)
+		@chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
+else
+		@./bin/chordpro/chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
+endif
 	@exiftool -Title="song book | bahá'í song project" -overwrite_original "$(songbook)"
 	@rm $(source)/songbook.txt
 
