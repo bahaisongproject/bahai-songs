@@ -15,7 +15,7 @@ static := static
 config := config
 
 # Songbook
-songbook := $(output)/_songbook.pdf
+songbook := $(output)/songbook.pdf
 
 # All .pro files in src/ are considered sources
 sources := $(wildcard $(source)/*.pro)
