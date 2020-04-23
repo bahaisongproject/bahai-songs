@@ -20,7 +20,12 @@ __Note on pdftk__:
 pdftk is only needed for adding the bahá'í song project logo -- you can also skip this and remove the command in the Makefile.
 
 __Note on pdftk with macOS Mojave__: 
-On macOS Mojave the version for the [10.6](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.6-setup.pkg) has been known to hang wheras the version for the [10.11](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg) setup does not.
+On macOS Mojave and Catalina the version for the 10.6 has been known not to work. A newer version that works but is not directly linked on their website is [10.11](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg).
 
 ## Contributing
 Please submit pull requests to fix mistakes and add new songs
+
+## Licenses
+- ChordPro, Copyright (c) 2010–2018 The ChordPro Team, licensed under Artistic License 2.0
+- Songs, Copyrights belong to their respective owners
+- Everything else, Copyright (c) 2020 Dayyan Smith, MIT License
