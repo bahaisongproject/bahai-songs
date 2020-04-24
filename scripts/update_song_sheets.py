@@ -7,7 +7,7 @@ BSP_API_URL = "https://bsp-graphql-server.herokuapp.com"
 BSP_API_URL = "http://localhost:4000"
 CHORDPRO_DIR = "src"
 
-query = """query {
+QUERY = """query {
     songs {
         title
         slug
@@ -20,7 +20,7 @@ query = """query {
     }
 }"""
 
-r = requests.post(BSP_API_URL, json={'query': query})
+r = requests.post(BSP_API_URL, json={'query': QUERY})
 json_data = json.loads(r.text)
 
 songs = { song['slug'] : song for song in json_data['data']['songs'] }
