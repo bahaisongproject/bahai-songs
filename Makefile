@@ -17,16 +17,19 @@ config := config
 # Songbook
 songbook := $(output)/songbook.pdf
 
+# Title of Songbook PDF, shown in tab when viewing PDF in browser
+songbook_title := "song book | bahá'í song project"
+
 # All .pro files in src/ are considered sources
 sources := $(wildcard $(source)/*.pro)
 
 # Convert the list of source files (.pro files in directory src/)
-# into a list of output files (PDFs in directory print/).
+# into a list of output files (PDFs in directory public/).
 objects := $(patsubst %.pro,%.pdf,$(subst $(source),$(output),$(sources)))
 
 all: $(objects)
 
-# Recipe for converting a ChordPro file into PDF and stamping on a watermark
+# Recipe for converting a ChordPro file into PDF
 $(output)/%.pdf: $(source)/%.pro
 # Create output directory if it does not yet exist
 
@@ -52,7 +55,7 @@ ifeq ($(NETLIFY), true)
 else
 	@chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
 endif
-	@exiftool -Title="song book | bahá'í song project" -overwrite_original "$(songbook)"
+	@exiftool -Title=$(songbook_title) -overwrite_original "$(songbook)"
 	@rm $(source)/songbook.txt
 
 .PHONY: clean
