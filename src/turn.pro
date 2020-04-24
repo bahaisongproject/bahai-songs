@@ -1,11 +1,11 @@
 {title: Turn}
-{words: }
-{music: }
-{song_url: https://new.bsp.app/turn}
+{words: Bahá'u'lláh}
+{music: Tom Francis}
+{song_url: https://bsp.app/turn}
 
-[D]My God, my Ad[G]ored [D]One, my King and my Desire 
+[D]My God, my Ad[G]ored [D]One, m[Em]y King and m[D]y Des[A]ire 
 
-What tongue can voice my thanks to thee 
+What t[D]ongue can voice my th[A]anks to thee 
 
 I was heedless Thou didst awaken me 
 
