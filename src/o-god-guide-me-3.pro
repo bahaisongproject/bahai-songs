@@ -6,7 +6,7 @@
 
 [C]O God! [G]Guide me, [Am] protect me [Em]
 M[F]ake of me a sh[G]ining l[C]amp
-||: A shining l[G]amp, and a brillinat st[C]ar :||
+||: A shining l[G]amp, and a brilliant st[C]ar :||
 [F] Thou art the M[G]ighty and the P[C]owerf[Am]ul
 [F] Thou art the M[G]ighty and the P[C]owerful
 
