@@ -27,34 +27,35 @@ sources := $(wildcard $(source)/*.pro)
 # into a list of output files (PDFs in directory public/).
 objects := $(patsubst %.pro,%.pdf,$(subst $(source),$(output),$(sources)))
 
+
+# # Use Linux binary in bin/chordpro for Netlify
+ifeq ($(NETLIFY), true)
+	CHORDPRO_CMD := ./bin/chordpro/chordpro
+else
+	CHORDPRO_CMD := chordpro
+endif
+
 all: $(objects)
 
 # Recipe for converting a ChordPro file into PDF
 $(output)/%.pdf: $(source)/%.pro
-# Create output directory if it does not yet exist
 
+# Create output directory if it does not yet exist
 	@[ -d $(output) ] || mkdir -p $(output)
 
 	@echo Making "$(@)"...
+	@$(CHORDPRO_CMD) "$(<)" --config=$(config)/songsheet.json -o "$(@)"
 
-ifeq ($(NETLIFY), true)
-	@./bin/chordpro/chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
-else
-	@chordpro "$(<)" --config=$(config)/songsheet.json -o "$(@)"
-endif
 
 .PHONY: songbook
 songbook:
 # Create output directory if it does not yet exist
 	@[ -d $(output) ] || mkdir -p $(output)
 	@echo Making "$(songbook)"
+# Remove songbook.txt in case the previous making of songbook was
 	@rm -f $(source)/songbook.txt
 	@ls $(source)/* > $(source)/songbook.txt
-ifeq ($(NETLIFY), true)
-	@./bin/chordpro/chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
-else
-	@chordpro --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
-endif
+	@$(CHORDPRO_CMD) --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
 	@exiftool -Title=$(songbook_title) -overwrite_original "$(songbook)"
 	@rm $(source)/songbook.txt
 
