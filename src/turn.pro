@@ -3,9 +3,9 @@
 {music: Tom Francis}
 {song_url: https://bsp.app/turn}
 
-[D]My God, my Ad[G]ored [D]One, m[Em]y King and m[D]y Des[A]ire 
+M[D]y God, my Ad[G]ored [D]One, my K[Em]ing and m[D]y Des[A]ire 
 
-What t[D]ongue can voice my th[A]anks to thee 
+What t[D]ongue can voice my th[A]anks to th[Em]ee 
 
 I was heedless Thou didst awaken me 
 
