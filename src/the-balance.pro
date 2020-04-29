@@ -3,7 +3,7 @@
 {music: Juliet Rasekhy & Amelia Rae}
 {song_url: https://bsp.app/the-balance}
 
-[Am] [E] [A] [E] [E] [Am]
+[Am] [E] [Am] [E] [E] [Am]
 ||: And now I g[Am]ive you (And now I give you)
 A comm[Em]andment (a commandment)
 Which shall b[F]e for a coven[Am]ant between
@@ -17,4 +17,4 @@ Th[Am]is is the b[E]alance
 Th[Am]is is the b[E]alance
 Th[E]is is the b[Am]alance :||
 
-[Am] [E] [A] [E] [E] [Am]
+[Am] [E] [Am] [E] [E] [Am]
