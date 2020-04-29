@@ -5,7 +5,7 @@
 
 [Am] [E] [Am] [E] [E] [Am]
 ||: And now I g[Am]ive you (And now I give you)
-A comm[Em]andment (a commandment)
+A comm[E]andment (a commandment)
 Which shall b[F]e for a coven[Am]ant between
 You and m[G]e
 That your f[Am]aith (that your faith)
