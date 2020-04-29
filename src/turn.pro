@@ -4,29 +4,27 @@
 {song_url: https://bsp.app/turn}
 
 M[D]y God, my Ad[G]ored [D]One, my K[Em]ing and m[D]y Des[A]ire 
+What t[D/B]ongue can voice my th[A]anks to th[D]ee 
+I was h[Em]eedless Th[G]ou didst aw[A]aken m[D]e 
+I had turned b[G]ack from Th[D]ee 
+Th[G]ou d[D]idst gr[G]aciously aid m[A]e 
 
-What t[D]ongue can voice my th[A]anks to th[Em]ee 
+To t[D]urn tow[A]ards th[G]ee
+To t[G]urn tow[D]ards th[A]ee
+To t[D]urn tow[A]ards th[G]ee
+To t[D]urn tow[A]ards th[G]ee
 
-I was heedless Thou didst awaken me 
+M[D]y God, my Ad[G]ored [D]One, my K[Em]ing and m[D]y Des[A]ire 
+What t[D/B]ongue can voice my th[A]anks to th[D]ee 
 
-I had turned back from Thee 
+I was h[Em]eedless Th[G]ou didst aw[A]aken m[D]e 
+I had turned b[G]ack from Th[D]ee 
+Th[G]ou d[D]idst gr[G]aciously aid m[A]e 
 
-Thou didst graciously aid me 
+To t[D]urn tow[A]ards th[G]ee
+To t[D]urn tow[A]ards th[G]ee
+To t[D]urn tow[A]ards th[G]ee
+To t[D]urn tow[A]ards th[G]ee
 
-To turn towards thee (x4)
-
-My God, my Adored One, my King and my Desire 
-
-What tongue can voice my thanks to thee 
-
-I was heedless Thou didst awaken me 
-
-I had turned back from Thee 
-
-Thou didst graciously aid me 
-
-To turn towards thee (x4)
-
-To turn towards thee 
-
-To turn towards thee
+To t[D]urn tow[A]ards th[G]ee
+To t[G]urn tow[A]ards th[D]ee
