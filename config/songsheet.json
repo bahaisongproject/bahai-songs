@@ -232,16 +232,16 @@
 		"size" : 20
 	    },
 	    "text" : {
-		"file" : "Metropolis-Regular.otf",
+		"file" : "OpenSans-Regular.ttf",
 		"size" : 16
 	    },
 	    "chord" : {
-		"file" : "Metropolis-Bold.otf",
+		"file" : "OpenSans-Bold.ttf",
 		"size" : 14,
 		"color": "black"
 	    },
 	    "comment" : {
-		"file" : "Metropolis-Regular.otf",
+		"file" : "OpenSans-Regular.ttf",
 		"size" : 12,
 		"color": "black",
 		"background": "white",
@@ -251,15 +251,15 @@
 		"size" : 10
 	    },
 	    "toc" : {
-		"file" : "Metropolis-Regular.otf",
+		"file" : "OpenSans-Regular.ttf",
 		"size" : 11
 	    },
 	    "grid" : {
-		"file" : "Metropolis-Bold.otf",
+		"file" : "OpenSans-Regular.ttf",
 		"size" : 10
 		},
 		"footer" : {
-		"file" : "Metropolis-Regular.otf",
+		"file" : "OpenSans-Regular.ttf",
 		"size" : 10
 		},
 	},
