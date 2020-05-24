@@ -1,6 +1,7 @@
 {title: Amami}
-
-
+{words: Bahá'u'lláh}
+{music: Naim Abid}
+{song_url: https://bsp.app/amami}
 
 [C#m]AmaMi [A] acciocché 
 [E]Io possa amarti. [B]Se tu non M’ami, 
