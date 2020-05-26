@@ -1,6 +1,6 @@
 {title: At All Times}
 {words: ‘Abdu’l-Bahá}
-{music: Reem Shaheed & FairGardens}
+{music: FairGardens}
 {song_url: https://bsp.app/at-all-times}
 {c: Capo: IV}
 
