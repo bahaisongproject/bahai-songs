@@ -1,6 +1,6 @@
 {title: Dies ist der Tag}
 {words: Bahá'u'lláh}
-{music: }
+{music: Alexander Riedesser}
 {song_url: https://bsp.app/dies-ist-der-tag}
 
 ||: [C]Dies ist der [F]Tag, [Dm]an dem ge[G]sprochen werden [C]muss. :|| 
