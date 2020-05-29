@@ -1,6 +1,6 @@
 {title: O Ihr Geliebten Gottes}
 {words: Bahá'u'lláh}
-{music: }
+{music: Corinne Bahia & Levin Zendeh}
 {song_url: https://bsp.app/o-ihr-geliebten-gottes}
 
 O ihr geliebten Gottes!

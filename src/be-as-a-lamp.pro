@@ -1,6 +1,6 @@
 {title: Be as a Lamp}
 {words: Bahá'u'lláh}
-{music: }
+{music: Mark Barry}
 {song_url: https://bsp.app/be-as-a-lamp}
 {c: Capo: III}
 
