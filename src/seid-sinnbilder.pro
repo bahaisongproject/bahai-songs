@@ -1,6 +1,6 @@
 {title: Seid Sinnbilder}
 {words: ‘Abdu’l-Bahá}
-{music: }
+{music: Teaching project, Munich, Germany}
 {song_url: https://bsp.app/seid-sinnbilder}
 {c: Capo: III}
 

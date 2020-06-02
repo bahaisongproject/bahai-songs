@@ -1,6 +1,6 @@
 {title: Gesegnet ist Er}
 {words: Bahá'u'lláh}
-{music: }
+{music: Ruhi camp, Germany}
 {song_url: https://bsp.app/gesegnet-ist-er}
 
 ||: Ges[Bm]egnet ist [D]er, der sich [A]in der Blüte seiner J[E]ugend :||

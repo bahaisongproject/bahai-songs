@@ -1,6 +1,6 @@
 {title: From the Horizon of Detachment}
 {words: ‘Abdu’l-Bahá}
-{music: }
+{music: Northern Lights Devotional}
 {song_url: https://bsp.app/from-the-horizon-of-detachment}
 {c: Capo: III}
 

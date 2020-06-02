@@ -10,6 +10,7 @@ CHORDPRO_DIR = "src"
 QUERY = """query {
     songs {
         title
+        song_description
         slug
         sources {
             source_author
@@ -41,9 +42,12 @@ def get_music(song):
     """Artists who intoned the text"""
     artists = [contributor['contributor_name'] for contributor in song['contributors']]
     artists = [a for a in artists if a is not None]
-    if len(artists) > 2:
+    if len(artists) == 0 and song['song_description']:
+        return song['song_description']
+    elif len(artists) > 2:
         return " & ".join([", ".join(artists[:-1]), artists[-1]])
-    return ' & '.join(artists)
+    else:
+        return ' & '.join(artists)
 
 def get_song_url(song):
     """Get URL of song"""
