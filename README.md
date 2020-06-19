@@ -36,5 +36,5 @@ Please submit pull requests to fix mistakes and add new songs
 
 ## Licenses
 - **Songs** Copyrights belong to their respective owners
-- **ChordPro** Copyright (c) 2010–2018 The ChordPro Team, licensed under [Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0)
-- **Makefile and update_song_sheets.py** Copyright (c) 2020 Dayyan Smith, [MIT License](https://opensource.org/licenses/MIT)
+- **ChordPro** Copyright © 2010–2018 The ChordPro Team, licensed under [Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0)
+- **Makefile and update_song_sheets.py** Copyright © 2020 Dayyan Smith, [MIT License](https://opensource.org/licenses/MIT)
