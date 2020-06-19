@@ -9,3 +9,4 @@ src/songbook.txt
 
 ## PDF output
 public/*.pdf
+public/*.pro

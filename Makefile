@@ -62,3 +62,8 @@ songbook:
 .PHONY: clean
 clean:
 	rm -f $(output)/*.pdf
+	rm -f $(output)/*.pro
+
+.PHONY: copypro
+copy:
+	cp $(source)/*.pro $(output)
