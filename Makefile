@@ -65,5 +65,5 @@ clean:
 	rm -f $(output)/*.pro
 
 .PHONY: copypro
-copy:
+copypro:
 	cp $(source)/*.pro $(output)
