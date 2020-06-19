@@ -27,7 +27,7 @@ If a database record is found for a ChordPro source file, the script will add/up
 Make sure you are using Python 3.6+ and install dependencies with `pip install -r requirements.txt`.
 
 ## Deploying on Netlify
-This repo can be used to build and serve PDFs of the ChordPro files on Netlify. Pushing to this repo triggers a build on Netlify. About two minutes after the push the new PDFs will be available at https://pdf.bahaisongproject.com/song-title.pdf.
+This repo can be used to build and serve PDFs of the ChordPro files on Netlify. Pushing to this repo triggers a build on Netlify. About two minutes after the push the new PDFs will be available at https://bahaisongproject.com/song-title.pdf.
 
 Since ChordPro can't be installed in the Netlify build environment, we're using a pre-compiled binary which is located at `bin/chordpro/chordpro`.
 
