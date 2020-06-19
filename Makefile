@@ -52,7 +52,7 @@ songbook:
 # Create output directory if it does not yet exist
 	@[ -d $(output) ] || mkdir -p $(output)
 	@echo Making "$(songbook)"
-# Remove songbook.txt in case the previous making of songbook was
+# Remove songbook.txt in case the previous making of songbook did not complete
 	@rm -f $(source)/songbook.txt
 	@ls $(source)/* > $(source)/songbook.txt
 	@$(CHORDPRO_CMD) --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
