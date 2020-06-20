@@ -3,6 +3,8 @@
 {music: Newport Youth Initiative Training 2015}
 {song_url: https://bsp.app/with-hearts-set-aglow}
 
+{c: Capo: III}
+
 {soc}
 {c: Chorus}
 With h[Em]earts set aglow by the fire of the love of God
