@@ -9,7 +9,7 @@
 A lover, a lover feareth nothing and
 no harm, no harm can come nigh him:
 Thou seest, thou seest him chill in the fire, fire
-dry in the see.
+dry in the sea.
 
 {c: At the same time}
 A lover is he who is chill in hell fire; 
