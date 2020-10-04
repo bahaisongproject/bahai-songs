@@ -1,6 +1,6 @@
 {title: O God My God}
 {words: The Báb}
-{music: }
+{music: Buffy Sainte-Marie}
 {song_url: https://bsp.app/o-god-my-god}
 
 {c: clap clap clap clap, emphasis on 1}
