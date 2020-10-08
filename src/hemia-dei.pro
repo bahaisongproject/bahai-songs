@@ -1,5 +1,5 @@
 {title: Hemia Dei}
-{words: }
+{words: Bahá'u'lláh}
 {music: AJ Worek}
 {song_url: https://bsp.app/hemia-dei}
 
