@@ -4,6 +4,7 @@
 {song_url: https://bsp.app/anis}
 {c: Capo: IV}
 {define: Fadd9 base-fret 1 frets x x 3 2 1 3}
+{define: C/B base-fret 1 frets x 2 0 0 1 0}
 
 Y[Am]ou can't k[C]eep me h[Fadd9]ere, the l[Am]ove in my h[C]eart is t[Fadd9]oo great
 This w[Am]orld gives m[C]e no f[Fadd9]ear, 

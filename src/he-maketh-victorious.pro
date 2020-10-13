@@ -27,7 +27,10 @@ Through the p[E]otency [Esus4] [E]   of H[G]is beh[D]e- [D]e- [Edim7]est
 
 {c:Pause}
 
-[][||][B5][Dsus2][G][B5][B5] [||6x]
+{soc}
+{c: 6x}
+[B5][Dsus2][G][B5][B5]
+{eoc}
 
 ||: H[B5]e m[Dsus2]aketh vict[G]ori[B5]ous [B5] 
 [B5] whomso[Dsus2]ever he pl[G]eas[B5]eth [B5]    :||

@@ -2,6 +2,8 @@
 {words: ‘Abdu’l-Bahá}
 {music: }
 {song_url: https://bsp.app/let-us-cry-out-our-joy}
+{define: C/B base-fret 1 frets x 2 0 0 1 0}
+
 
 [C]    Let [C/B]us put as[Am]ide all th[F]oughts of self; [C]
 let us cl[C/B]ose our [Am]eyes to [F]all on ear[Am]th,

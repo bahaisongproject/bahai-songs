@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: }
 {song_url: https://bsp.app/zu-allen-zeiten}
+{define: C/B base-fret 1 frets x 2 0 0 1 0}
 
 [C]||: Zu [C/B]allen Z[Am]eiten spreche [G]ich von [F]euch und denke an [G]euch :||
 
