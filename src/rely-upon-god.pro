@@ -6,7 +6,7 @@
 
 {soc}
 {c: 5x}
-C G
+[C] [G]
 {eoc}
 
 {soc}
