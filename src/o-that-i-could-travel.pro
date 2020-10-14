@@ -1,6 +1,6 @@
 {title: O That I Could Travel}
 {words: ‘Abdu’l-Bahá}
-{music: Miad Javaheri, Justus Bos & Naim Pilon}
+{music: Miad Javaheri, Naim Pilon & Justus Bos}
 {song_url: https://bsp.app/o-that-i-could-travel}
 {c: Capo: III}
 {define: Bm7 base-fret 1 frets x 2 0 2 0 2}
