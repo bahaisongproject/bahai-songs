@@ -3,7 +3,7 @@
 {music: Elio Cortes & Amelia Tavangar}
 {song_url: https://bsp.app/two-wings}
 {define: G6sus base-fret 1 frets 3 3 2 0 1 0}
-{c: Capo II}
+{c: Capo: II}
 
 [||:] [F] [C] [G] [Am] [:||]
 ||: [F] The w[C]orld [G] of hum[Am]anity has

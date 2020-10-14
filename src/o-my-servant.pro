@@ -3,7 +3,7 @@
 {music: Alexander Riedesser & Kian Panahi}
 {song_url: https://bsp.app/o-my-servant}
 
-{c: Capo III}
+{c: Capo: III}
 
 [Am7] [E]
 ||: [Am7]O My Servant! :|| x2 [E]

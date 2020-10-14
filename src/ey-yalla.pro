@@ -3,7 +3,7 @@
 {music: Elio Cortes & Amelia Tavangar}
 {song_url: https://bsp.app/ey-yalla}
 {define: F base-fret 1 frets x x 3 2 1 x}
-{c: Capo II}
+{c: Capo: II}
 
 [||:] [Am] [G] [F] [G] [:||]
 [Am] Ey Yàll[G]a  [F]   wommat m[G]a, [Am]

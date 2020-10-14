@@ -8,7 +8,7 @@
 {define: Db7 base-fret 2 frets x 3 2 0 0 x}
 {define: A9sus base-fret 1 frets x 0 0 0 0 x}
 {define: Baug base-fret 1 frets x 2 1 0 0 x}
-{c: Capo IV}
+{c: Capo: IV}
 
 [||:] [Em] [Bm/D] [Cmaj7] [G] [:||]
 Sh[Em]ine ye [Bm/D] like unt[Cmaj7]o the sun [G] 

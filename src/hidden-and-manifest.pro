@@ -4,7 +4,7 @@
 {song_url: https://bsp.app/hidden-and-manifest}
 {define: D/F# base-fret 1 frets 2 0 0 2 3 2}
 
-{c: Capo III}
+{c: Capo: III}
 
 [G]   This is the Voice of G[C]od, if ye d[Em]o but h[D/F#]earken.
 [G]   This is the Dayspring[C] of the R[Em]evelation of G[D/F#]od,

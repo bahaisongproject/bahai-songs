@@ -2,9 +2,9 @@
 {words: Bahá'u'lláh}
 {music: }
 {song_url: https://bsp.app/o-son-of-dust}
+{c: Capo: IV}
 
 [G] [C] [G] [Em] [G]
-
 Bl[G]ind thine eyes, that thou m[C]ayest beh[G]old My b[Em]eaut[G]y;
 stop thine [G]ears, that thou m[Em]ayest h[C]earken [G]unto the sweet m[C]elody of My v[G]oice;
 

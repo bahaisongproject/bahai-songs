@@ -3,7 +3,7 @@
 {music: Max Weigert}
 {song_url: https://bsp.app/o-fire-of-the-worlds}
 
-{c: Capo I}
+{c: Capo: I}
 
 Wh[C]ere is the w[G]armth of Thy l[D]ove
 Wh[C]ere is the w[G]armth of Thy l[D]ove

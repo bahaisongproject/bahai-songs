@@ -3,7 +3,7 @@
 {music: Sahar Zandieh & Hoda Toloui-Wallace}
 {song_url: https://bsp.app/find-me}
 
-{c: Capo III}
+{c: Capo: III}
 
 ||: Bada baba, bada baba, bada bab[]a :||
 

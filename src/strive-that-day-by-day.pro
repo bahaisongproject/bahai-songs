@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Dicky Fusco}
 {song_url: https://bsp.app/strive-that-day-by-day}
+{define: C/B base-fret 1 frets x 2 0 0 1 0}
 
 Str[C]ive that day by d[Am]ay your act[F]ions may become
 beautiful pr[G]ayers, your actions be beautiful pr[C]ayers

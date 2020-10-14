@@ -2,7 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Alexander Riedesser & Catharina Klietz}
 {song_url: https://bsp.app/dies-ist-der-tag}
-{c: Capo II}
+{c: Capo: II}
 
 ||: [C]Dies ist der [F]Tag, [Dm]an dem ge[G]sprochen werden [C]muss. :|| 
 Es [F]ist die Aufgabe des [Em]Volkes Bahás,

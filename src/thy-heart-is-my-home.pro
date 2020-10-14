@@ -3,7 +3,7 @@
 {music: Kian Panahi & Alexander Riedesser}
 {song_url: https://bsp.app/thy-heart-is-my-home}
 
-{c: Capo I}
+{c: Capo: I}
 
 ||: [E]O Son of B[C#m]eing! ||: Thy h[F#]eart is My h[A]ome; s[B]anctify it for My descent. :||
 

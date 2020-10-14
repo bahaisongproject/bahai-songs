@@ -6,7 +6,7 @@
 {define: chord2 base-fret 4 frets x 4 0 x 2 x}
 {define: chord3 base-fret 3 frets x 3 0 x 1 x}
 
-{c: Capo V}
+{c: Capo: V}
 
 {sot}
     chord1         chord2          chord3

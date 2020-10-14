@@ -2,7 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Claudia Peralta & Naim Pilon}
 {song_url: https://bsp.app/als-een-lamp}
-{Capo IV }
+{c: Capo: IV }
 
 [||:][Em][G][C][C][:||]
 
