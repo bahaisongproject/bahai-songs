@@ -1,6 +1,6 @@
 {title: I've Been Longing}
 {words: }
-{music: Lua Nazerian & Gloria Golmohammadi}
+{music: Lua Nazerian & Gloria G.}
 {song_url: https://bsp.app/ive-been-longing}
 
 ||: I’ve been l[A]onging, o-o-oh :||

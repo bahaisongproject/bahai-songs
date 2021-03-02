@@ -1,6 +1,6 @@
 {title: O Ihr Geliebten des Herrn}
 {words: ‘Abdu’l-Bahá}
-{music: Gloria Golmohammadi}
+{music: Gloria G.}
 {song_url: https://bsp.app/o-ihr-geliebten-des-herrn}
 
 O ihr Geliebten des Herrn!

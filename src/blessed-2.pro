@@ -1,6 +1,6 @@
 {title: Blessed}
 {words: Bahá'u'lláh}
-{music: Gloria Golmohammadi & Elisabeth Hahn}
+{music: Gloria G. & Elisabeth Hahn}
 {song_url: https://bsp.app/blessed-2}
 
 Blessed is the spot, and the house, and the place, and the city, 
