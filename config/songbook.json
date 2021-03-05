@@ -12,13 +12,13 @@
 	},
 	
 	// Table of contents.
-	"toc" : {
-		// Title for ToC.
-		"title" : "Table of Contents",
-		// Sorting order.
-		// Currently only sorting by page number and alpha is implemented.
-		"order" : "page",
+	"contents" : [
+		{ "fields"   : [ "songindex" ],
+		  "label"    : "Table of Contents",
+		  "line"     : "%{title} %{music| — %{}}",
+		  "omit"     : false,
 		},
+	],
 
     // Layout definitions for PDF output.
 
