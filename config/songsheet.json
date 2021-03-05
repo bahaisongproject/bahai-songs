@@ -193,13 +193,13 @@
 	    // By default, a page has:
 	    "default" : {
 	        // Header.
-	    	"title"     : [ "%{words}", "", "%{music}" ],
+	    	"title"     : [ "%{words}", "", "%{music|Music: %{}}" ],
 			// Footer.
 	    	"footer"    : [ "", "%{song_url}", "" ],
 	    },
 	    // The first page of the song:
 	    "title" : {
-			"title"     : [ "%{words}", "", "%{music}" ],
+			"title"     : [ "%{words}", "", "%{music|Music: %{}}" ],
 			"subtitle"  : [ "", "%{title}", "" ],
 			"footer"    : [ "", "%{song_url}", "" ],
 		},
