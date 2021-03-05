@@ -4,7 +4,7 @@
 {song_url: https://bsp.app/kuna-mtu}
 
  
-||: Kuna mt[C]u awez[G]aye ku[G]ondoa shid[Em]a 
+||: Kuna mt[C]u awez[G]aye ku[Am]ondoa shid[Em]a 
 isipok[F]uwa Mweny[G]ezi Mung[C]u? :||
 
 Sem[F]a: Mwenyezi Mung[C]u na asifiwe! Yey[G]e ni Mwenyezi Mung[C]u!
