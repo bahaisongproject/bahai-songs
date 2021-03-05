@@ -1,6 +1,6 @@
 {title: Mit Deiner Liebe Licht}
 {words: ‘Abdu’l-Bahá}
-{music: Junior youth camp, Tulln, Austria}
+{music: Junior Youth Camp, Tulln, Austria}
 {song_url: https://bsp.app/mit-deiner-liebe-licht}
 
 ||:[D]O Du mitleidvoller G[G]ott! [Em]O du mitleidvoller G[A7]ott!

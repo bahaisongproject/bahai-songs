@@ -1,6 +1,6 @@
 {title: Im Herzen 'Abdu’l-Bahás}
 {words: ‘Abdu’l-Bahá}
-{music: Ruhi camp, Germany}
+{music: Ruhi Camp, Germany}
 {song_url: https://bsp.app/im-herzen-abdul-bahas}
 {c: Capo: II}
 

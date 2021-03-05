@@ -1,6 +1,6 @@
 {title: Où Peut Aller l'Amant}
 {words: Bahá'u'lláh}
-{music: Le Deun family}
+{music: Le Deun Family}
 {song_url: https://bsp.app/ou-peut-aller-lamant}
 
 [D]Où peut aller l’[F#]amant [D]   sinon au p[F#]ays de sa bien-aim[G]ée? 

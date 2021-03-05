@@ -1,6 +1,6 @@
 {title: Mache Mein Gebet}
 {words: Bahá'u'lláh}
-{music: Ruhi camp, Munich, Germany}
+{music: Ruhi Camp, Munich, Germany}
 {song_url: https://bsp.app/mache-mein-gebet}
 {c: Capo: III}
 

@@ -1,6 +1,6 @@
 {title: A Lover Feareth Nothing}
 {words: Bahá'u'lláh}
-{music: Roger's Park musical devotional assemblage}
+{music: Roger's Park Musical Devotional Assemblage}
 {song_url: https://bsp.app/a-lover-feareth-nothing}
 
 

@@ -1,4 +1,4 @@
-{title: Thy Heart Is My home}
+{title: Thy Heart Is My Home}
 {words: Bahá'u'lláh}
 {music: Kian Panahi & Alexander Riedesser}
 {song_url: https://bsp.app/thy-heart-is-my-home}
