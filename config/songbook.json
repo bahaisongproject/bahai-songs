@@ -13,7 +13,7 @@
 	
 	// Table of contents.
 	"contents" : [
-		{ "fields"   : [ "songindex" ],
+		{ "fields"   : [ "sorttitle", "music" ],
 		  "label"    : "Table of Contents",
 		  "line"     : "%{title} %{music| — %{}}",
 		  "omit"     : false,
@@ -60,6 +60,18 @@
 				"footer"    : [ "", "%{song_url}", "%{page}" ],
 			},
 		},
+
+		"outlines" : [
+			{ "fields"   : [ "sorttitle", "music" ],
+				"label"    : "Songbook",
+				"line"     : "%{title}%{music| - %{}}",
+				"collapse" : false,
+				"letter"   : 5,
+				"fold"     : false,
+			  },
+		],
+
+		"pagealign-songs" : 0,
 
 	// Fonts.
 	// Fonts can be specified by name (for the corefonts)
