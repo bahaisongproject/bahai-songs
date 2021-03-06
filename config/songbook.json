@@ -37,6 +37,8 @@
 		// "top", "bottom" or "right" side of the first page,
 		// or "below" the last song line.
 
+		"even-odd-pages" : 0,
+
 		// Formats.
 		"formats" : {
 			// Titles/Footers.
