@@ -2,6 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Clarisse Le Deun}
 {song_url: https://bsp.app/o-fils-de-lexistence}
+{sorttitle: O Fils de l'Existence}
 {define: Bm/F# base-fret 2 frets x x 3 3 2 1}
 {define: G6/D base-fret 2 frets x 4 4 3 2 0}
 {define: F#7/C# base-fret 2 frets x 3 3 2 1 0}

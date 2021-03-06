@@ -29,7 +29,7 @@
     // Important: "title" and "subtitle" must always be in this list.
     // The separator is used to concatenate multiple values.
     "metadata" : {
-      "keys" : [ "title", "subtitle",
+      "keys" : [ "title", "subtitle", "sorttitle",
                  "artist", "music", "lyricist", "arranger",
                  "album", "copyright", "year", "words", "text_type", "id",
                  "key", "time", "tempo", "capo", "duration", "song_url" ],
