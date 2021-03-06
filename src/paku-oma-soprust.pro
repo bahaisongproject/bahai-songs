@@ -1,4 +1,5 @@
 {title: Paku Oma Sõprust}
+{sorttitle: Paku Oma Soprust}
 {words: ‘Abdu’l-Bahá}
 {music: Elisabeth Ots}
 {song_url: https://bsp.app/paku-oma-soprust}

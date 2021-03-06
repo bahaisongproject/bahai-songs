@@ -1,4 +1,5 @@
 {title: Ey Yàlla}
+{sorttitle: Ey Yàlla}
 {words: ‘Abdu’l-Bahá}
 {music: Elio Cortes & Amelia Tavangar}
 {song_url: https://bsp.app/ey-yalla}

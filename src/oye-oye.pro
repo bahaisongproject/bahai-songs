@@ -1,4 +1,5 @@
 {title: Oyé Oyé}
+{sorttitle: Oye Oye}
 {words: Bahá'u'lláh}
 {music: Leonor Dely & Millero Congo}
 {song_url: https://bsp.app/oye-oye}

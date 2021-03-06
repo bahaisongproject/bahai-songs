@@ -1,4 +1,5 @@
 {title: Bahá'u'lláh Alikuja Kupatanisha Ulimwengu}
+{sorttitle: Baha'u'llah Alikuja Kupatanisha Ulimwengu}
 {words: }
 {music: Sabi Msafiri}
 {song_url: https://bsp.app/bahaullah-alikuja-kupatanisha-ulimwengu}

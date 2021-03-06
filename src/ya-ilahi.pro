@@ -1,4 +1,5 @@
 {title: Yá Iláhi}
+{sorttitle: Ya Ilahi}
 {words: Bahá'u'lláh}
 {music: Amin Rafat}
 {song_url: https://bsp.app/ya-ilahi}

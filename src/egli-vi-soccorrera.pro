@@ -1,4 +1,5 @@
 {title: Egli Vi Soccorrerà}
+{sorttitle: Egli Vi Soccorrera}
 {words: ‘Abdu’l-Bahá}
 {music: Anis Mirra}
 {song_url: https://bsp.app/egli-vi-soccorrera}

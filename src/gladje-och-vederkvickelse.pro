@@ -1,4 +1,5 @@
 {title: Glädje och Vederkvickelse}
+{sorttitle: Gladje och Vederkvickelse}
 {words: ‘Abdu’l-Bahá}
 {music: Emilia Ahrari & Lua Nazerian}
 {song_url: https://bsp.app/gladje-och-vederkvickelse}
