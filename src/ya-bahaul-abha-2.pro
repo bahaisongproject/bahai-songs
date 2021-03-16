@@ -1,8 +1,8 @@
 {title: Yá Bahá'u'l-Abhá}
-{sorttitle: Ya Baha'u'l-Abha}
 {words: }
 {music: }
 {song_url: https://bsp.app/ya-bahaul-abha-2}
+{sorttitle: Ya Baha'u'l-Abha}
 
 
 ||: Y[Bm]a   B[A]ah[G]a'u'l-[A]Abh[Bm]a

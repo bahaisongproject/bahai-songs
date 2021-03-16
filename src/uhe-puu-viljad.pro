@@ -1,8 +1,8 @@
-{title: Ühe Puu Viljad}
-{sorttitle: Uhe Puu Viljad}
+{title: Ühe Puu Viljad}
 {words: Bahá'u'lláh}
 {music: Anke Keitel}
 {song_url: https://bsp.app/uhe-puu-viljad}
+{sorttitle: Uhe Puu Viljad}
 
 [D] [A] [G] [D] [A] [G]
 

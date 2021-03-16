@@ -1,8 +1,8 @@
 {title: Où Peut Aller l'Amant}
-{sorttitle: Ou Peut Aller l'Amant}
 {words: Bahá'u'lláh}
 {music: Le Deun Family}
 {song_url: https://bsp.app/ou-peut-aller-lamant}
+{sorttitle: Ou Peut Aller l'Amant}
 
 [D]Où peut aller l’[F#]amant [D]   sinon au p[F#]ays de sa bien-aim[G]ée? 
 Et quel chercheur tr[Bm]ouverait le rep[G]os loin de l'obj[A]et de son dés[D]ir? [F#]
