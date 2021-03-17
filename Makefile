@@ -23,9 +23,10 @@ songbook_title := "song book | bahá'í song project"
 # All .pro files in src/ are considered sources
 sources := $(wildcard $(source)/*.pro)
 
+
 # Convert the list of source files (.pro files in directory src/)
 # into a list of output files (PDFs in directory public/).
-objects := $(patsubst %.pro,%.pdf,$(subst $(source),$(output),$(sources)))
+objects := $(patsubst %.pro,%.pdf,$(subst $(source)/,$(output)/,$(sources)))
 
 
 # # Use Linux binary in bin/chordpro for Netlify
