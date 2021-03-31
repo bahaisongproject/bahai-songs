@@ -8,8 +8,8 @@ source := src
 # Directory containing pdf files
 output := public
 
-# Directory for static files
-static := static
+# Directory for assets
+assets := assets
 
 # Direcory for config files
 config := config
@@ -56,7 +56,7 @@ songbook:
 # Remove songbook.txt in case the previous making of songbook did not complete
 	@rm -f $(source)/songbook.txt
 	@ls $(source)/* | sort -V > $(source)/songbook.txt
-	@$(CHORDPRO_CMD) --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(static)/cover/cover.pdf -o "$(songbook)"
+	@$(CHORDPRO_CMD) --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(assets)/cover/cover.pdf -o "$(songbook)"
 	@exiftool -Title=$(songbook_title) -overwrite_original "$(songbook)"
 	@rm $(source)/songbook.txt
 
