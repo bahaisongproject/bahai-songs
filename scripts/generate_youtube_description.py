@@ -97,7 +97,6 @@ def main(args):
     
     # Lyrics & Chords
     chordpro_cmd = "chordpro {chordpro_dir}/{slug}.pro --generate=Text".format(chordpro_dir=CHORDPRO_DIR, slug=args.slug)
-    print(chordpro_cmd)
     song_sheet = os.popen(chordpro_cmd).read()
     yt_description_data["song_sheet"] = song_sheet
 
