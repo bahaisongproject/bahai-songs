@@ -7,6 +7,9 @@
 ## temporary file
 src/songbook.txt
 
+## pycache
+**/__pycache__
+
 ## PDF output
 public/*.pdf
 public/*.pro
