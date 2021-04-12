@@ -2,8 +2,9 @@ import os
 import requests
 import json
 import argparse
+import re
 
-from utils import get_title, get_words, get_music, get_song_url
+from utils import get_music
 
 BSP_API_URL = "https://bsp-graphql-server.herokuapp.com"
 BSP_API_URL = "http://localhost:4000"
@@ -98,7 +99,7 @@ def main(args):
     # Lyrics & Chords
     chordpro_cmd = "chordpro {chordpro_dir}/{slug}.pro --generate=Text".format(chordpro_dir=CHORDPRO_DIR, slug=args.slug)
     song_sheet = os.popen(chordpro_cmd).read()
-    yt_description_data["song_sheet"] = song_sheet
+    yt_description_data["song_sheet"] = re.compile("\n+").split(song_sheet, 1)[1]
 
     # Music
     music = get_music(song_data)
