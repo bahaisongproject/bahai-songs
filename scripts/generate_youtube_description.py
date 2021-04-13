@@ -4,7 +4,7 @@ import json
 import argparse
 import re
 
-from utils import get_music
+from utils import get_music, format_songsheet, format_excerpts, get_translation
 
 BSP_API_URL = "https://bsp-graphql-server.herokuapp.com"
 BSP_API_URL = "http://localhost:4000"
@@ -19,9 +19,22 @@ QUERY = """query {{
         slug
         excerpts {{
             excerpt_text
+            language {{
+                language_name_en
+            }}
             source {{
                 source_author
                 source_description
+                excerpts {{
+                    excerpt_text
+                    source {{
+                        source_author
+                        source_description
+                    }}
+                    language {{
+                        language_name_en
+                    }}
+                }}
             }}
         }}
         sources {{
@@ -36,7 +49,7 @@ QUERY = """query {{
     }}
 }}"""
 
-YT_DESCRIPTION="""
+YT_DESCRIPTION="""\
 Download a song sheet with the lyrics and chords
 {song_url}
 
@@ -44,6 +57,11 @@ Download a song sheet with the lyrics and chords
 ▬ Based on ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 {based_on}
+
+
+▬ Translation ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+{translation}
 
 
 ▬ Lyrics & Chords ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -80,7 +98,6 @@ def main(args):
     song_query = QUERY.format(slug=args.slug)
     r = requests.post(BSP_API_URL, json={'query': song_query})
     song_data = json.loads(r.text)['data']['song']
-    # print(song_data)
     yt_description_data = {}
 
     # Song URL
@@ -88,18 +105,26 @@ def main(args):
     
     # Based on
     if song_data["excerpts"] is not None:
-        all_excerpts = []
+        all_excerpts_formatted = format_excerpts(song_data["excerpts"])
+        yt_description_data["based_on"] = "\n\n".join(all_excerpts_formatted)
+
+    #Translation
+    if song_data["excerpts"] is not None:
+        all_translations = []
         for excerpt in song_data["excerpts"]:
-            excerpt_text = excerpt["excerpt_text"]
-            excerpt_from = "{author}, {source}".format(author=excerpt["source"]["source_author"], source=excerpt["source"]["source_description"])
-            excerpt_formatted = "{excerpt_text}\n\n—{excerpt_from}".format(excerpt_text=excerpt_text, excerpt_from=excerpt_from)
-            all_excerpts.append(excerpt_formatted)
-        yt_description_data["based_on"] = "\n\n".join(all_excerpts)
+            # Look up translation if excerpt is not in English
+            if excerpt["language"]["language_name_en"] != "English":
+                translation = get_translation(excerpt)
+                all_translations.append(translation)
+        all_translations_formatted = format_excerpts(all_translations)
+        yt_description_data["translation"] = "\n\n".join(all_translations_formatted)
     
+
     # Lyrics & Chords
     chordpro_cmd = "chordpro {chordpro_dir}/{slug}.pro --generate=Text".format(chordpro_dir=CHORDPRO_DIR, slug=args.slug)
     song_sheet = os.popen(chordpro_cmd).read()
-    yt_description_data["song_sheet"] = re.compile("\n+").split(song_sheet, 1)[1]
+    song_sheet_formatted = format_songsheet(song_sheet)
+    yt_description_data["song_sheet"] = song_sheet_formatted
 
     # Music
     music = get_music(song_data)
@@ -116,7 +141,8 @@ def main(args):
         based_on=yt_description_data["based_on"],
         song_sheet=yt_description_data["song_sheet"],
         music=yt_description_data["music"],
-        language=yt_description_data["language"]
+        language=yt_description_data["language"],
+        translation=yt_description_data["translation"]
     )
     print(yt_description_formatted)
 
