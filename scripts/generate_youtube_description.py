@@ -1,4 +1,5 @@
 import os
+import subprocess
 import requests
 import sys
 import json
@@ -130,9 +131,9 @@ def main(args):
     
 
     # Lyrics & Chords
-    chordpro_cmd = "chordpro {chordpro_dir}/{slug}.pro --generate=Text".format(chordpro_dir=CHORDPRO_DIR, slug=args.slug)
-    song_sheet = os.popen(chordpro_cmd).read()
-    song_sheet_formatted = format_songsheet(song_sheet)
+    chordpro_cmd = "chordpro {chordpro_dir}/{slug}.pro --generate=Text"
+    out, err = subprocess.Popen(["chordpro", "{chordpro_dir}/{slug}.pro".format(chordpro_dir=CHORDPRO_DIR, slug=args.slug), "--generate=Text"], stdin=subprocess.PIPE, stderr=subprocess.PIPE, stdout=subprocess.PIPE).communicate()
+    song_sheet_formatted = format_songsheet(out.decode("utf-8"))
     yt_description_data["song_sheet"] = song_sheet_formatted
 
     # Music
