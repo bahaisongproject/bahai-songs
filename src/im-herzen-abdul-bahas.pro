@@ -7,7 +7,7 @@
 ||: [Am]Ihr wohnt [F]allesamt im    H[C]erzen ‘Abd[E]u‘l-Bahás :||
 [Am]      Mit jedem [F]Atemzug wende [C]ich mein Anges[E]icht
 
-{c: Simultaneously:}
+{c: At the same time:}
 {soc}
 Der Schw[A]elle der [F]Einheit, der [C]Einheit z[E]u
 [Am]      Mit jedem [F]Atemzug wende [C]ich mein Anges[E]icht
