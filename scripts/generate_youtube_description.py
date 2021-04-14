@@ -1,8 +1,9 @@
 import os
 import requests
+import sys
 import json
 import argparse
-import re
+
 
 from utils import get_music, format_songsheet, format_excerpts, get_translation
 
@@ -98,7 +99,12 @@ def main(args):
     song_query = QUERY.format(slug=args.slug)
     r = requests.post(BSP_API_URL, json={'query': song_query})
     song_data = json.loads(r.text)['data']['song']
+
+    if song_data is None:
+        sys.exit('No song with slug: {slug}'.format(slug=args.slug))
+
     yt_description_data = {}
+
 
     # Song URL
     yt_description_data["song_url"] = "https://wwww.bahaisongproject.com/{slug}".format(slug=args.slug)
