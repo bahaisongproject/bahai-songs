@@ -2,7 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Teaching Project, Munich, Germany}
 {song_url: https://bsp.app/seid-sinnbilder}
-{c: Capo: III}
+
 
 [C]   Seid S[Am]innbilder der F[G]ühr[Am]ung
 [C]   und Leucht[Am]en     der Fr[G]ömmigk[Am]eit
