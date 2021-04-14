@@ -1,6 +1,7 @@
 {title: Durch Deine Liebe}
 {words: Bahá'u'lláh}
 {music: Nadine Reyhani}
+{song_url: https://bsp.app/durch-deine-liebe}
 {c: Capo: IV}
 
 [G]  O mein G[G/F#]ott, [Am]        o mein G[G]ott! 
