@@ -51,7 +51,7 @@ QUERY = """query {{
 }}"""
 
 YT_DESCRIPTION="""\
-Download a song sheet with the lyrics and chords
+Download a song sheet with lyrics and chords
 {song_url}
 
 
@@ -107,7 +107,7 @@ def main(args):
 
 
     # Song URL
-    yt_description_data["song_url"] = "https://wwww.bahaisongproject.com/{slug}".format(slug=args.slug)
+    yt_description_data["song_url"] = "https://www.bahaisongproject.com/{slug}".format(slug=args.slug)
     
     # Based on
     if song_data["excerpts"] is not None:
@@ -121,9 +121,12 @@ def main(args):
             # Look up translation if excerpt is not in English
             if excerpt["language"]["language_name_en"] != "English":
                 translation = get_translation(excerpt)
-                all_translations.append(translation)
-        all_translations_formatted = format_excerpts(all_translations)
-        yt_description_data["translation"] = "\n\n".join(all_translations_formatted)
+                if translation:
+                    all_translations.append(translation)
+        if all_translations:
+            all_translations_formatted = format_excerpts(all_translations)
+            all_translations_joined = "\n\n".join(all_translations_formatted)
+        yt_description_data["translation"] = all_translations_joined if all_translations else ""
     
 
     # Lyrics & Chords

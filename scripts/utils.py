@@ -34,7 +34,7 @@ def is_chord(chord_str):
 
 def format_songsheet(song_sheet):
     """Format the songsheet to make sense in non mono-space fonts"""
-    c = re.compile('^[A-G](b|#)?(maj|min|m|M|\+|-|dim|aug)?[0-9]*(sus)?[0-9]*(\/[A-G](b|#)?)?$')
+    c = re.compile('^[A-G](b|#)?(add|maj|min|m|M|\+|-|dim|aug)?[0-9]*(sus)?[0-9]*(\/[A-G](b|#)?)?$')
 
     result_lines = []
     song_sheet_trimmed = re.compile("\n+").split(song_sheet, 1)[1]
