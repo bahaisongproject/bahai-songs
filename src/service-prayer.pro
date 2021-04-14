@@ -3,6 +3,8 @@
 {music: Mica Smith & Nadine Reyhani}
 {song_url: https://bsp.app/service-prayer}
 
+{c: Capo: I}
+
 Do Thou d[Am]estine for m[C]e, O My G[Em]o-o-o-[F]o-d,
 what will s[Am]et m[C]e, at all t[Em]i-[F]imes,
 ||: towards Th[Am]ee, enable me to cleave cont[C]inually
