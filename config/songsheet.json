@@ -95,7 +95,7 @@
 	// Page margins.
 	// Note that top/bottom exclude the head/footspace.
 	"margintop"    :  100,
-	"marginbottom" :  60,
+	"marginbottom" :  50,
 	"marginleft"   :  70,
 	"marginright"  :  70,
 	"headspace"    :  55,
