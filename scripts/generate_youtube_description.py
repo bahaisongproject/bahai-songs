@@ -139,7 +139,7 @@ def main(args):
     # Music
     music = get_music(song_data)
     if not music:
-        music = "Composer unknown\n\nDo you know who composed this song? Please let us know!\n💌  https://bsp.app/contact"
+        music = "Do you know who composed this song? Please let us know!\n💌  https://bsp.app/contact"
     yt_description_data["music"] = music
 
     # Language
