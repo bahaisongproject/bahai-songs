@@ -28,10 +28,6 @@ def get_song_url(song):
     """Get URL of song"""
     return BSP_URL + song['slug']
 
-def is_chord(chord_str):
-    
-    return 
-
 def format_songsheet(song_sheet):
     """Format the songsheet to make sense in non mono-space fonts"""
     c = re.compile('^[A-G](b|#)?(add|maj|min|m|M|\+|-|dim|aug)?[0-9]*(sus)?[0-9]*(\/[A-G](b|#)?)?$')
