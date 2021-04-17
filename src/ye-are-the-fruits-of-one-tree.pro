@@ -19,4 +19,4 @@ see no one save Thee. Thou art the merciful and the
 Ye are the fruits of one tree and the leaves of one branch
 {eoc}
 
-|| Ye are the fruits of one tree and the leaves of one branch || 4x
+||: Ye are the fruits of one tree and the leaves of one branch :|| 4x

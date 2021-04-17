@@ -34,7 +34,7 @@ Th[F]ou wert creat[G]ed
 
 {c: At the same time:}
 {soc}
-|| to bear and end[Am]ure, [C]oh, to bear and end[G]ure, [F]oh ||
+||: to bear and end[Am]ure, [C]oh, to bear and end[G]ure, [F]oh :||
 ||: Bahá is drowning in a sea of tribulation:
     Where is the Ark of Thy salvation, 
     O Savior of the worlds, O Savior of the worlds? :||

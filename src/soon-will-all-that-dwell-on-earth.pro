@@ -5,4 +5,4 @@
 
 ||: Soon will all that dwell on earth
 be enlisted under these banners :||
-|| Yá Bahá’u'l-Abhá || 4x
+||: Yá Bahá’u'l-Abhá :|| 4x

@@ -3,7 +3,7 @@
 {music: Corinne Bahia & Levin Zendeh}
 {song_url: https://bsp.app/o-gott-erziehe-diese-kinder}
 
-|| [Bb]O Gott! Erz[D#]iehe diese K[Bb]inder || 3x [Bb][D#][Bb]
+||: [Bb]O Gott! Erz[D#]iehe diese K[Bb]inder :|| 3x [Bb][D#][Bb]
 ||: Sie sind die Pfl[Gm]anzen Deines H[Bb]aines,
 die Bl[Gm]umen Deiner [Bb]Aue, 
 die R[D#]osen Deines G[Bb]artens. [D#] [Bb]       :||

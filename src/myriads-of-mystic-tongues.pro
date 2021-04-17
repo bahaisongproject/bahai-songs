@@ -13,4 +13,4 @@ M[Am]yriads of mystic tongues find [G]utterance in one sp[Am]eech,
 and m[Am]yriads of hidden mysteries 
 are rev[G]ealed in a single m[Am]elody; 
 
-|| y[Am]et, alas, there is no [D]ear to h[Am]ear, nor h[G]eart to underst[Am]and. || 3x
+||: y[Am]et, alas, there is no [D]ear to h[Am]ear, nor h[G]eart to underst[Am]and. :|| 3x

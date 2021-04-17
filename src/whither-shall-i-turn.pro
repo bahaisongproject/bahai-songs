@@ -13,7 +13,7 @@ and t[Am]estify that th[C]ere is none other G[C]od besides Th[D]ee. :||
 
 {c: At the same time:}
 {soc}
-|| Powerless as I am, powerless as I am || 4x
+||: Powerless as I am, powerless as I am :||4x
 ||: So whither, whither shall I turn, o my God? :||
 {eoc}
 

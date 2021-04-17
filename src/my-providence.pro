@@ -20,4 +20,4 @@ Th[G]is is My command unto th[D]ee, th[Em]is is my command unto th[C]ee
 
 ||: H[G]asten thereunt[D]o that thou m[Em]ayest bec[C]ome [G]an eternal l[Em]ight
 and an imm[A7]ortal spirit, imm[C]ortal spirit :||
-|| Th[G]is is My command unto th[D]ee || 4x
+||: Th[G]is is My command unto th[D]ee :|| 4x
