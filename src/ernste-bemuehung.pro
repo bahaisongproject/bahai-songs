@@ -1,4 +1,4 @@
-{title: Ernste Bemühung}
+{title: Ernste Bemühung}
 {words: Bahá'u'lláh}
 {music: }
 {song_url: https://bsp.app/ernste-bemuehung}
