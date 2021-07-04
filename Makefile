@@ -68,3 +68,7 @@ clean:
 .PHONY: copypro
 copypro:
 	cp $(source)/*.pro $(output)
+
+.PHONY: archive
+archive:
+	tar -czvf $(output)/bahai-songs-archive.tar.gz $(output)
