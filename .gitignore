@@ -11,5 +11,4 @@ src/songbook.txt
 **/__pycache__
 
 ## PDF output
-public/*.pdf
-public/*.pro
+public/
