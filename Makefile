@@ -71,4 +71,4 @@ copypro:
 
 .PHONY: archive
 archive:
-	tar -czvf $(output)/bahai-songs-archive.tar.gz $(output)
+	tar -czvf $(output)/bahai-songs-archive.tar.gz $(output)/*.pdf $(output)/*.pro
