@@ -1,6 +1,6 @@
 {title: Wahre Freiheit (True Freedom)}
 {words: }
-{music: Adrian Zendeh, Riaz Khabirpour & Corinne Bahia}
+{music: Adrian Zendeh, Corinne Bahia & Riaz Khabirpour}
 {song_url: https://bsp.app/wahre-freiheit-true-freedom}
 {c: Capo: III}
 

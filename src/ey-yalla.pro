@@ -1,6 +1,6 @@
 {title: Ey Yàlla}
 {words: ‘Abdu’l-Bahá}
-{music: Elio Cortes & Amelia Tavangar}
+{music: Amelia Tavangar & Elio Cortes}
 {song_url: https://bsp.app/ey-yalla}
 {sorttitle: Ey Yàlla}
 {define: F base-fret 1 frets x x 3 2 1 x}
