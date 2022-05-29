@@ -7,7 +7,7 @@ def get_title(song):
 
 def get_words(song):
     """Authors of the text the song is based on"""
-    authors = [source['source_author'] for source in song['sources']]
+    authors = [source['author'] for source in song['sources']]
     authors = list(set([a for a in authors if a is not None]))  # in case there is multiple excerpts from the same author
     if len(authors) > 2:
         return " & ".join([", ".join(authors[:-1]), authors[-1]])
@@ -15,10 +15,10 @@ def get_words(song):
 
 def get_music(song):
     """Artists who intoned the text"""
-    artists = [contributor['contributor_name'] for contributor in song['contributors']]
+    artists = [contributor['name'] for contributor in song['contributors']]
     artists = [a for a in artists if a is not None]
-    if len(artists) == 0 and song['song_description']:
-        return song['song_description']
+    if len(artists) == 0 and song['description']:
+        return song['description']
     elif len(artists) > 2:
         return " & ".join([", ".join(artists[:-1]), artists[-1]])
     else:
@@ -52,8 +52,8 @@ def format_songsheet(song_sheet):
 def format_excerpts(excerpts):
     all_excerpts_formatted = []
     for excerpt in excerpts:
-        excerpt_text = excerpt["excerpt_text"]
-        excerpt_from = "{author}, {source}".format(author=excerpt["source"]["source_author"], source=excerpt["source"]["source_description"])
+        excerpt_text = excerpt["text"]
+        excerpt_from = "{author}, {source}".format(author=excerpt["source"]["author"], source=excerpt["source"]["description"])
         excerpt_formatted = "{excerpt_text}\n\n—{excerpt_from}".format(excerpt_text=excerpt_text, excerpt_from=excerpt_from)
         all_excerpts_formatted.append(excerpt_formatted)
     return all_excerpts_formatted
@@ -61,7 +61,7 @@ def format_excerpts(excerpts):
 def get_translation(excerpt, language="English"):
     """Return translation, if available. Returns excerpt object."""
     for excerpt in excerpt["source"]["excerpts"]:
-        if excerpt["language"]["language_name_en"] == "English":
+        if excerpt["language"]["nameEn"] == "English":
             return excerpt
     return None
         

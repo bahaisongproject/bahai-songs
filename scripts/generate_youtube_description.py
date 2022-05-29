@@ -8,45 +8,44 @@ import argparse
 
 from utils import get_music, format_songsheet, format_excerpts, get_translation
 
-BSP_API_URL = "https://bsp-graphql-server.herokuapp.com"
-BSP_API_URL = "http://localhost:4000"
+BSP_API_URL = "https://bahai-songs.vercel.app/api/graphql"
 CHORDPRO_DIR = "src"
 
 QUERY = """query {{
-    song(where: {{
+    song(songUniqueInput: {{
         slug: "{slug}"
     }} ) {{
         title
-        song_description
+        description
         slug
         excerpts {{
-            excerpt_text
+            text
             language {{
-                language_name_en
+                nameEn
             }}
             source {{
-                source_author
-                source_description
+                author
+                description
                 excerpts {{
-                    excerpt_text
+                    text
                     source {{
-                        source_author
-                        source_description
+                        author
+                        description
                     }}
                     language {{
-                        language_name_en
+                        nameEn
                     }}
                 }}
             }}
         }}
         sources {{
-            source_author
+            author
         }}
         contributors {{
-            contributor_name
+            name
         }}
         languages {{
-            language_name_en
+            nameEn
         }}
     }}
 }}"""
@@ -120,7 +119,7 @@ def main(args):
         all_translations = []
         for excerpt in song_data["excerpts"]:
             # Look up translation if excerpt is not in English
-            if excerpt["language"]["language_name_en"] != "English":
+            if excerpt["language"]["nameEn"] != "English":
                 translation = get_translation(excerpt)
                 if translation:
                     all_translations.append(translation)
@@ -143,7 +142,7 @@ def main(args):
     yt_description_data["music"] = music
 
     # Language
-    languages = [language["language_name_en"] for language in song_data["languages"]]
+    languages = [language["nameEn"] for language in song_data["languages"]]
     yt_description_data["language"] = ", ".join(languages)
     
     yt_description_formatted = YT_DESCRIPTION.format(
