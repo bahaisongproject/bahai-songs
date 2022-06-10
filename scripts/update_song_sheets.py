@@ -61,9 +61,7 @@ chordpro_file_names = os.listdir(CHORDPRO_DIR)
 for file_name in chordpro_file_names:
     slug = file_name[:-4]
     title = get_title(songs[slug])
-    print(title)
     words = get_words(songs[slug])
-    print(words)
     music = get_music(songs[slug])
     song_url = get_song_url(songs[slug])
     title_line = f"{{title: {title}}}\n"
