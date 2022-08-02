@@ -5,10 +5,10 @@
 {c: Capo: III}
 
 ||: Wh[Am]ither shall I turn, whither sh[C]all I turn, 
-powerless as [G]I am to disc[D]over any other way, any [C]other way, 
+powerless as [G]I am to disc[D]over [Am]any other way, any [C]other way, 
 except the way which Th[G]ou didst s[D]et? :||
-||: All the [Am]atoms of the [Em]earth procl[Cadd9]aim Thee to b[G]e God 
-and t[Am]estify that th[C]ere is none other G[C]od besides Th[D]ee. :||
+||: All the [Am]atoms of the [Em]earth procl[(Cadd9)]aim Thee to b[G]e God 
+and t[Am]estify that th[C]ere is none other G[G]od besides Th[D]ee. :||
 ||: So wh[Am]ither (whither), wh[C]ither shall I t[G]urn, o my G[D]od? :||
 
 {c: At the same time:}
@@ -18,5 +18,5 @@ and t[Am]estify that th[C]ere is none other G[C]od besides Th[D]ee. :||
 {eoc}
 
 Wh[Am]ither shall I turn, whither sh[C]all I turn, 
-powerless as [G]I am to disc[D]over any other way, any [C]other way, 
+powerless as [G]I am to disc[D]over [Am]any other way, any [C]other way, 
 except the way which Th[G]ou didst s[D]et?
