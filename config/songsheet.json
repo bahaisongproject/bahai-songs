@@ -40,7 +40,6 @@
     // Strings and tuning.
     // Note that using this will discard all built-in chords!
     // "tuning" : [ "E2", "A2", "D3", "G3", "B3", "E4" ],
-    "tuning" : null,
 
     // User defined chords.
     // "base" defaults to 1.
@@ -149,7 +148,7 @@
 		// Alignment for the labels. Default is left.
 		"align" : "left",
 		// Alternatively, render labels as comments.
-		"comment" : null	// "comment", "comment_italic" or "comment_box",
+		// "comment" : "comment"	// "comment", "comment_italic" or "comment_box",
 	},
 
 	// Alternative songlines with chords in a side column.
