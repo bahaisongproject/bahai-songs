@@ -17,6 +17,7 @@
 		  "label"    : "Table of Contents",
 		  "line"     : "%{title} %{music| — %{}}",
 		  "omit"     : false,
+		  "pageno"   : "%{page}",
 		},
 	],
 
