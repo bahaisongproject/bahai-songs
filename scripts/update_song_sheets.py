@@ -59,23 +59,24 @@ def get_song_url(song):
 chordpro_file_names = os.listdir(CHORDPRO_DIR)
 
 for file_name in chordpro_file_names:
-    slug = file_name[:-4]
-    title = get_title(songs[slug])
-    words = get_words(songs[slug])
-    music = get_music(songs[slug])
-    song_url = get_song_url(songs[slug])
-    title_line = f"{{title: {title}}}\n"
-    words_line = f"{{words: {words}}}\n"
-    music_line = f"{{music: {music}}}\n"
-    song_url_line = f"{{song_url: {song_url}}}\n"
-    new_lines = [title_line, words_line, music_line, song_url_line]
-    with open(os.path.join(CHORDPRO_DIR, file_name), 'r') as f:
-        lines = f.readlines()
-        for line in lines:
-            if line.startswith("{title:") or line.startswith("{words:") or line.startswith("{music:") or line.startswith("{song_url:"):
-                pass
-            else:
-                new_lines.append(line)
-    with open(os.path.join(CHORDPRO_DIR, file_name), 'w') as f:
-        for line in new_lines:
-            f.write(line)
+    if not file_name.startswith("."):
+        slug = file_name[:-4]
+        title = get_title(songs[slug])
+        words = get_words(songs[slug])
+        music = get_music(songs[slug])
+        song_url = get_song_url(songs[slug])
+        title_line = f"{{title: {title}}}\n"
+        words_line = f"{{words: {words}}}\n"
+        music_line = f"{{music: {music}}}\n"
+        song_url_line = f"{{song_url: {song_url}}}\n"
+        new_lines = [title_line, words_line, music_line, song_url_line]
+        with open(os.path.join(CHORDPRO_DIR, file_name), 'r') as f:
+            lines = f.readlines()
+            for line in lines:
+                if line.startswith("{title:") or line.startswith("{words:") or line.startswith("{music:") or line.startswith("{song_url:"):
+                    pass
+                else:
+                    new_lines.append(line)
+        with open(os.path.join(CHORDPRO_DIR, file_name), 'w') as f:
+            for line in new_lines:
+                f.write(line)
