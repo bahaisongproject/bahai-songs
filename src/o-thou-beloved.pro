@@ -1,4 +1,7 @@
 {title: O Thou Beloved}
+{words: ‘Abdu’l-Bahá}
+{music: William Metts}
+{song_url: https://bsp.app/o-thou-beloved}
 
 [G]Oh Thou Beloved of my[Am] heart and soul!
 I [D7]have no refuge save[G] Thee.
