@@ -1,6 +1,6 @@
 {title: O Lord Make This Youth Radiant}
 {words: ‘Abdu’l-Bahá}
-{music: Nava Khorram}
+{music: Youth of Guam}
 {song_url: https://bsp.app/o-lord-make-this-youth-radiant}
 {c: Capo: III}
 
