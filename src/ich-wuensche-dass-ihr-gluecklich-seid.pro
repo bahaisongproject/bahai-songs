@@ -1,4 +1,4 @@
-{title: Ich Wünsche Dass Ihr Glücklich Seid}
+{title: Ich wünsche, dass Ihr glücklich seid}
 {words: ‘Abdu’l-Bahá}
 {music: }
 {song_url: https://bsp.app/ich-wuensche-dass-ihr-gluecklich-seid}
