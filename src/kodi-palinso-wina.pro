@@ -2,6 +2,7 @@
 {words: The Báb}
 {music: }
 {song_url: https://bsp.app/kodi-palinso-wina}
+{c: Capo: II}
 
 ||: K[Am]odi palinso wina, kodi palinso wina
 Wochots[C]a masauts[G]o kupatula Mulung[Am]u? :||
