@@ -1,4 +1,4 @@
-{title: Blaženo Je Tlo}
+{title: Blaženo je tlo}
 {words: Bahá'u'lláh}
 {music: Melody Mazloom}
 {song_url: https://bsp.app/blazeno-je-tlo}
