@@ -12,3 +12,6 @@ src/songbook.txt
 
 ## PDF output
 public/
+
+## .env
+.env
