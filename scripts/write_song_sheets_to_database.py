@@ -27,8 +27,8 @@ for file_name in chordpro_file_names:
         with open(f"{CHORDPRO_DIR}/{file_name}", "r") as f:
             song_sheet = f.read()
         slug = file_name[:-4]
-        update_query = "UPDATE Song SET sheet = %s, updatedAt = NOW() WHERE slug = %s"
-        cursor.execute(update_query, (song_sheet, slug))
+        update_query = "UPDATE Song SET sheet = %s, updatedAt = NOW() WHERE slug = %s AND sheet != %s"
+        cursor.execute(update_query, (song_sheet, slug, song_sheet))
 
 connection.commit()
 cursor.close()
