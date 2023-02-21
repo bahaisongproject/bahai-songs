@@ -72,3 +72,8 @@ copypro:
 .PHONY: archive
 archive:
 	tar -czvf $(output)/bahai-songs-archive.tar.gz $(output)/*.pdf $(output)/*.pro
+
+.PHONY: sync
+sync:
+	python scripts/update_song_sheets.py
+	python scripts/write_song_sheets_to_database.py
