@@ -8,8 +8,8 @@ load_dotenv(dotenv_path)
 
 
 connection = pymysql.connect(
-    host=os.getenv("DB_SERVER"),
-    user=os.getenv("DB_USER"),
+    host=os.getenv("DB_HOST"),
+    user=os.getenv("DB_USERNAME"),
     password=os.getenv("DB_PASSWORD"),
     db=os.getenv("DB_NAME"),
     ssl_verify_identity=True,
