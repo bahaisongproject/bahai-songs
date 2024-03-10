@@ -12,6 +12,7 @@ connection = pymysql.connect(
     user=os.getenv("DB_USERNAME"),
     password=os.getenv("DB_PASSWORD"),
     db=os.getenv("DB_NAME"),
+    port=int(os.getenv("DB_PORT")),
     ssl_verify_identity=True,
 )
 
