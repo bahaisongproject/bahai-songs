@@ -77,3 +77,11 @@ archive:
 sync:
 	python scripts/pull.py
 	python scripts/push.py
+
+.PHONY: push
+push:
+	python scripts/push.py
+
+.PHONY: pull
+pull:
+	python scripts/pull.py
