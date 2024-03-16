@@ -3,6 +3,8 @@
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/in-the-love}
 
+{c: Capo IV}
+
 [G]
 
 ||: In the love I bear to T[G]hee, O my Lord,
