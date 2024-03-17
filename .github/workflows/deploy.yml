@@ -17,11 +17,6 @@ jobs:
           key: perl-${{ steps.perl.outputs.perl-hash }}
       - name: Install chordpro
         run: cpm install chordpro
-      - name: Cache PDFs
-        uses: actions/cache@v4
-        with:
-          path: public
-          key: a-key-that-will-always-exist
       - name: Make PDFs
         run: make
       - name: Install Netlify
