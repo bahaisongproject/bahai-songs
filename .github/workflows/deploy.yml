@@ -10,12 +10,13 @@ jobs:
         with:
           perl-version: "5.38"
       - run: cpan install chordpro
+      - run: make && make songbook && make copypro && make archive
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
       - name: Deploy to Netlify
         id: netlify_deploy
         run: |
           netlify deploy \
-            --dir src \
+            --dir public \
             --site ${{ secrets.NETLIFY_SITE_ID }} \
             --auth ${{ secrets.NETLIFY_API_TOKEN }}
