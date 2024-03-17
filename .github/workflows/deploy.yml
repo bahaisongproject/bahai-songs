@@ -9,14 +9,12 @@ jobs:
       - uses: shogo82148/actions-setup-perl@v1
         with:
           perl-version: "5.38"
-      - uses: actions/cache@v2
+      - name: Cache CPAN Modules
+        uses: actions/cache@v4
         with:
-          path: ~/.cpan
-          key: cpan-${{ runner.os }}-${{ hashFiles('**/cpanfile') }}
-          restore-keys: |
-            cpan-${{ runner.os }}-
-            cpan-
-      - run: cpan install chordpro
+          path: local
+          key: perl-${{ steps.perl.outputs.perl-hash }}
+      - run: cpm install chordpro
       - run: make
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
