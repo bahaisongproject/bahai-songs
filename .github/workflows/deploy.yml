@@ -15,6 +15,11 @@ jobs:
           path: local
           key: perl-${{ steps.perl.outputs.perl-hash }}
       - run: cpm install chordpro
+      - name: Cache PDFs
+        uses: actions/cache@v4
+        with:
+          path: public
+          key: a-key-that-will-always-exist
       - run: make
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
