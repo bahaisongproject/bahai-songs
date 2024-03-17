@@ -17,6 +17,8 @@ jobs:
           key: perl-${{ steps.perl.outputs.perl-hash }}
       - name: Install chordpro
         run: cpm install chordpro
+      - name: Install exiftool
+        run: apt install libimage-exiftool-perl -y
       - name: Make PDFs
         run: make
       - name: Install Netlify
