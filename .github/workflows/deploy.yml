@@ -4,9 +4,10 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Repository Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - uses: shogo82148/actions-setup-perl@v1
+      - name: Setup Perl
+        uses: shogo82148/actions-setup-perl@v1
         with:
           perl-version: "5.38"
       - name: Cache CPAN Modules
@@ -14,13 +15,15 @@ jobs:
         with:
           path: local
           key: perl-${{ steps.perl.outputs.perl-hash }}
-      - run: cpm install chordpro
+      - name: Install chordpro
+        run: cpm install chordpro
       - name: Cache PDFs
         uses: actions/cache@v4
         with:
           path: public
           key: a-key-that-will-always-exist
-      - run: make
+      - name: Make PDFs
+        run: make
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
       - name: Deploy to Netlify
