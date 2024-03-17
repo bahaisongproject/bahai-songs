@@ -17,7 +17,7 @@ jobs:
             cpan-${{ runner.os }}-
             cpan-
       - run: cpan install chordpro
-      - run: make && make songbook && make copypro && make archive
+      - run: make
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
       - name: Deploy to Netlify
