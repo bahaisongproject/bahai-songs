@@ -20,7 +20,7 @@ jobs:
       - name: Install exiftool
         run: apt install libimage-exiftool-perl -y
       - name: Make PDFs
-        run: make
+        run: make && make songbook && make copypro && make archive
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
       - name: Deploy to Netlify
