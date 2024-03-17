@@ -6,6 +6,10 @@ jobs:
     steps:
       - name: Repository Checkout
         uses: actions/checkout@v4
+      - uses: shogo82148/actions-setup-perl@v1
+        with:
+          perl-version: "5.38"
+      - run: cpan install chordpro
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
       - name: Deploy to Netlify
