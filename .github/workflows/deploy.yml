@@ -9,6 +9,13 @@ jobs:
       - uses: shogo82148/actions-setup-perl@v1
         with:
           perl-version: "5.38"
+      - uses: actions/cache@v2
+        with:
+          path: ~/.cpan
+          key: cpan-${{ runner.os }}-${{ hashFiles('**/cpanfile') }}
+          restore-keys: |
+            cpan-${{ runner.os }}-
+            cpan-
       - run: cpan install chordpro
       - run: make && make songbook && make copypro && make archive
       - name: Install Netlify
