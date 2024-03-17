@@ -19,8 +19,14 @@ jobs:
         run: cpm install chordpro
       - name: Install exiftool
         run: sudo apt install libimage-exiftool-perl -y
-      - name: Make PDFs
-        run: make && make songbook && make copypro && make archive
+      - name: Make song sheets
+        run: make
+      - name: Make song book
+        run: make songbook
+      - name: Copy chordpro files
+        run: make copypro
+      - name: Create archive
+        run: make archive
       - name: Install Netlify
         run: npm install netlify-cli@17.10.1 -g
       - name: Deploy to Netlify
