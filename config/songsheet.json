@@ -34,7 +34,7 @@
                  "album", "copyright", "year", "words", "text_type", "id",
                  "key", "time", "tempo", "capo", "duration", "song_url" ],
       "strict" : true,
-      "separator" : ", ",
+      "separator" : "; ",
     },
 
     // Strings and tuning.

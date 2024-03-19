@@ -55,7 +55,10 @@ songbook:
 	@echo Making "$(songbook)"
 # Remove songbook.txt in case the previous making of songbook did not complete
 	@rm -f $(source)/songbook.txt
-	@ls $(source)/* | sort -V > $(source)/songbook.txt
+# Create sorted list of songs
+# Sort alphabetically by slug
+# Multiple songs with the same title start with the song without a number suffixed slug
+	@ls $(source)/* | sed 's/src\///; s/\.pro$$//' | sort -t '-' -k1,1 -k2V -k3n | sed 's/^/src\//' | sed 's/$$/.pro/' > $(source)/songbook.txt
 	@$(CHORDPRO_CMD) --filelist=$(source)/songbook.txt --config=$(config)/songbook.json --no-csv --cover=$(assets)/cover/cover.pdf -o "$(songbook)"
 	@exiftool -Title=$(songbook_title) -overwrite_original "$(songbook)"
 	@rm $(source)/songbook.txt
