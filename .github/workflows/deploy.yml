@@ -21,6 +21,11 @@ jobs:
         run: sudo apt install libimage-exiftool-perl -y
       - name: Make song book
         run: make songbook
+      - name: Cache PDFs
+        uses: actions/cache@v4
+        with:
+          path: src
+          key: always-restore-cache
       - name: Make song sheets
         run: make
       - name: Copy chordpro files
