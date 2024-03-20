@@ -12,17 +12,20 @@ SONGBOOK_TITLE := "song book | bahá'í song project"
 
 CHORDPRO_CMD := chordpro
 
+to-md5 = $1 $(addsuffix .md5,$1)
+
 sources := $(wildcard $(SRC_DIR)/*.pro)
 
 # Convert the list of SRC_DIR files (.pro files in directory src/)
 # into a list of OUTPUT_DIR files (PDFs in directory public/).
 objects := $(patsubst %.pro,%.pdf,$(subst $(SRC_DIR)/,$(OUTPUT_DIR)/,$(sources)))
+md5_files := $(patsubst %.pro,%.pro.md5,$(sources))
 
 
-all: $(objects)
+.PHONY: all
+all: $(objects) $(md5_files)
 
-$(OUTPUT_DIR)/%.pdf: $(SRC_DIR)/%.pro
-
+$(OUTPUT_DIR)/%.pdf: $(call to-md5,$(SRC_DIR)/%.pro)
 # Create OUTPUT_DIR directory if it does not yet exist
 	@[ -d $(OUTPUT_DIR) ] || mkdir -p $(OUTPUT_DIR)
 
@@ -70,3 +73,8 @@ push:
 .PHONY: pull
 pull:
 	python scripts/pull.py
+
+%.md5: FORCE
+	@$(if $(filter-out $(shell cat $@ 2>/dev/null),$(shell md5sum $*)),md5sum $* > $@)
+
+FORCE:
