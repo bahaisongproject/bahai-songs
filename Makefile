@@ -2,39 +2,25 @@
 # Generate PDFs from the ChordPro SRC_DIR files
 
 
-# Directory containing SRC_DIR files 
 SRC_DIR := src
-
-# Directory containing pdf files
 OUTPUT_DIR := public
-
-# Directory for ASSETS_DIR
 ASSETS_DIR := assets
-
-# Direcory for CONFIG_DIR files
 CONFIG_DIR := config
 
-# Songbook
 SONGBOOK := $(OUTPUT_DIR)/songbook.pdf
-
-# Title of Songbook PDF, shown in tab when viewing PDF in browser
 SONGBOOK_TITLE := "song book | bahá'í song project"
 
-# All .pro files in src/ are considered SRC_DIRs
-sources := $(wildcard $(SRC_DIR)/*.pro)
+CHORDPRO_CMD := chordpro
 
+sources := $(wildcard $(SRC_DIR)/*.pro)
 
 # Convert the list of SRC_DIR files (.pro files in directory src/)
 # into a list of OUTPUT_DIR files (PDFs in directory public/).
 objects := $(patsubst %.pro,%.pdf,$(subst $(SRC_DIR)/,$(OUTPUT_DIR)/,$(sources)))
 
 
-CHORDPRO_CMD := chordpro
-
-
 all: $(objects)
 
-# Recipe for converting a ChordPro file into PDF
 $(OUTPUT_DIR)/%.pdf: $(SRC_DIR)/%.pro
 
 # Create OUTPUT_DIR directory if it does not yet exist
