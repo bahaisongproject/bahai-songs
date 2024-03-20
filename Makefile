@@ -23,26 +23,19 @@ SONGBOOK_TITLE := "song book | bahá'í song project"
 # All .pro files in src/ are considered SRC_DIRs
 sources := $(wildcard $(SRC_DIR)/*.pro)
 
-# $(call to-md5, file1 file2) -> file1, file1.md5, file2, file2.md5
-to-md5 = $1 $(addsuffix .md5,$1)
-
 
 # Convert the list of SRC_DIR files (.pro files in directory src/)
 # into a list of OUTPUT_DIR files (PDFs in directory public/).
 objects := $(patsubst %.pro,%.pdf,$(subst $(SRC_DIR)/,$(OUTPUT_DIR)/,$(sources)))
 
 
-# # Use Linux binary in bin/chordpro for Netlify
-ifeq ($(NETLIFY), true)
-	CHORDPRO_CMD := ./bin/chordpro/chordpro
-else
-	CHORDPRO_CMD := chordpro
-endif
+CHORDPRO_CMD := chordpro
+
 
 all: $(objects)
 
 # Recipe for converting a ChordPro file into PDF
-$(OUTPUT_DIR)/%.pdf: $(SRC_DIR)/%.pro 
+$(OUTPUT_DIR)/%.pdf: $(SRC_DIR)/%.pro
 
 # Create OUTPUT_DIR directory if it does not yet exist
 	@[ -d $(OUTPUT_DIR) ] || mkdir -p $(OUTPUT_DIR)
