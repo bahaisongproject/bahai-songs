@@ -12,7 +12,7 @@ SONGBOOK_TITLE := "song book | bahá'í song project"
 
 CHORDPRO_CMD := chordpro
 
-to-md5 = $1 $(addsuffix .md5,$1)
+to-md5 = $(addsuffix .md5,$1)
 
 sources := $(wildcard $(SRC_DIR)/*.pro)
 
@@ -30,7 +30,7 @@ $(OUTPUT_DIR)/%.pdf: $(call to-md5,$(SRC_DIR)/%.pro)
 	@[ -d $(OUTPUT_DIR) ] || mkdir -p $(OUTPUT_DIR)
 
 	@echo Making "$(@)"...
-	@$(CHORDPRO_CMD) "$(<)" --config=$(CONFIG_DIR)/songsheet.json -o "$(@)"
+	@$(CHORDPRO_CMD) "$(basename $(<))" --config=$(CONFIG_DIR)/songsheet.json -o "$(@)"
 
 
 .PHONY: songbook
@@ -43,7 +43,7 @@ songbook:
 # Create sorted list of songs
 # Sort alphabetically by slug
 # Multiple songs with the same title start with the song without a number suffixed slug
-	@ls $(SRC_DIR)/* | sed 's/src\///; s/\.pro$$//' | sort -t '-' -k1,1 -k2V -k3n | sed 's/^/src\//' | sed 's/$$/.pro/' > $(SRC_DIR)/songbook.txt
+	@find $(SRC_DIR) -name '*.pro' -exec basename {} .pro \; | sort -t '-' -k1,1 -k2V -k3n | sed 's/^/src\//' | sed 's/$$/.pro/' > $(SRC_DIR)/songbook.txt
 	@$(CHORDPRO_CMD) --filelist=$(SRC_DIR)/songbook.txt --config=$(CONFIG_DIR)/songbook.json --no-csv --cover=$(ASSETS_DIR)/cover/cover.pdf -o "$(SONGBOOK)"
 	@exiftool -Title=$(SONGBOOK_TITLE) -overwrite_original "$(SONGBOOK)"
 	@rm $(SRC_DIR)/songbook.txt
