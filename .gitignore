@@ -12,6 +12,7 @@ src/songbook.txt
 
 ## PDF output
 public/
+.md5/
 
 ## .env
 .env
