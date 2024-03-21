@@ -6,20 +6,22 @@ SRC_DIR := src
 OUTPUT_DIR := public
 ASSETS_DIR := assets
 CONFIG_DIR := config
+MD5_DIR := .md5
 
 SONGBOOK := $(OUTPUT_DIR)/songbook.pdf
 SONGBOOK_TITLE := "song book | bahá'í song project"
 
 CHORDPRO_CMD := chordpro
 
-to-md5 = $(addsuffix .md5,$1)
+to-md5 = $(MD5_DIR)/$(notdir $1).md5
+to-src = $(SRC_DIR)/$(basename $(notdir $1))
 
 sources := $(wildcard $(SRC_DIR)/*.pro)
 
 # Convert the list of SRC_DIR files (.pro files in directory src/)
 # into a list of OUTPUT_DIR files (PDFs in directory public/).
 objects := $(patsubst %.pro,%.pdf,$(subst $(SRC_DIR)/,$(OUTPUT_DIR)/,$(sources)))
-md5_files := $(patsubst %.pro,%.pro.md5,$(sources))
+md5_files := $(patsubst %.pro,%.pro.md5,$(subst $(SRC_DIR)/,$(MD5_DIR)/,$(sources)))
 
 
 .PHONY: all
@@ -30,8 +32,14 @@ $(OUTPUT_DIR)/%.pdf: $(call to-md5,$(SRC_DIR)/%.pro)
 	@[ -d $(OUTPUT_DIR) ] || mkdir -p $(OUTPUT_DIR)
 
 	@echo Making "$(@)"...
-	@$(CHORDPRO_CMD) "$(basename $(<))" --config=$(CONFIG_DIR)/songsheet.json -o "$(@)"
+	@$(CHORDPRO_CMD) "$(call to-src,$(<))" --config=$(CONFIG_DIR)/songsheet.json -o "$(@)"
 
+$(MD5_DIR)/%.md5: FORCE
+# Create MD5_DIR directory if it does not yet exist
+	@[ -d $(MD5_DIR) ] || mkdir -p $(MD5_DIR)
+	@$(if $(filter-out $(shell cat $@ 2>/dev/null),$(shell md5sum $(SRC_DIR)/$*)),md5sum $(SRC_DIR)/$* > $@)
+
+FORCE:
 
 .PHONY: songbook
 songbook:
@@ -73,8 +81,3 @@ push:
 .PHONY: pull
 pull:
 	python scripts/pull.py
-
-%.md5: FORCE
-	@$(if $(filter-out $(shell cat $@ 2>/dev/null),$(shell md5sum $*)),md5sum $* > $@)
-
-FORCE:

@@ -19,10 +19,15 @@ jobs:
         run: cpm install chordpro
       - name: Install exiftool
         run: sudo apt install libimage-exiftool-perl -y
+      - name: Cache md5 checksums
+        uses: actions/cache@v4
+        with:
+          path: .md5
+          key: always-restore-cache
       - name: Cache PDFs
         uses: actions/cache@v4
         with:
-          path: src
+          path: public
           key: always-restore-cache
       - name: Make song sheets
         run: make
