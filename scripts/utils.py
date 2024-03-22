@@ -64,4 +64,12 @@ def get_translation(excerpt, language="English"):
         if excerpt["language"]["nameEn"] == "English":
             return excerpt
     return None
-        
+
+def get_stripped_sheet(sheet):
+    all_lines = sheet.split("\n")
+    new_lines = []
+    for line in all_lines:
+        # Remove metadata lines
+        if not line.startswith("{") or line.startswith("{c"):
+            new_lines.append(line)
+    return "\n".join(new_lines).strip("\n")
