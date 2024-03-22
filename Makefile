@@ -1,7 +1,3 @@
-# Adapted from https://gist.github.com/bertvv/e77e3a5d24d8c2a9bcc4
-# Generate PDFs from the ChordPro SRC_DIR files
-
-
 SRC_DIR := src
 OUTPUT_DIR := public
 ASSETS_DIR := assets
@@ -16,26 +12,19 @@ CHORDPRO_CMD := chordpro
 to-md5 = $(MD5_DIR)/$(notdir $1).md5
 to-src = $(SRC_DIR)/$(basename $(notdir $1))
 
-sources := $(wildcard $(SRC_DIR)/*.pro)
-
-# Convert the list of SRC_DIR files (.pro files in directory src/)
-# into a list of OUTPUT_DIR files (PDFs in directory public/).
-objects := $(patsubst %.pro,%.pdf,$(subst $(SRC_DIR)/,$(OUTPUT_DIR)/,$(sources)))
-md5_files := $(patsubst %.pro,%.pro.md5,$(subst $(SRC_DIR)/,$(MD5_DIR)/,$(sources)))
-
+chordpro_files := $(wildcard $(SRC_DIR)/*.pro)
+pdf_files := $(patsubst %.pro,%.pdf,$(subst $(SRC_DIR)/,$(OUTPUT_DIR)/,$(chordpro_files)))
+md5_files := $(patsubst %.pro,%.pro.md5,$(subst $(SRC_DIR)/,$(MD5_DIR)/,$(chordpro_files)))
 
 .PHONY: all
-all: $(objects) $(md5_files)
+all: $(pdf_files) $(md5_files)
 
 $(OUTPUT_DIR)/%.pdf: $(call to-md5,$(SRC_DIR)/%.pro)
-# Create OUTPUT_DIR directory if it does not yet exist
 	@[ -d $(OUTPUT_DIR) ] || mkdir -p $(OUTPUT_DIR)
-
 	@echo Making "$(@)"...
 	@$(CHORDPRO_CMD) "$(call to-src,$(<))" --config=$(CONFIG_DIR)/songsheet.json -o "$(@)"
 
 $(MD5_DIR)/%.md5: FORCE
-# Create MD5_DIR directory if it does not yet exist
 	@[ -d $(MD5_DIR) ] || mkdir -p $(MD5_DIR)
 	@$(if $(filter-out $(shell cat $@ 2>/dev/null),$(shell md5sum $(SRC_DIR)/$*)),md5sum $(SRC_DIR)/$* > $@)
 
@@ -43,7 +32,6 @@ FORCE:
 
 .PHONY: songbook
 songbook:
-# Create OUTPUT_DIR directory if it does not yet exist
 	@[ -d $(OUTPUT_DIR) ] || mkdir -p $(OUTPUT_DIR)
 	@echo Making "$(SONGBOOK)"
 # Remove songbook.txt in case the previous making of songbook did not complete
