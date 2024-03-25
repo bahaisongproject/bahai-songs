@@ -3,14 +3,14 @@
 {music: Corinne Bahia & Levin Zendeh}
 {song_url: https://bsp.app/o-ihr-geliebten-gottes}
 
-O ihr geliebten Gottes!
-        O ihr geliebten Gottes!
+O ihr Geliebten Gottes!
+        O ihr Geliebten Gottes!
 
-Legt euch nicht auf eurem Lager zur Ruhe 
+Legt euch nicht auf eurem Lager zur Ruhe
         Legt euch nicht auf eurem Lager zur Ruhe
 
 Nein!
-        Nein! 
+        Nein!
 
 Erhebt euch
         Erhebt euch
