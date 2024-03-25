@@ -3,8 +3,6 @@
 {music: Elisabeth Hahn}
 {song_url: https://bsp.app/bendito-es-el-sitio}
 
-
-
 {soc}
 {c: 2x}
 Bend[A]ito es el s[Amaj7]itio y la c[A7]asa y el lug[D]ar

@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Aijia Grammer & Andy Grammer}
 {song_url: https://bsp.app/where-there-is-love}
+
 {define: E5 base-fret 7 frets 0 1 3 3 0 0}
 {define: A2 base-fret 7 frets 3 0 3 3 0 0}
 {define: E4 base-fret 7 frets 1 1 3 3 0 0}

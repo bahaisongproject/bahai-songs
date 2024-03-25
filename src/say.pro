@@ -3,7 +3,6 @@
 {music: Eric Harper}
 {song_url: https://bsp.app/say}
 
-
 ||: S[Bm]ay, say God, God suffice, God sufficeth
 [Em]All things above, things above, above all things :||
 

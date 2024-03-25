@@ -3,7 +3,6 @@
 {music: }
 {song_url: https://bsp.app/erstickt-die-flammen-des-krieges}
 
-
 Erst[Am]ickt die Flammen des Kr[C]ieges
 
 hisst h[F]och die Banner des Fr[C]iedens

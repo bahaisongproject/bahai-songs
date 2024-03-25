@@ -2,11 +2,12 @@
 {words: Bahá’u’lláh}
 {music: Dani Lutley & Mey Spiegel}
 {song_url: https://bsp.app/morning-prayer}
+
 {define: Dmaj9 base-fret 1 frets 2 0 0 2 2 0}
 
 ||:[Amaj7] I have [Dmaj9]risen this [Amaj7]morning by [Dmaj9]Thy grace,
 [Amaj7]       [Dmaj9]O my [Amaj7]God,  [Dmaj9]O my God
-[Amaj7]and left my [Dmaj9]home trusting [Amaj7]wholly in [Dmaj9]Thee,     
+[Amaj7]and left my [Dmaj9]home trusting [Amaj7]wholly in [Dmaj9]Thee,
 [Amaj7]wholly in [Dmaj9]Thee,
 and com[Amaj7]mitting [Dmaj9]myself [Amaj7]to Thy [Dmaj9]care. [Amaj7]:||
 

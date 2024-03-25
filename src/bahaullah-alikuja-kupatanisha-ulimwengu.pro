@@ -2,13 +2,12 @@
 {words: }
 {music: Sabi Msafiri}
 {song_url: https://bsp.app/bahaullah-alikuja-kupatanisha-ulimwengu}
-{sorttitle: Baha'u'llah Alikuja Kupatanisha Ulimwengu}
 
 
 ||: Bahá'u'lláh alikuwa
 moja wapo ya wafuasi wake Báb hi- :||
 
-||: Wakati Bab alipo fariki, Bahá 
+||: Wakati Bab alipo fariki, Bahá
 aliteuluwa Kuwa kiongozi wa wababis hi- :||
 
 Huo ndio

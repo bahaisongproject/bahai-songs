@@ -2,6 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Maryam Hadji}
 {song_url: https://bsp.app/verily-i-say}
+
 {c: Capo: V}
 
 V[G]erily I sa[D]y, th[C]is is th[D]e Day in wh[G]ich mank[D]ind can b[C]ehold the F[D]ace,

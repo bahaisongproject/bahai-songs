@@ -2,11 +2,12 @@
 {words: Bahá'u'lláh}
 {music: Nadine Reyhani}
 {song_url: https://bsp.app/durch-deine-liebe}
+
 {c: Capo: IV}
 
-[G]  O mein G[G/F#]ott, [Am]        o mein G[G]ott! 
+[G]  O mein G[G/F#]ott, [Am]        o mein G[G]ott!
 [G]  Einig[G/F#]e   die Herzen Deiner D[C]ien[G]er
-[G]  O mein G[G/F#]ott, [Am]        o mein G[G]ott! 
+[G]  O mein G[G/F#]ott, [Am]        o mein G[G]ott!
 [G]  Und enth[G/F#]ülle ihnen Deinen [C]   großen Pl[G]an.
 [Em]   Gib, d[B7]ass sie Deinen Geb[C]oten f[G]olgen
 [Em]   und Deinem Ges[B7]etz die Treue h[C]alt[G]en.

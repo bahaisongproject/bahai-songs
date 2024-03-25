@@ -3,7 +3,6 @@
 {music: Devon Gundry}
 {song_url: https://bsp.app/refrenergy}
 
-
 [C]O G[G]od! Refr[Am]esh and gladden my [F] spirit!
 [C]O G[G]od! P[Am]urify my h[F]eart!
 
@@ -13,7 +12,7 @@ Illumine my p[C]ow[G]ers. Illumine my p[Am]ow-[F]  [C] ers [G] [Am] [F]
 Th[C]ou [G]art [Am]my Guide and my R[F]efuge
 
 ||: Illumine my p[C]ow[G]ers. Illumine my p[Am]ow-[F]  [C] ers [G] [Am] [F] :||
-    
+
 [C] I will no longer be  [G]  sorrowful and gr[Am]ieved
 I will be a happy and joyful, h[F]appy and joyful being.
 

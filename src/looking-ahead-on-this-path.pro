@@ -2,6 +2,7 @@
 {words: The Universal House of Justice}
 {music: A group of youth from Auckland, New Zealand}
 {song_url: https://bsp.app/looking-ahead-on-this-path}
+
 {c: Capo: V}
 
 ||: L[A]ooking ahead on this path

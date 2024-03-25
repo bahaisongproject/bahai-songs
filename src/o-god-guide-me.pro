@@ -8,8 +8,7 @@
 and m[G]ake of me a brilliant st[Am]ar. :||
 ||: Th[Am]ou  [F]   art the M[G]ighty and the P[Am]owerful. :||
 
-
 ||: [Am]O Gott! F[F]ühre mich, besch[G]ütze m[Am]ich :||
-Erl[Am]euchte die L[F]ampe meines H[G]erz[Am]ens 
-und m[Am]ache mich zu einem str[F]ahlenden St[G]e-  [Am]      rn. 
+Erl[Am]euchte die L[F]ampe meines H[G]erz[Am]ens
+und m[Am]ache mich zu einem str[F]ahlenden St[G]e-  [Am]      rn.
 ||: D[Am]u [F]      bist m[G]ächtig und st[Am]ark. :||

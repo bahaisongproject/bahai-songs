@@ -3,7 +3,6 @@
 {music: Tamara Duncan}
 {song_url: https://bsp.app/ablaze}
 
-
 [Am][C][G][C]
 
 ||: O my L[Am]ord! O my L[C]ord! This is a l[G]amp lighted by

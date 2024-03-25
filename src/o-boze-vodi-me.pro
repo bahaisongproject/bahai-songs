@@ -3,7 +3,6 @@
 {music: Vahid Zierau}
 {song_url: https://bsp.app/o-boze-vodi-me}
 
-
 ||: [D] O, B[A]ože, [Bm]vodi m[G]e,
 [D] O, B[A]ože, zašt[Bm]iti m[G]e,
 uč[D]ini me sj[A]ajnom svj[Bm]etiljk[G]om

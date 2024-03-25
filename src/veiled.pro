@@ -2,6 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Ann-Sofie Wensbo}
 {song_url: https://bsp.app/veiled}
+
 {define: C/B base-fret 1 frets x 2 0 0 1 0}
 
 O Son of M[C]an! [C/B] [Am] [G] [F] [G]

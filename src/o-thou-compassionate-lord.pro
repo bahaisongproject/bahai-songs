@@ -3,10 +3,9 @@
 {music: }
 {song_url: https://bsp.app/o-thou-compassionate-lord}
 
-
 [] O Thou comp[]assionate Lord, T[]hou Who art g[]enerous
 [] We are s[]ervants of Th[]ine sh[]eltered beneath Thy providence, providence
-    
+
 ||: Give light to our []eyes, h[]earing to our []ears, and understanding and l[]o- []ve to our h[]earts :||
 
 To our hearts

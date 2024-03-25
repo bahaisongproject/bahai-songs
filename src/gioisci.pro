@@ -2,6 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Anis Mirra}
 {song_url: https://bsp.app/gioisci}
+
 {c: Capo: I}
 
 Gio[G]isci nella letizia d[Gmaj7]el tuo cu[Em7]ore

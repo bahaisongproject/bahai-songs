@@ -2,6 +2,7 @@
 {words: ‘Abdu’l-Bahá}
 {music: Kelsey Bulkin}
 {song_url: https://bsp.app/thy-love}
+
 {define: G base-fret 1 frets 3 2 0 0 3 3}
 {define: Cadd9 base-fret 1 frets x 3 2 0 3 3}
 {define: A7sus base-fret 1 frets x 0 0 0 3 3}

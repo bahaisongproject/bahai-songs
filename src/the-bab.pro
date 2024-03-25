@@ -2,7 +2,6 @@
 {words: The Báb}
 {music: Naim Zabihi, Negin Zabihi & Pascal Naim Schmidt}
 {song_url: https://bsp.app/the-bab}
-{sorttitle: The Bab}
 
 ||: I am the Pr[Cadd9]imal P[G]oint from wh[Em7]ich have b[D/F#]een
 [Cadd9] gener[G]ated all cre[Em7]ated th[D/F#]ings. :||

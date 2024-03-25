@@ -2,6 +2,7 @@
 {words: The Báb}
 {music: }
 {song_url: https://bsp.app/is-there-any-remover-of-difficulties}
+
 {define: F#m/E base-fret 1 frets 0 4 4 2 0 0}
 {define: G#m/E base-fret 3 frets 0 4 4 2 0 0}
 

@@ -2,8 +2,8 @@
 {words: ‘Abdu’l-Bahá}
 {music: }
 {song_url: https://bsp.app/help-me-to-triumph}
-
 {transpose: -1}
+
 {c: The chords used here fit to the Studio Sessions rendition of this song. But you can also transpose them one step up to Am C G Am.}
 
 H[Am]elp me to tr[C]iumph b[G]y the h[Am]osts

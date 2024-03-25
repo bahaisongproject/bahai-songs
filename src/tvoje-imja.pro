@@ -3,7 +3,6 @@
 {music: }
 {song_url: https://bsp.app/tvoje-imja}
 
-
  [C] [Am] [F] [G] [C] [C]
 
 {c: 2x}

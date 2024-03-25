@@ -3,7 +3,6 @@
 {music: Farah Haji & Maya Asdaghi}
 {song_url: https://bsp.app/the-period-of-youth}
 
-
 [C] [G7] [F] [G]
 
 The [C]period of youth is character[G7]ized by str[F]ength and vigour and st[G]ands out

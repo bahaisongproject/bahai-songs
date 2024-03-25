@@ -4,7 +4,7 @@
 {song_url: https://bsp.app/o-lord-i-am-weak}
 
 O Lord! I am weak, strengthen me
-with Thy power and potency. 
+with Thy power and potency.
 
 My tongue falters
         My tongue falters
@@ -27,4 +27,4 @@ me into Thy kingdom
         me into Thy kingdom
 
 O Lord! I am weak, strengthen me
-        with Thy power and potency. 
+        with Thy power and potency.
