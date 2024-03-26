@@ -10,9 +10,11 @@ A collection of songs inspired by the Bahá'í writings in ChordPro notation
 ## Getting Started
 1. Install requirements:
   - macOS
-     - Install chordpro: `sudo cpan chordpro`
+     -  ChordPro: [binary installation](https://www.chordpro.org/chordpro/install-macos-native/) or `sudo cpan chordpro` ([detailed instructions](https://www.chordpro.org/chordpro/chordpro-install-on-macos/))
+     - exiftool: `brew install exiftool`
    - Linux:
-     - Install chordpro: `sudo cpan install chordpro`
+     - ChordPro: `sudo cpan install chordpro`
+     - exiftool: `sudo apt install libimage-exiftool-perl`
 1. Make song sheets with `make`
 1. Make song book PDF with `make songbook`
 1. Empty public/ directory with `make clean`
