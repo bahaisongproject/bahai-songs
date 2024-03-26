@@ -1,5 +1,5 @@
 # Bahá'í Songs
-[![Netlify Status](https://api.netlify.com/api/v1/badges/871376a0-91db-4826-b554-b43213e18b27/deploy-status)](https://app.netlify.com/sites/bsp-pdf/deploys)
+![](https://github.com/bahaisongproject/bahai-songs/actions/workflows/deploy.yml/badge.svg)
 
 A collection of songs inspired by the Bahá'í writings in ChordPro notation
 - Learn more about the [Bahá'í Faith](https://www.bahai.org/)
