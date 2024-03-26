@@ -2,6 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Tanisha Raj}
 {song_url: https://bsp.app/be-generous}
+
 {define: B base-fret 7 frets 1 3 3 2 1 1}
 {define: D#m base-fret 6 frets 1 1 3 3 2 1}
 {define: C# base-fret 4 frets x 1 3 3 3 1}

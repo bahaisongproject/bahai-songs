@@ -2,6 +2,7 @@
 {words: Bahá'u'lláh}
 {music: Bonnie Lisbeth}
 {song_url: https://bsp.app/bear-and-endure}
+
 {c: Capo: I}
 
 Were it n[Am]ot for t[C]he cold,
@@ -20,8 +21,8 @@ Lament n[Am]ot bec[C]ause of the wicked.
 Th[F]ou wert creat[G]ed
 ||: to bear and end[Am]ure, [C]oh, to bear and end[G]ure, [F]oh :||
 
-By Th[Am]ine al[C]oneness the S[F]un of Oneness sh[G]one, 
-and b[Am]y Thy banishm[C]ent the land of [F]Unity was ad[G]orned. 
+By Th[Am]ine al[C]oneness the S[F]un of Oneness sh[G]one,
+and b[Am]y Thy banishm[C]ent the land of [F]Unity was ad[G]orned.
 ||: Be p[Am]atient, be patient, be p[C]atient,
 O Thou [F]Exile of the w[G]orlds. :||
 
@@ -36,7 +37,6 @@ Th[F]ou wert creat[G]ed
 {soc}
 ||: to bear and end[Am]ure, [C]oh, to bear and end[G]ure, [F]oh :||
 ||: Bahá is drowning in a sea of tribulation:
-    Where is the Ark of Thy salvation, 
+    Where is the Ark of Thy salvation,
     O Savior of the worlds, O Savior of the worlds? :||
 {eoc}
-

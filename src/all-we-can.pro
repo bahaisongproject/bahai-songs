@@ -2,6 +2,7 @@
 {words: Shoghi Effendi}
 {music: ISGP Year 2 (Germany, 2014)}
 {song_url: https://bsp.app/all-we-can}
+
 {c: Capo: I}
 
 [C][G][Am][F]

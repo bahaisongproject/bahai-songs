@@ -7,9 +7,9 @@
 
 ||: [Em]Be thou strong and firm.[Bm7]
 [Am]Be thou resolute and stead[C]fast.
-When the [Bm7]tree is firmly rooted, 
+When the [Bm7]tree is firmly rooted,
 [F]It will bear fruit.
-[G]Therefore, it is [Em]not permitted to be 
+[G]Therefore, it is [Em]not permitted to be
 [Bm7]agitated by any [D]test. :||
 
 ||: [C]Be thou [D]not dis[Em]heartened,[D]
