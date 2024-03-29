@@ -4,11 +4,14 @@ import requests
 import sys
 import json
 import argparse
-
-
+from dotenv import load_dotenv
 from utils import get_music, format_songsheet, format_excerpts, get_translation
 
-BSP_API_URL = "https://bahai-songs.vercel.app/api/graphql"
+
+# Load environment variables from a .env file in the parent directory
+dotenv_path = os.path.join(os.path.dirname(__file__), "..", ".env")
+load_dotenv(dotenv_path)
+
 CHORDPRO_DIR = "src"
 
 QUERY = """query {{
@@ -97,7 +100,7 @@ bahá’í song project was launched in 2011 by a group of friends who wanted to
 
 def main(args):
     song_query = QUERY.format(slug=args.slug)
-    r = requests.post(BSP_API_URL, json={'query': song_query})
+    r = requests.post(os.getenv("GRAPHQL_API_URL"), json={'query': song_query})
     song_data = json.loads(r.text)['data']['song']
 
     if song_data is None:
@@ -108,7 +111,7 @@ def main(args):
 
     # Song URL
     yt_description_data["song_url"] = "https://www.bahaisongproject.com/{slug}".format(slug=args.slug)
-    
+
     # Based on
     if song_data["excerpts"] is not None:
         all_excerpts_formatted = format_excerpts(song_data["excerpts"])
@@ -127,7 +130,7 @@ def main(args):
             all_translations_formatted = format_excerpts(all_translations)
             all_translations_joined = "\n\n".join(all_translations_formatted)
         yt_description_data["translation"] = all_translations_joined if all_translations else ""
-    
+
 
     # Lyrics & Chords
     chordpro_cmd = "chordpro {chordpro_dir}/{slug}.pro --generate=Text"
@@ -144,7 +147,7 @@ def main(args):
     # Language
     languages = [language["nameEn"] for language in song_data["languages"]]
     yt_description_data["language"] = ", ".join(languages)
-    
+
     yt_description_formatted = YT_DESCRIPTION.format(
         song_url=yt_description_data["song_url"],
         based_on=yt_description_data["based_on"],

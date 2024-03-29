@@ -1,11 +1,13 @@
 import os
 import requests
 import json
-
+from dotenv import load_dotenv
 from utils import get_title, get_words, get_music, get_song_url
 
-BSP_URL = "https://bsp.app/"
-BSP_API_URL = "https://bahai-songs.vercel.app/api/graphql"
+# Load environment variables from a .env file in the parent directory
+dotenv_path = os.path.join(os.path.dirname(__file__), "..", ".env")
+load_dotenv(dotenv_path)
+
 CHORDPRO_DIR = "src"
 
 QUERY = """query {
@@ -22,7 +24,7 @@ QUERY = """query {
     }
 }"""
 
-r = requests.post(BSP_API_URL, json={'query': QUERY})
+r = requests.post(os.getenv("GRAPHQL_API_URL"), json={'query': QUERY})
 json_data = json.loads(r.text)
 
 songs = { song['slug'] : song for song in json_data['data']['allSongs'] }
@@ -54,7 +56,7 @@ def get_music(song):
 
 def get_song_url(song):
     """Get URL of song"""
-    return BSP_URL + song['slug']
+    return os.getenv("SHORT_URL") + song['slug']
 
 chordpro_file_names = os.listdir(CHORDPRO_DIR)
 
