@@ -15,12 +15,13 @@ A collection of songs inspired by the Bahá'í writings in ChordPro notation
    - Linux:
      - ChordPro: `sudo cpan install chordpro`
      - exiftool: `sudo apt install libimage-exiftool-perl`
-1. Make song sheets with `make`
-1. Make song book PDF with `make songbook`
-1. Empty public/ directory with `make clean`
+2. Use Makefile
+  - Make song sheets with `make`
+  - Make song book with `make songbook`
+  - Empty public/ directory with `make clean`
 
 ## Updating song sheets with data from the bahá'í song project API
-`make pull` is used to update the source files with data from the bahá'í song project API at https://bahai-songs.vercel.app/api/graphql.
+Use `make pull` to update the source files with data from the bahá'í song project API at https://bahai-songs.vercel.app/api/graphql.
 The matching of ChordPro source files with database records happens based on the file name.
 If a database record is found for a ChordPro source file, the script will add/update:
 - `{title: New Title}`
@@ -28,7 +29,7 @@ If a database record is found for a ChordPro source file, the script will add/up
 - `{words: Author A, Author B & Author C}`
 - `{song_slug: new-title}` (for creating a link to the song in the footer)
 
-`make push` is used to write the songsheet to the database.
+Use `make push` to write the songsheet to the database.
 
 Make sure you are using Python 3.6+ and install dependencies with `pip install -r requirements.txt`.
 
