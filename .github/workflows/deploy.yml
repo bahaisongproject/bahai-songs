@@ -1,4 +1,4 @@
-name: Deploy website
+name: Build and deploy song sheets
 on: [push]
 jobs:
   build-and-deploy:
