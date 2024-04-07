@@ -1,6 +1,6 @@
 {title: Ein reines Herz}
 {words: Bahá'u'lláh}
-{music: Salim Khamsi}
+{music: Jakob Hess & S. Khamsi}
 {song_url: https://bsp.app/ein-reines-herz}
 
 
