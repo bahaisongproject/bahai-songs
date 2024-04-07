@@ -17,6 +17,7 @@ def get_music(song):
     """Artists who intoned the text"""
     artists = [contributor['name'] for contributor in song['contributors']]
     artists = [a for a in artists if a is not None]
+    artists.sort()
     if len(artists) == 0 and song['description']:
         return song['description']
     elif len(artists) > 2:
