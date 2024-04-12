@@ -1,6 +1,6 @@
 {title: Remember At All Times}
 {words: Bahá'u'lláh}
-{music: }
+{music: Clara Haskell}
 {song_url: https://bsp.app/remember-at-all-times}
 
 [Am][C][G]
