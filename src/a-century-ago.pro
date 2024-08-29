@@ -1,3 +1,8 @@
+{title: A Century Ago}
+{words: }
+{music: Marvin Dreyer}
+{song_url: https://bsp.app/a-century-ago}
+
 Over a ce[F]ntury ag[G7]o we baha'[C]is certainly well k[Am]now
 of the extra[F]ordinary ev[G]ent that took place h[C]ere on earth.
 Few pe[F]ople had a cl[G7]ue, but every [C]atom was ren[Am]ewed.
