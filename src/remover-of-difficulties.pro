@@ -3,10 +3,14 @@
 {music: }
 {song_url: https://bsp.app/remover-of-difficulties}
 
-Is there any remover of
-difficulties save God?
+{define: F#m/E base-fret 1 frets 0 4 4 2 0 0}
+{define: G#m/E base-fret 3 frets 0 4 4 2 0 0}
 
-Say: Praised be God! He is God!
+[E] [F#m/E] [G#m/E] [F#m/E]
+Is there [E]any Remover of d[F#m/E]ifficulties save G[G#m/E]o-    [F#m/E] d?
+Say: Pr[E]aised be God! H[F#m/E]e is God!
+[G#m/E]All are His servants, and [F#m/E]all abide by His b[E]idding! [F#m/E] [G#m/E] [F#m/E]
 
-All are His servants and all abide
-by His bidding.
+Is there [E]any Remover of d[F#m/E]ifficulties save G[G#m/E]o-    [F#m/E] d?
+Say: Pr[E]aised be God! H[F#m/E]e is God!
+[G#m/E]All are His servants, and [F#m/E]all abide by His b[E]idding!
