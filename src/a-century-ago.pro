@@ -20,3 +20,5 @@ But it's up to [F]us to share the n[G7]ews,
 to all soc[C]iety these tools inf[Am]use,
 assist the s[F]un to shine bright on this w[G7]onderful new D[C]ay.
 
+{c: Source: https://cancionerobahai.blogspot.com/2024/05/a-century-ago.html}
+
