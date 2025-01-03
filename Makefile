@@ -59,13 +59,13 @@ archive:
 
 .PHONY: sync
 sync:
-	python scripts/pull.py
-	python scripts/push.py
+	uv run scripts/pull.py
+	uv run scripts/push.py
 
 .PHONY: push
 push:
-	python scripts/push.py
+	uv run scripts/push.py
 
 .PHONY: pull
 pull:
-	python scripts/pull.py
+	uv run scripts/pull.py
