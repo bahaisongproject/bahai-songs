@@ -1,5 +1,6 @@
 import os
 import subprocess
+import tempfile
 import requests
 import sys
 import json
@@ -131,11 +132,48 @@ def main(args):
             all_translations_joined = "\n\n".join(all_translations_formatted)
         yt_description_data["translation"] = all_translations_joined if all_translations else ""
 
+    # Create temporary file with explicit cleanup
+    with tempfile.NamedTemporaryFile(mode='w+', delete=False, suffix='.txt') as temp_file:
+        temp_path = temp_file.name
 
-    # Lyrics & Chords
-    chordpro_cmd = "chordpro {chordpro_dir}/{slug}.pro --generate=Text"
-    out, err = subprocess.Popen(["chordpro", "{chordpro_dir}/{slug}.pro".format(chordpro_dir=CHORDPRO_DIR, slug=args.slug), "--generate=Text"], stdin=subprocess.PIPE, stderr=subprocess.PIPE, stdout=subprocess.PIPE).communicate()
-    song_sheet_formatted = format_songsheet(out.decode("utf-8"))
+    try:
+        # Verify chordpro installation
+        subprocess.run(["which", "chordpro"], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        
+        # Generate lyrics to temporary file
+        cmd = [
+            "chordpro",
+            f"{CHORDPRO_DIR}/{args.slug}.pro",
+            "--generate=Text",
+            "--no-strict",
+            f"--output={temp_path}",
+        ]
+        
+        result = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            check=True
+        )
+        
+        # Read generated content
+        with open(temp_path, 'r') as f:
+            lyrics = f.read()
+                
+        if result.stderr:
+            print("WARNINGS:\n" + result.stderr)
+
+    except subprocess.CalledProcessError as e:
+        print(f"Error {e.returncode}: {e.stderr or 'Unknown error'}")
+        
+    finally:
+        # Cleanup temporary file
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
+
+
+    song_sheet_formatted = format_songsheet(lyrics)
     yt_description_data["song_sheet"] = song_sheet_formatted
 
     # Music
