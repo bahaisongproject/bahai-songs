@@ -5,6 +5,10 @@
 
 {c: Capo: I}
 
-||: [E]O Son of B[C#m]eing! ||: Thy h[F#]eart is My h[A]ome; s[B]anctify it for My descent. :||
+[E] [C#m] [F#] [A] [B] [E]
 
-||: [C#m]Thy spirit is My place of revel[F#]ation; c[B]leanse it for My manifest[G#]ation. :||
+[C#m]O Son of B[F#]eing! Thy h[A]eart is My h[B]ome; sanctify [E]it for My descent.
+Th[C#m]y heart is My h[F#]ome; s[A]anctify [B]it for My desc[C#m]ent.
+
+Thy spirit is My place of revel[F#]ation; [B]  cleanse it for My manifest[G#]ation.
+[C#m]   Thy spirit is My place of revel[F#]ation; [B] cleanse it for My manifest[G#]ation.
